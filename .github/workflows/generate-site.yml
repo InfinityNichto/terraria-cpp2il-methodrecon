@@ -1,0 +1,41 @@
+name: generate-site
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y graphviz global
+        wget https://www.doxygen.nl/files/doxygen-1.10.0.linux.bin.tar.gz
+
+    - name: Generate Documentation
+      run: |
+        ulimit -H -a
+        tar -xzvf doxygen-1.10.0.linux.bin.tar.gz
+        mv doxygen-1.10.0/bin/doxygen .
+        rm -r doxygen-1.10.0 doxygen-1.10.0.linux.bin.tar.gz
+        chmod +x ./doxygen
+        ./doxygen Doxyfile
+        if [ ! -d "./docs" ]; then
+          mkdir ./docs
+        fi
+        rm -r ./docs doxygen
+        mv html docs
+
+    - name: Commit and push
+      run: |
+        git config user.name "InfinityNichto"
+        git config user.email "u5170201@gmail.com"
+        git add .
+        git commit -m "Commit docs"
+        git pull origin main
+        git push
