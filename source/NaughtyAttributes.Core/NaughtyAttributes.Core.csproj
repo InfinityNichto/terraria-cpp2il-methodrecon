@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NaughtyAttributes.Core</RootNamespace>
+    <AssemblyName>NaughtyAttributes.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="NaughtyAttributes\BoxGroupAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ButtonAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ConditionOperator.cs" />
+    <Compile Include="NaughtyAttributes\DisableIfAttribute.cs" />
+    <Compile Include="NaughtyAttributes\DrawConditionAttribute.cs" />
+    <Compile Include="NaughtyAttributes\DrawerAttribute.cs" />
+    <Compile Include="NaughtyAttributes\DropdownAttribute.cs" />
+    <Compile Include="NaughtyAttributes\DropdownList.cs" />
+    <Compile Include="NaughtyAttributes\EnableIfAttribute.cs" />
+    <Compile Include="NaughtyAttributes\GroupAttribute.cs" />
+    <Compile Include="NaughtyAttributes\HideIfAttribute.cs" />
+    <Compile Include="NaughtyAttributes\IDropdownList.cs" />
+    <Compile Include="NaughtyAttributes\InfoBoxAttribute.cs" />
+    <Compile Include="NaughtyAttributes\InfoBoxType.cs" />
+    <Compile Include="NaughtyAttributes\LabelAttribute.cs" />
+    <Compile Include="NaughtyAttributes\MaxValueAttribute.cs" />
+    <Compile Include="NaughtyAttributes\MetaAttribute.cs" />
+    <Compile Include="NaughtyAttributes\MinMaxSliderAttribute.cs" />
+    <Compile Include="NaughtyAttributes\MinValueAttribute.cs" />
+    <Compile Include="NaughtyAttributes\NaughtyAttribute.cs" />
+    <Compile Include="NaughtyAttributes\OnValueChangedAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ProgressBarAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ProgressBarColor.cs" />
+    <Compile Include="NaughtyAttributes\ReadOnlyAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ReorderableListAttribute.cs" />
+    <Compile Include="NaughtyAttributes\RequiredAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ResizableTextAreaAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ShowAssetPreviewAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ShowIfAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ShowNativePropertyAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ShowNonSerializedFieldAttribute.cs" />
+    <Compile Include="NaughtyAttributes\SliderAttribute.cs" />
+    <Compile Include="NaughtyAttributes\TagAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ValidateInputAttribute.cs" />
+    <Compile Include="NaughtyAttributes\ValidatorAttribute.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

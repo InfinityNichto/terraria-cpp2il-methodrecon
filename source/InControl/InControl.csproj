@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B65579}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InControl</RootNamespace>
+    <AssemblyName>InControl</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="-PrivateImplementationDetails-.cs" />
+    <Compile Include="BindingListenOptions.cs" />
+    <Compile Include="BindingSource.cs" />
+    <Compile Include="BindingSourceListener.cs" />
+    <Compile Include="BindingSourceRejectionType.cs" />
+    <Compile Include="BindingSourceType.cs" />
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="DeadZone.cs" />
+    <Compile Include="DeadZoneFunc.cs" />
+    <Compile Include="DeviceBindingSource.cs" />
+    <Compile Include="DeviceBindingSourceListener.cs" />
+    <Compile Include="DragAxis.cs" />
+    <Compile Include="HexadecimalAttribute.cs" />
+    <Compile Include="IInputControl.cs" />
+    <Compile Include="InControlException.cs" />
+    <Compile Include="InControlInputModule.cs" />
+    <Compile Include="InControlManager.cs" />
+    <Compile Include="InControlUpdateMode.cs" />
+    <Compile Include="InputControl.cs" />
+    <Compile Include="InputControlMapping.cs" />
+    <Compile Include="InputControlSource.cs" />
+    <Compile Include="InputControlSourceType.cs" />
+    <Compile Include="InputControlState.cs" />
+    <Compile Include="InputControlType.cs" />
+    <Compile Include="InputDevice.cs" />
+    <Compile Include="InputDeviceClass.cs" />
+    <Compile Include="InputDeviceDriverType.cs" />
+    <Compile Include="InputDeviceInfo.cs" />
+    <Compile Include="InputDeviceManager.cs" />
+    <Compile Include="InputDeviceMatcher.cs" />
+    <Compile Include="InputDeviceProfile.cs" />
+    <Compile Include="InputDeviceProfileType.cs" />
+    <Compile Include="InputDeviceStyle.cs" />
+    <Compile Include="InputDeviceTransportType.cs" />
+    <Compile Include="InputManager.cs" />
+    <Compile Include="InputRange.cs" />
+    <Compile Include="InputRangeType.cs" />
+    <Compile Include="Internal\CodeWriter.cs" />
+    <Compile Include="Internal\RingBuffer.cs" />
+    <Compile Include="IUpdateable.cs" />
+    <Compile Include="Key.cs" />
+    <Compile Include="KeyBindingSource.cs" />
+    <Compile Include="KeyBindingSourceListener.cs" />
+    <Compile Include="KeyCombo.cs" />
+    <Compile Include="KeyInfo.cs" />
+    <Compile Include="LockAxis.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="LogMessage.cs" />
+    <Compile Include="LogMessageType.cs" />
+    <Compile Include="MarshalUtility.cs" />
+    <Compile Include="Mouse.cs" />
+    <Compile Include="MouseBindingSource.cs" />
+    <Compile Include="MouseBindingSourceListener.cs" />
+    <Compile Include="Native.cs" />
+    <Compile Include="NativeDeviceProfiles\AfterglowXbox360WindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\AirFloControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\AirFloPS3WindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\AppleMFiExtendedGamepadNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\AppleMFiMicroGamepadNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ArdwiinoControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\AtPlayControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BatarangControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BETAOPControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BigBenControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BrookNeoGeoConverterMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BrookPS2ConverterMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BuffaloClassicMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\BuffaloClassicWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\DragonRiseArcadeStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\DualShock4MFiNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EASportsControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoNES30ProBTMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoNES30ProUSBMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoNES30ProWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoSF30ProWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoSFC30MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoSFC30WindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoSNES30MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\EightBitdoSNES30WindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ElecomControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\FusionXboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\GameCubeMayflashWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\GameCubeWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\GameStopControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\GoogleStadiaMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\GoogleStadiaWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\GuitarHeroControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HarmonixDrumKitMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HarmonixGuitarMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HarmonixKeyboardMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoneyBeeControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriBlueSoloControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriDOA4ArcadeStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriEdgeFightingStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriEX2ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HORIFightingCommanderControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriFightingCommanderMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriFightingEdgeArcadeStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriFightingStickEX2MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriFightingStickMiniMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriFightingStickVXMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriFightStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriPadEXTurboControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriPadUltimateMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRAPNFightingStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProEXMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProEXPremiumVLXMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProEXSEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProHayabusaMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProIVMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProVHayabusaMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProVKaiFightingStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProVXMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriRealArcadeProVXSAMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HoriXbox360GemPadExMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\HyperkinX91MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\InjusticeFightStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\IonDrumRockerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\JoytekXbox360ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\KiwitataNESWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\KonamiDancePadMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechChillStreamControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechDriveFXRacingWheelMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF310ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF310ModeDMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF310ModeDWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF310ModeXWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF510ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF510ModeDMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF510ModeDWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF510ModeXWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF710ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF710ModeDMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF710ModeDWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechF710ModeXWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechG920RacingWheelMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\LogitechThunderpadMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzArcadeStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzBeatPadMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzBrawlStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzCODControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzFightPadControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzFightPadMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzFightStickTE2MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzFightStickTESPlusMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzFPSProMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzGhostReconFightingStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzInnoControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzMC2ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzMC2RacingWheelMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzMicroConControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzMicroControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzMLGFightStickTEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzNeoFightStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzPortableDrumMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzProControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSaitekAV8R02MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSF4FightStickRound2TEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSF4FightStickSEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSF4FightStickTEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSoulCaliberFightStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSSF4ChunLiFightStickTEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MadCatzSSF4FightStickTEMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MatCatzControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MayflashMagicNSMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\McbazelAdapterMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MicrosoftAdaptiveControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MicrosoftXbox360ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MicrosoftXboxControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MicrosoftXboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MicrosoftXboxOneEliteControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MKKlassikFightStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MLGControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\MVCTEStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\NaconGC100XFControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\NintendoSwitchProMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\NintendoSwitchProWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\NVidiaShieldWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\OUYAWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PCTWINSHOCKWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPAfterglowControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPAfterglowPrismaticControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPBattlefieldXBoxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPMarvelControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPMetallicsLEControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPTitanfall2XboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPTronControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPVersusControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPXbox360ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPXboxOneArcadeStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PDPXboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PlayStation3MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PlayStation4MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PlayStation4WindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PowerAAirflowControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\POWERAFUS1ONTournamentControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PowerAMiniControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PowerAMiniProExControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PowerAMiniXboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PowerANintendoSwitchMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\PowerASpectraIlluminatedControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ProEXXbox360ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ProEXXboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\QanbaFightStickPlusMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerAtroxArcadeStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerOnzaControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerOnzaTEControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerSabertoothEliteControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerServalWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerStrikeControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerWildcatControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RazerWolverineUltimateControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RedOctaneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RedOctaneGuitarMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RockBandDrumsMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RockBandGuitarMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RockCandyControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RockCandyPS3ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RockCandyXbox360ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\RockCandyXboxOneControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\SaitekXbox360ControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\SteamWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\SteelseriesNimbusMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ThrustMasterFerrari430RacingWheelMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ThrustmasterFerrari458RacingWheelMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ThrustMasterFerrari458SpiderRacingWheelMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ThrustmasterGPXControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ThrustmasterTMXMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\ThrustmasterTXGIPMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\TrustPredatorJoystickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\TSZPelicanControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\Xbox360DriverMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\Xbox360MortalKombatFightStickMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\Xbox360ProEXControllerMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\Xbox360WiredWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\Xbox360WirelessWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneDriverMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneEliteWindows10AENativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneEliteWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneMFiNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneSMacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneWindows10AENativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneWindows10NativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XboxOneWirelessAdapterWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XInputWindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XTR55_G2_MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XTR55_G2_WindowsNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XTR_G2_MacNativeProfile.cs" />
+    <Compile Include="NativeDeviceProfiles\XTR_G2_WindowsNativeProfile.cs" />
+    <Compile Include="NativeInputDevice.cs" />
+    <Compile Include="NativeInputDeviceManager.cs" />
+    <Compile Include="NativeInputDeviceProfileAttribute.cs" />
+    <Compile Include="NativeInputDeviceProfileList.cs" />
+    <Compile Include="NativeInputOptions.cs" />
+    <Compile Include="NativeVersionInfo.cs" />
+    <Compile Include="OneAxisInputControl.cs" />
+    <Compile Include="OptionalFloat.cs" />
+    <Compile Include="OptionalInputDeviceDriverType.cs" />
+    <Compile Include="OptionalInputDeviceTransportType.cs" />
+    <Compile Include="OptionalInt16.cs" />
+    <Compile Include="OptionalInt32.cs" />
+    <Compile Include="OptionalTypeHasNoValueException.cs" />
+    <Compile Include="OptionalUInt16.cs" />
+    <Compile Include="OptionalUInt32.cs" />
+    <Compile Include="OuyaEverywhereDevice.cs" />
+    <Compile Include="OuyaEverywhereDeviceManager.cs" />
+    <Compile Include="PlayerAction.cs" />
+    <Compile Include="PlayerActionSet.cs" />
+    <Compile Include="PlayerOneAxisAction.cs" />
+    <Compile Include="PlayerTwoAxisAction.cs" />
+    <Compile Include="PreserveAttribute.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reflector.cs" />
+    <Compile Include="SingletonMonoBehavior.cs" />
+    <Compile Include="TestInputManager.cs" />
+    <Compile Include="ThreadSafeQueue.cs" />
+    <Compile Include="Touch.cs" />
+    <Compile Include="TouchButtonControl.cs" />
+    <Compile Include="TouchControl.cs" />
+    <Compile Include="TouchControlAnchor.cs" />
+    <Compile Include="TouchInputDevice.cs" />
+    <Compile Include="TouchManager.cs" />
+    <Compile Include="TouchPool.cs" />
+    <Compile Include="TouchSprite.cs" />
+    <Compile Include="TouchSpriteShape.cs" />
+    <Compile Include="TouchStickControl.cs" />
+    <Compile Include="TouchSwipeControl.cs" />
+    <Compile Include="TouchTrackControl.cs" />
+    <Compile Include="TouchType.cs" />
+    <Compile Include="TouchUnitType.cs" />
+    <Compile Include="TouchUtility.cs" />
+    <Compile Include="TwoAxisInputControl.cs" />
+    <Compile Include="UnityDeviceProfiles\AirFloWiredPS3MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AirFloWiredPS3WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AmazonFireTVRemoteUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AmazonFireTVUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AndroidTVAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AndroidTVMiBoxRemoteUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AndroidTVRemoteUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AndroidTVUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AppleMFiUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AppleTVRemoteUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\AppleTVWirelessControllerUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BeboncoolDA015CAAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BetopBTP2175sWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BetopBTPAX1TAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BetopBTPGenericAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BTC938AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BuffaloClassicAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BuffaloClassicMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\BuffaloClassicWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\CustomInputDeviceProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\DroidBoxPS3AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\DroidBoxXboxAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EasySmxEsm9101AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoFC30ProAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoGenericAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoN30Pro2AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoNES30ProAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoNES30ProMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoNES30ProWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSF30ProAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSFC30AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSFC30MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSFC30WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSN30ProAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSNES30AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSNES30MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\EightBitdoSNES30WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\ExecutionerXMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\ExecutionerXWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\FixXBG301AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\FlareAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\FlarePlayAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameCubeMayflashWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameCubeWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameSirG3sAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameSirG3wAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameSirG4sAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameStickLinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GameStickUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GenericAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GenericBlackBerryUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GenericLinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GoogleStadiaMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GoogleStadiaUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GoogleStadiaWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\GreenThrottleAtlasAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\HamaBlackForceWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\HavitHVG95WLinuxProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\IpegaPG9021AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\IpegaPG9023AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\IpegaPG9025AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\IpegaPG9037AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\IpegaPG9055AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\IpegaPG9068AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LevelUpBlackHawkWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF310LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF310ModeDMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF310ModeDWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF310ModeXMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF310ModeXWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF510LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF510ModeDMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF510ModeDWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF510ModeXMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF510ModeXWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF710LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF710MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF710ModeDWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechF710ModeXWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechModeDAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechModeXAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\LogitechWingManWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MadCatzCTRLRAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MadCatzCTRLRAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MadCatzMicroCTRLRAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MaxFireBlaze5WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MogaHeroPowerAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MogaProAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MogaProLinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MogaProMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MogaProPowerAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\MogaProWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NatecGenesisP44WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NexusPlayerAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NexusPlayerMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NexusPlayerRemoteAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NexusPlayerWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NintendoSwitchProAndroidProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NintendoSwitchProMacChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NintendoSwitchProWindowsChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NVidiaShield2016AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NVidiaShield2017AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NvidiaShieldRemoteAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NVidiaShieldWindows10UnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NVidiaShieldWindows81UnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NVidiaShieldWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\NykoPlayPadProAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\OuyaAmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\OuyaLinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\OuyaWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation2LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation2WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation3AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation3BWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation3LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation3MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation3ShenghicWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation3WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4AmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4AndroidXperiaZ5UnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4MacBluetoothUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4MacChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4MacFirefoxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4MacUSBUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4SteamLinkMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4TouchpadAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4UnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4WindowsChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4WindowsFirefoxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStation4WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\PlayStationVitaPSMUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\RazerServalForgeTVUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\RazerServalMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\RedSamuraiAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SaitekAviatorWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SamsungGP20AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SpeedlinkStrikeMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SpeedlinkStrikeWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SteelSeriesFreeAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SteelSeriesFreeLinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SteelSeriesFreeMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SteelSeriesFreeWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SteelSeriesStratusXLAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\SteelSeriesStratusXLWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\ValveStreamingWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360AmazonUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360AndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360LinuxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360MacChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360MacFirefoxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360MacSafariUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360RockCandyAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\Xbox360WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneBluetoothAndroidUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneMacChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneMacFirefoxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneMacSafariUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneWindows10AEUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneWindows10UnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XboxOneWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XiamoiWindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XiaomiMacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XInputWindowsChromeUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XInputWindowsFirefoxUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XTR55_G2_MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XTR55_G2_WindowsUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XTR_G2_MacUnityProfile.cs" />
+    <Compile Include="UnityDeviceProfiles\XTR_G2_WindowsUnityProfile.cs" />
+    <Compile Include="UnityInputDevice.cs" />
+    <Compile Include="UnityInputDeviceManager.cs" />
+    <Compile Include="UnityInputDeviceProfileAttribute.cs" />
+    <Compile Include="UnityInputDeviceProfileList.cs" />
+    <Compile Include="UnknownDeviceBindingSource.cs" />
+    <Compile Include="UnknownDeviceBindingSourceListener.cs" />
+    <Compile Include="UnknownDeviceControl.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="VersionInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Newtonsoft.Json\Newtonsoft.Json.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557F}</Project>
+      <Name>Newtonsoft.Json</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System.Core\System.Core.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65581}</Project>
+      <Name>System.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System\System.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65582}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.CoreModule\UnityEngine.CoreModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558A}</Project>
+      <Name>UnityEngine.CoreModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.IMGUIModule\UnityEngine.IMGUIModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558D}</Project>
+      <Name>UnityEngine.IMGUIModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.InputLegacyModule\UnityEngine.InputLegacyModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558E}</Project>
+      <Name>UnityEngine.InputLegacyModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.TextRenderingModule\UnityEngine.TextRenderingModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65593}</Project>
+      <Name>UnityEngine.TextRenderingModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.UI\UnityEngine.UI.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65594}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

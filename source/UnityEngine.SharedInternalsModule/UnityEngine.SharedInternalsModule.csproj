@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B65591}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UnityEngine.SharedInternalsModule</RootNamespace>
+    <AssemblyName>UnityEngine.SharedInternalsModule</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnityEngine\AssetFileNameExtensionAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\CodegenOptions.cs" />
+    <Compile Include="UnityEngine\Bindings\FreeFunctionAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\IgnoreAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeAsStructAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeConditionalAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeHeaderAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeMethodAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeNameAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativePropertyAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeThrowsAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeTypeAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NativeWritableSelfAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\NotNullAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\PreventReadOnlyInstanceModificationAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\StaticAccessorAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\StaticAccessorType.cs" />
+    <Compile Include="UnityEngine\Bindings\TargetType.cs" />
+    <Compile Include="UnityEngine\Bindings\ThreadSafeAttribute.cs" />
+    <Compile Include="UnityEngine\Bindings\VisibleToOtherModulesAttribute.cs" />
+    <Compile Include="UnityEngine\NativeClassAttribute.cs" />
+    <Compile Include="UnityEngine\Scripting\RequiredByNativeCodeAttribute.cs" />
+    <Compile Include="UnityEngine\Scripting\UsedByNativeCodeAttribute.cs" />
+    <Compile Include="UnityEngine\ThreadAndSerializationSafeAttribute.cs" />
+    <Compile Include="UnityEngine\UnityEngineModuleAssembly.cs" />
+    <Compile Include="UnityEngine\UnityString.cs" />
+    <Compile Include="UnityEngine\WritableAttribute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

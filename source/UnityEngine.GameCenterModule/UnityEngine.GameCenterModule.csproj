@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UnityEngine.GameCenterModule</RootNamespace>
+    <AssemblyName>UnityEngine.GameCenterModule</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnityEngine\Social.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\ActivePlatform.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\ILocalUser.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Impl\Achievement.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Impl\AchievementDescription.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Impl\Leaderboard.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Impl\LocalUser.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Impl\Score.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Impl\UserProfile.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\IScore.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\ISocialPlatform.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\IUserProfile.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Local.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\Range.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\TimeScope.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\UserScope.cs" />
+    <Compile Include="UnityEngine\SocialPlatforms\UserState.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.CoreModule\UnityEngine.CoreModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558A}</Project>
+      <Name>UnityEngine.CoreModule</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

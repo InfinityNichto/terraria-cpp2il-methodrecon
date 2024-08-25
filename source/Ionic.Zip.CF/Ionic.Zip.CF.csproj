@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ionic.Zip.CF</RootNamespace>
+    <AssemblyName>Ionic.Zip.CF</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="-PrivateImplementationDetails-{3D63C7F2-9FA1-46C2-9CAE-E2932.cs" />
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="Ionic\BZip2\BitWriter.cs" />
+    <Compile Include="Ionic\BZip2\BZip2.cs" />
+    <Compile Include="Ionic\BZip2\BZip2Compressor.cs" />
+    <Compile Include="Ionic\BZip2\BZip2InputStream.cs" />
+    <Compile Include="Ionic\BZip2\BZip2OutputStream.cs" />
+    <Compile Include="Ionic\BZip2\Rand.cs" />
+    <Compile Include="Ionic\Crc\CRC32.cs" />
+    <Compile Include="Ionic\Crc\CrcCalculatorStream.cs" />
+    <Compile Include="Ionic\Zip\AddOrUpdateAction.cs" />
+    <Compile Include="Ionic\Zip\AddProgressEventArgs.cs" />
+    <Compile Include="Ionic\Zip\BadCrcException.cs" />
+    <Compile Include="Ionic\Zip\BadPasswordException.cs" />
+    <Compile Include="Ionic\Zip\BadReadException.cs" />
+    <Compile Include="Ionic\Zip\BadStateException.cs" />
+    <Compile Include="Ionic\Zip\CloseDelegate.cs" />
+    <Compile Include="Ionic\Zip\ComHelper.cs" />
+    <Compile Include="Ionic\Zip\CompressionMethod.cs" />
+    <Compile Include="Ionic\Zip\CountingStream.cs" />
+    <Compile Include="Ionic\Zip\CryptoMode.cs" />
+    <Compile Include="Ionic\Zip\EncryptionAlgorithm.cs" />
+    <Compile Include="Ionic\Zip\ExtractExistingFileAction.cs" />
+    <Compile Include="Ionic\Zip\ExtractProgressEventArgs.cs" />
+    <Compile Include="Ionic\Zip\NetCfFile.cs" />
+    <Compile Include="Ionic\Zip\OffsetStream.cs" />
+    <Compile Include="Ionic\Zip\OpenDelegate.cs" />
+    <Compile Include="Ionic\Zip\ReadOptions.cs" />
+    <Compile Include="Ionic\Zip\ReadProgressEventArgs.cs" />
+    <Compile Include="Ionic\Zip\SaveProgressEventArgs.cs" />
+    <Compile Include="Ionic\Zip\SetCompressionCallback.cs" />
+    <Compile Include="Ionic\Zip\SfxGenerationException.cs" />
+    <Compile Include="Ionic\Zip\SharedUtilities.cs" />
+    <Compile Include="Ionic\Zip\WriteDelegate.cs" />
+    <Compile Include="Ionic\Zip\Zip64Option.cs" />
+    <Compile Include="Ionic\Zip\ZipCipherStream.cs" />
+    <Compile Include="Ionic\Zip\ZipConstants.cs" />
+    <Compile Include="Ionic\Zip\ZipContainer.cs" />
+    <Compile Include="Ionic\Zip\ZipCrypto.cs" />
+    <Compile Include="Ionic\Zip\ZipEntry.cs" />
+    <Compile Include="Ionic\Zip\ZipEntrySource.cs" />
+    <Compile Include="Ionic\Zip\ZipEntryTimestamp.cs" />
+    <Compile Include="Ionic\Zip\ZipErrorAction.cs" />
+    <Compile Include="Ionic\Zip\ZipErrorEventArgs.cs" />
+    <Compile Include="Ionic\Zip\ZipException.cs" />
+    <Compile Include="Ionic\Zip\ZipFile.cs" />
+    <Compile Include="Ionic\Zip\ZipInputStream.cs" />
+    <Compile Include="Ionic\Zip\ZipOption.cs" />
+    <Compile Include="Ionic\Zip\ZipOutput.cs" />
+    <Compile Include="Ionic\Zip\ZipOutputStream.cs" />
+    <Compile Include="Ionic\Zip\ZipProgressEventArgs.cs" />
+    <Compile Include="Ionic\Zip\ZipProgressEventType.cs" />
+    <Compile Include="Ionic\Zip\ZipSegmentedStream.cs" />
+    <Compile Include="Ionic\Zlib\Adler.cs" />
+    <Compile Include="Ionic\Zlib\BlockState.cs" />
+    <Compile Include="Ionic\Zlib\CompressionLevel.cs" />
+    <Compile Include="Ionic\Zlib\CompressionMode.cs" />
+    <Compile Include="Ionic\Zlib\CompressionStrategy.cs" />
+    <Compile Include="Ionic\Zlib\DeflateFlavor.cs" />
+    <Compile Include="Ionic\Zlib\DeflateManager.cs" />
+    <Compile Include="Ionic\Zlib\DeflateStream.cs" />
+    <Compile Include="Ionic\Zlib\FlushType.cs" />
+    <Compile Include="Ionic\Zlib\GZipStream.cs" />
+    <Compile Include="Ionic\Zlib\InflateBlocks.cs" />
+    <Compile Include="Ionic\Zlib\InflateCodes.cs" />
+    <Compile Include="Ionic\Zlib\InflateManager.cs" />
+    <Compile Include="Ionic\Zlib\InfTree.cs" />
+    <Compile Include="Ionic\Zlib\InternalConstants.cs" />
+    <Compile Include="Ionic\Zlib\InternalInflateConstants.cs" />
+    <Compile Include="Ionic\Zlib\SharedUtils.cs" />
+    <Compile Include="Ionic\Zlib\StaticTree.cs" />
+    <Compile Include="Ionic\Zlib\Tree.cs" />
+    <Compile Include="Ionic\Zlib\ZlibBaseStream.cs" />
+    <Compile Include="Ionic\Zlib\ZlibCodec.cs" />
+    <Compile Include="Ionic\Zlib\ZlibConstants.cs" />
+    <Compile Include="Ionic\Zlib\ZlibException.cs" />
+    <Compile Include="Ionic\Zlib\ZlibStream.cs" />
+    <Compile Include="Ionic\Zlib\ZlibStreamFlavor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System\System.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65582}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

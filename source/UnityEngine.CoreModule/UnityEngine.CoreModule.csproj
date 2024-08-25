@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UnityEngine.CoreModule</RootNamespace>
+    <AssemblyName>UnityEngine.CoreModule</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="Microsoft\CodeAnalysis\EmbeddedAttribute.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System\Runtime\CompilerServices\IsReadOnlyAttribute.cs" />
+    <Compile Include="UnityEngineInternal\GenericStack.cs" />
+    <Compile Include="UnityEngineInternal\MathfInternal.cs" />
+    <Compile Include="UnityEngineInternal\TypeInferenceRuleAttribute.cs" />
+    <Compile Include="UnityEngineInternal\TypeInferenceRules.cs" />
+    <Compile Include="UnityEngine\AddComponentMenu.cs" />
+    <Compile Include="UnityEngine\AnimationCurve.cs" />
+    <Compile Include="UnityEngine\Application.cs" />
+    <Compile Include="UnityEngine\AssemblyIsEditorAssembly.cs" />
+    <Compile Include="UnityEngine\AsyncOperation.cs" />
+    <Compile Include="UnityEngine\AttributeHelperEngine.cs" />
+    <Compile Include="UnityEngine\BeforeRenderHelper.cs" />
+    <Compile Include="UnityEngine\Behaviour.cs" />
+    <Compile Include="UnityEngine\BootConfigData.cs" />
+    <Compile Include="UnityEngine\Bounds.cs" />
+    <Compile Include="UnityEngine\Camera.cs" />
+    <Compile Include="UnityEngine\CameraClearFlags.cs" />
+    <Compile Include="UnityEngine\CastHelper.cs" />
+    <Compile Include="UnityEngine\ClassLibraryInitializer.cs" />
+    <Compile Include="UnityEngine\Color.cs" />
+    <Compile Include="UnityEngine\Color32.cs" />
+    <Compile Include="UnityEngine\ColorSpace.cs" />
+    <Compile Include="UnityEngine\Component.cs" />
+    <Compile Include="UnityEngine\ComputeShader.cs" />
+    <Compile Include="UnityEngine\ContextMenu.cs" />
+    <Compile Include="UnityEngine\Coroutine.cs" />
+    <Compile Include="UnityEngine\Cubemap.cs" />
+    <Compile Include="UnityEngine\CubemapArray.cs" />
+    <Compile Include="UnityEngine\CullingGroup.cs" />
+    <Compile Include="UnityEngine\CullingGroupEvent.cs" />
+    <Compile Include="UnityEngine\Cursor.cs" />
+    <Compile Include="UnityEngine\CursorLockMode.cs" />
+    <Compile Include="UnityEngine\CustomRenderTexture.cs" />
+    <Compile Include="UnityEngine\CustomRenderTextureManager.cs" />
+    <Compile Include="UnityEngine\CustomYieldInstruction.cs" />
+    <Compile Include="UnityEngine\Debug.cs" />
+    <Compile Include="UnityEngine\DebugLogHandler.cs" />
+    <Compile Include="UnityEngine\DefaultExecutionOrder.cs" />
+    <Compile Include="UnityEngine\DisallowMultipleComponent.cs" />
+    <Compile Include="UnityEngine\Display.cs" />
+    <Compile Include="UnityEngine\DrivenRectTransformTracker.cs" />
+    <Compile Include="UnityEngine\DrivenTransformProperties.cs" />
+    <Compile Include="UnityEngine\Events\ArgumentCache.cs" />
+    <Compile Include="UnityEngine\Events\BaseInvokableCall.cs" />
+    <Compile Include="UnityEngine\Events\CachedInvokableCall.cs" />
+    <Compile Include="UnityEngine\Events\InvokableCall.2.cs" />
+    <Compile Include="UnityEngine\Events\InvokableCall.3.cs" />
+    <Compile Include="UnityEngine\Events\InvokableCall.4.cs" />
+    <Compile Include="UnityEngine\Events\InvokableCall.5.cs" />
+    <Compile Include="UnityEngine\Events\InvokableCall.cs" />
+    <Compile Include="UnityEngine\Events\InvokableCallList.cs" />
+    <Compile Include="UnityEngine\Events\PersistentCall.cs" />
+    <Compile Include="UnityEngine\Events\PersistentCallGroup.cs" />
+    <Compile Include="UnityEngine\Events\PersistentListenerMode.cs" />
+    <Compile Include="UnityEngine\Events\UnityAction.2.cs" />
+    <Compile Include="UnityEngine\Events\UnityAction.3.cs" />
+    <Compile Include="UnityEngine\Events\UnityAction.4.cs" />
+    <Compile Include="UnityEngine\Events\UnityAction.5.cs" />
+    <Compile Include="UnityEngine\Events\UnityAction.cs" />
+    <Compile Include="UnityEngine\Events\UnityEvent.2.cs" />
+    <Compile Include="UnityEngine\Events\UnityEvent.3.cs" />
+    <Compile Include="UnityEngine\Events\UnityEvent.4.cs" />
+    <Compile Include="UnityEngine\Events\UnityEvent.5.cs" />
+    <Compile Include="UnityEngine\Events\UnityEvent.cs" />
+    <Compile Include="UnityEngine\Events\UnityEventBase.cs" />
+    <Compile Include="UnityEngine\Events\UnityEventCallState.cs" />
+    <Compile Include="UnityEngine\Events\UnityEventTools.cs" />
+    <Compile Include="UnityEngine\ExcludeFromObjectFactoryAttribute.cs" />
+    <Compile Include="UnityEngine\ExcludeFromPresetAttribute.cs" />
+    <Compile Include="UnityEngine\ExecuteAlways.cs" />
+    <Compile Include="UnityEngine\ExecuteInEditMode.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\AngularFalloffType.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\Cookie.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\DirectionalLight.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\DiscLight.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\FalloffType.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\LightDataGI.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\LightmapperUtils.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\Lightmapping.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\LightMode.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\LightType.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\LinearColor.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\PointLight.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\RectangleLight.cs" />
+    <Compile Include="UnityEngine\Experimental\GlobalIllumination\SpotLight.cs" />
+    <Compile Include="UnityEngine\Experimental\Playables\CameraPlayable.cs" />
+    <Compile Include="UnityEngine\Experimental\Playables\MaterialEffectPlayable.cs" />
+    <Compile Include="UnityEngine\Experimental\Playables\TextureMixerPlayable.cs" />
+    <Compile Include="UnityEngine\Experimental\Playables\TexturePlayableOutput.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\BuiltinRuntimeReflectionSystem.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\DefaultFormat.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\FormatUsage.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\GraphicsFormat.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\GraphicsFormatUtility.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\IScriptableRuntimeReflectionSystem.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\ScriptableRuntimeReflectionSystemSettings.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\ScriptableRuntimeReflectionSystemWrapper.cs" />
+    <Compile Include="UnityEngine\Experimental\Rendering\TextureCreationFlags.cs" />
+    <Compile Include="UnityEngine\Experimental\U2D\SpriteIntermediateRendererInfo.cs" />
+    <Compile Include="UnityEngine\Experimental\U2D\SpriteRendererGroup.cs" />
+    <Compile Include="UnityEngine\ExtensionOfNativeClassAttribute.cs" />
+    <Compile Include="UnityEngine\FailedToLoadScriptObject.cs" />
+    <Compile Include="UnityEngine\FilterMode.cs" />
+    <Compile Include="UnityEngine\GameObject.cs" />
+    <Compile Include="UnityEngine\Gizmos.cs" />
+    <Compile Include="UnityEngine\Gradient.cs" />
+    <Compile Include="UnityEngine\Graphics.cs" />
+    <Compile Include="UnityEngine\HeaderAttribute.cs" />
+    <Compile Include="UnityEngine\HideFlags.cs" />
+    <Compile Include="UnityEngine\HideInInspector.cs" />
+    <Compile Include="UnityEngine\ILogger.cs" />
+    <Compile Include="UnityEngine\ILogHandler.cs" />
+    <Compile Include="UnityEngine\InspectorNameAttribute.cs" />
+    <Compile Include="UnityEngine\Internal\DefaultValueAttribute.cs" />
+    <Compile Include="UnityEngine\Internal\ExcludeFromDocsAttribute.cs" />
+    <Compile Include="UnityEngine\IPlayerEditorConnectionNative.cs" />
+    <Compile Include="UnityEngine\ISerializationCallbackReceiver.cs" />
+    <Compile Include="UnityEngine\KeyCode.cs" />
+    <Compile Include="UnityEngine\Keyframe.cs" />
+    <Compile Include="UnityEngine\LayerMask.cs" />
+    <Compile Include="UnityEngine\Light.cs" />
+    <Compile Include="UnityEngine\LightBakingOutput.cs" />
+    <Compile Include="UnityEngine\LightingSettings.cs" />
+    <Compile Include="UnityEngine\LightmapBakeType.cs" />
+    <Compile Include="UnityEngine\LightmapSettings.cs" />
+    <Compile Include="UnityEngine\LightmapsMode.cs" />
+    <Compile Include="UnityEngine\LightProbes.cs" />
+    <Compile Include="UnityEngine\LightShadows.cs" />
+    <Compile Include="UnityEngine\LightType.cs" />
+    <Compile Include="UnityEngine\Logger.cs" />
+    <Compile Include="UnityEngine\LogOption.cs" />
+    <Compile Include="UnityEngine\LogType.cs" />
+    <Compile Include="UnityEngine\LowerResBlitTexture.cs" />
+    <Compile Include="UnityEngine\LowLevel\PlayerLoopSystem.cs" />
+    <Compile Include="UnityEngine\LowLevel\PlayerLoopSystemInternal.cs" />
+    <Compile Include="UnityEngine\ManagedStreamHelpers.cs" />
+    <Compile Include="UnityEngine\Material.cs" />
+    <Compile Include="UnityEngine\Mathf.cs" />
+    <Compile Include="UnityEngine\Matrix4x4.cs" />
+    <Compile Include="UnityEngine\Mesh.cs" />
+    <Compile Include="UnityEngine\MeshFilter.cs" />
+    <Compile Include="UnityEngine\MeshRenderer.cs" />
+    <Compile Include="UnityEngine\MeshTopology.cs" />
+    <Compile Include="UnityEngine\MixedLightingMode.cs" />
+    <Compile Include="UnityEngine\MonoBehaviour.cs" />
+    <Compile Include="UnityEngine\MultilineAttribute.cs" />
+    <Compile Include="UnityEngine\Networking\PlayerConnection\MessageEventArgs.cs" />
+    <Compile Include="UnityEngine\Networking\PlayerConnection\PlayerConnection.cs" />
+    <Compile Include="UnityEngine\Networking\PlayerConnection\PlayerEditorConnectionEvents.cs" />
+    <Compile Include="UnityEngine\NetworkReachability.cs" />
+    <Compile Include="UnityEngine\NoAllocHelpers.cs" />
+    <Compile Include="UnityEngine\Object.cs" />
+    <Compile Include="UnityEngine\OperatingSystemFamily.cs" />
+    <Compile Include="UnityEngine\Plane.cs" />
+    <Compile Include="UnityEngine\Playables\FrameData.cs" />
+    <Compile Include="UnityEngine\Playables\INotification.cs" />
+    <Compile Include="UnityEngine\Playables\INotificationReceiver.cs" />
+    <Compile Include="UnityEngine\Playables\IPlayableBehaviour.cs" />
+    <Compile Include="UnityEngine\Playables\Playable.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableAsset.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableBehaviour.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableBinding.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableGraph.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableHandle.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableOutput.cs" />
+    <Compile Include="UnityEngine\Playables\PlayableOutputHandle.cs" />
+    <Compile Include="UnityEngine\Playables\ScriptPlayableOutput.cs" />
+    <Compile Include="UnityEngine\PlayerConnectionInternal.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\EarlyUpdate.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\FixedUpdate.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\Initialization.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\PostLateUpdate.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\PreLateUpdate.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\PreUpdate.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\TimeUpdate.cs" />
+    <Compile Include="UnityEngine\PlayerLoop\Update.cs" />
+    <Compile Include="UnityEngine\PlayerPrefs.cs" />
+    <Compile Include="UnityEngine\PlayerPrefsException.cs" />
+    <Compile Include="UnityEngine\Pool\CollectionPool.cs" />
+    <Compile Include="UnityEngine\Pool\ObjectPool.cs" />
+    <Compile Include="UnityEngine\PreferBinarySerialization.cs" />
+    <Compile Include="UnityEngine\PreloadData.cs" />
+    <Compile Include="UnityEngine\Profiling\Experimental\DebugScreenCapture.cs" />
+    <Compile Include="UnityEngine\Profiling\Memory\Experimental\MemoryProfiler.cs" />
+    <Compile Include="UnityEngine\Profiling\Memory\Experimental\MetaData.cs" />
+    <Compile Include="UnityEngine\Profiling\Profiler.cs" />
+    <Compile Include="UnityEngine\PropertyAttribute.cs" />
+    <Compile Include="UnityEngine\QualitySettings.cs" />
+    <Compile Include="UnityEngine\Quaternion.cs" />
+    <Compile Include="UnityEngine\Random.cs" />
+    <Compile Include="UnityEngine\RangeAttribute.cs" />
+    <Compile Include="UnityEngine\RangeInt.cs" />
+    <Compile Include="UnityEngine\Ray.cs" />
+    <Compile Include="UnityEngine\Rect.cs" />
+    <Compile Include="UnityEngine\RectOffset.cs" />
+    <Compile Include="UnityEngine\RectTransform.cs" />
+    <Compile Include="UnityEngine\ReflectionProbe.cs" />
+    <Compile Include="UnityEngine\Renderer.cs" />
+    <Compile Include="UnityEngine\Rendering\BatchCullingContext.cs" />
+    <Compile Include="UnityEngine\Rendering\BatchRendererCullingOutput.cs" />
+    <Compile Include="UnityEngine\Rendering\BatchRendererGroup.cs" />
+    <Compile Include="UnityEngine\Rendering\BatchVisibility.cs" />
+    <Compile Include="UnityEngine\Rendering\ColorWriteMask.cs" />
+    <Compile Include="UnityEngine\Rendering\CompareFunction.cs" />
+    <Compile Include="UnityEngine\Rendering\GraphicsSettings.cs" />
+    <Compile Include="UnityEngine\Rendering\IndexFormat.cs" />
+    <Compile Include="UnityEngine\Rendering\LODParameters.cs" />
+    <Compile Include="UnityEngine\Rendering\MeshUpdateFlags.cs" />
+    <Compile Include="UnityEngine\Rendering\OnDemandRendering.cs" />
+    <Compile Include="UnityEngine\Rendering\RenderPipeline.cs" />
+    <Compile Include="UnityEngine\Rendering\RenderPipelineAsset.cs" />
+    <Compile Include="UnityEngine\Rendering\RenderPipelineManager.cs" />
+    <Compile Include="UnityEngine\Rendering\ScriptableRenderContext.cs" />
+    <Compile Include="UnityEngine\Rendering\ShaderPropertyFlags.cs" />
+    <Compile Include="UnityEngine\Rendering\ShaderTagId.cs" />
+    <Compile Include="UnityEngine\Rendering\ShadowSamplingMode.cs" />
+    <Compile Include="UnityEngine\Rendering\StencilOp.cs" />
+    <Compile Include="UnityEngine\Rendering\SubMeshDescriptor.cs" />
+    <Compile Include="UnityEngine\Rendering\SupportedRenderingFeatures.cs" />
+    <Compile Include="UnityEngine\Rendering\TextureDimension.cs" />
+    <Compile Include="UnityEngine\Rendering\VertexAttribute.cs" />
+    <Compile Include="UnityEngine\Rendering\VertexAttributeDescriptor.cs" />
+    <Compile Include="UnityEngine\Rendering\VertexAttributeFormat.cs" />
+    <Compile Include="UnityEngine\RenderSettings.cs" />
+    <Compile Include="UnityEngine\RenderTexture.cs" />
+    <Compile Include="UnityEngine\RenderTextureCreationFlags.cs" />
+    <Compile Include="UnityEngine\RenderTextureDescriptor.cs" />
+    <Compile Include="UnityEngine\RenderTextureFormat.cs" />
+    <Compile Include="UnityEngine\RenderTextureMemoryless.cs" />
+    <Compile Include="UnityEngine\RenderTextureReadWrite.cs" />
+    <Compile Include="UnityEngine\RequireComponent.cs" />
+    <Compile Include="UnityEngine\Resolution.cs" />
+    <Compile Include="UnityEngine\ResourceRequest.cs" />
+    <Compile Include="UnityEngine\Resources.cs" />
+    <Compile Include="UnityEngine\ResourcesAPI.cs" />
+    <Compile Include="UnityEngine\ResourcesAPIInternal.cs" />
+    <Compile Include="UnityEngine\RuntimeInitializeLoadType.cs" />
+    <Compile Include="UnityEngine\RuntimeInitializeOnLoadMethodAttribute.cs" />
+    <Compile Include="UnityEngine\RuntimePlatform.cs" />
+    <Compile Include="UnityEngine\SceneManagement\LoadSceneMode.cs" />
+    <Compile Include="UnityEngine\SceneManagement\LoadSceneParameters.cs" />
+    <Compile Include="UnityEngine\SceneManagement\LocalPhysicsMode.cs" />
+    <Compile Include="UnityEngine\SceneManagement\Scene.cs" />
+    <Compile Include="UnityEngine\SceneManagement\SceneManager.cs" />
+    <Compile Include="UnityEngine\SceneManagement\SceneManagerAPI.cs" />
+    <Compile Include="UnityEngine\SceneManagement\SceneManagerAPIInternal.cs" />
+    <Compile Include="UnityEngine\Screen.cs" />
+    <Compile Include="UnityEngine\ScriptableObject.cs" />
+    <Compile Include="UnityEngine\ScriptingUtility.cs" />
+    <Compile Include="UnityEngine\Scripting\APIUpdating\MovedFromAttribute.cs" />
+    <Compile Include="UnityEngine\Scripting\APIUpdating\MovedFromAttributeData.cs" />
+    <Compile Include="UnityEngine\Scripting\PreserveAttribute.cs" />
+    <Compile Include="UnityEngine\SelectionBaseAttribute.cs" />
+    <Compile Include="UnityEngine\SendMessageOptions.cs" />
+    <Compile Include="UnityEngine\Serialization\FormerlySerializedAsAttribute.cs" />
+    <Compile Include="UnityEngine\SerializeField.cs" />
+    <Compile Include="UnityEngine\SerializeReference.cs" />
+    <Compile Include="UnityEngine\SetupCoroutine.cs" />
+    <Compile Include="UnityEngine\Shader.cs" />
+    <Compile Include="UnityEngine\SkinnedMeshRenderer.cs" />
+    <Compile Include="UnityEngine\SortingLayer.cs" />
+    <Compile Include="UnityEngine\Space.cs" />
+    <Compile Include="UnityEngine\SpaceAttribute.cs" />
+    <Compile Include="UnityEngine\Sprite.cs" />
+    <Compile Include="UnityEngine\SpritePackingMode.cs" />
+    <Compile Include="UnityEngine\SpriteRenderer.cs" />
+    <Compile Include="UnityEngine\Sprites\DataUtility.cs" />
+    <Compile Include="UnityEngine\StackTraceUtility.cs" />
+    <Compile Include="UnityEngine\SystemInfo.cs" />
+    <Compile Include="UnityEngine\SystemLanguage.cs" />
+    <Compile Include="UnityEngine\TextAreaAttribute.cs" />
+    <Compile Include="UnityEngine\TextAsset.cs" />
+    <Compile Include="UnityEngine\Texture.cs" />
+    <Compile Include="UnityEngine\Texture2D.cs" />
+    <Compile Include="UnityEngine\Texture2DArray.cs" />
+    <Compile Include="UnityEngine\Texture3D.cs" />
+    <Compile Include="UnityEngine\TextureFormat.cs" />
+    <Compile Include="UnityEngine\TextureWrapMode.cs" />
+    <Compile Include="UnityEngine\Time.cs" />
+    <Compile Include="UnityEngine\TooltipAttribute.cs" />
+    <Compile Include="UnityEngine\TouchScreenKeyboard.cs" />
+    <Compile Include="UnityEngine\TouchScreenKeyboardType.cs" />
+    <Compile Include="UnityEngine\TouchScreenKeyboard_InternalConstructorHelperArguments.cs" />
+    <Compile Include="UnityEngine\TrackedReference.cs" />
+    <Compile Include="UnityEngine\Transform.cs" />
+    <Compile Include="UnityEngine\U2D\SpriteAtlas.cs" />
+    <Compile Include="UnityEngine\U2D\SpriteAtlasManager.cs" />
+    <Compile Include="UnityEngine\U2D\SpriteBone.cs" />
+    <Compile Include="UnityEngine\UnhandledExceptionHandler.cs" />
+    <Compile Include="UnityEngine\UnityException.cs" />
+    <Compile Include="UnityEngine\UnityLogWriter.cs" />
+    <Compile Include="UnityEngine\UnitySynchronizationContext.cs" />
+    <Compile Include="UnityEngine\Vector2.cs" />
+    <Compile Include="UnityEngine\Vector2Int.cs" />
+    <Compile Include="UnityEngine\Vector3.cs" />
+    <Compile Include="UnityEngine\Vector4.cs" />
+    <Compile Include="UnityEngine\VRTextureUsage.cs" />
+    <Compile Include="UnityEngine\WaitForEndOfFrame.cs" />
+    <Compile Include="UnityEngine\WaitForFixedUpdate.cs" />
+    <Compile Include="UnityEngine\WaitForSeconds.cs" />
+    <Compile Include="UnityEngine\WaitForSecondsRealtime.cs" />
+    <Compile Include="UnityEngine\YieldInstruction.cs" />
+    <Compile Include="UnityEngine\_Scripting\APIUpdating\APIUpdaterRuntimeHelpers.cs" />
+    <Compile Include="Unity\Collections\Allocator.cs" />
+    <Compile Include="Unity\Collections\DeallocateOnJobCompletionAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeArrayUnsafeUtility.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerIsAtomicWriteOnlyAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerIsReadOnlyAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerNeedsThreadIndexAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerSupportsDeallocateOnJobCompletionAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerSupportsDeferredConvertListToArray.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeContainerSupportsMinMaxWriteRestrictionAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeDisableContainerSafetyRestrictionAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeDisableUnsafePtrRestrictionAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeSetClassTypeToNullOnScheduleAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\NativeSetThreadIndexAttribute.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\UnsafeUtility.cs" />
+    <Compile Include="Unity\Collections\LowLevel\Unsafe\WriteAccessRequiredAttribute.cs" />
+    <Compile Include="Unity\Collections\NativeArray.cs" />
+    <Compile Include="Unity\Collections\NativeArrayDebugView.cs" />
+    <Compile Include="Unity\Collections\NativeDisableParallelForRestrictionAttribute.cs" />
+    <Compile Include="Unity\Collections\NativeFixedLengthAttribute.cs" />
+    <Compile Include="Unity\Collections\NativeLeakDetection.cs" />
+    <Compile Include="Unity\Collections\NativeMatchesParallelForLengthAttribute.cs" />
+    <Compile Include="Unity\Collections\ReadOnlyAttribute.cs" />
+    <Compile Include="Unity\Collections\WriteOnlyAttribute.cs" />
+    <Compile Include="Unity\IL2CPP\CompilerServices\Il2CppEagerStaticClassConstructionAttribute.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\AssetLoadingSubsystem.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\AsyncReadManagerMetricsFilters.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\AsyncReadManagerRequestMetric.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\FileReadType.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\FileState.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\Priority.cs" />
+    <Compile Include="Unity\IO\LowLevel\Unsafe\ProcessingState.cs" />
+    <Compile Include="Unity\Jobs\JobHandle.cs" />
+    <Compile Include="Unity\Jobs\LowLevel\Unsafe\JobsUtility.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System.Core\System.Core.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65581}</Project>
+      <Name>System.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System\System.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65582}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.SharedInternalsModule\UnityEngine.SharedInternalsModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65591}</Project>
+      <Name>UnityEngine.SharedInternalsModule</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

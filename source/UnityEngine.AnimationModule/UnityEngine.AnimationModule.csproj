@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B65588}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UnityEngine.AnimationModule</RootNamespace>
+    <AssemblyName>UnityEngine.AnimationModule</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnityEngine\AnimationEvent.cs" />
+    <Compile Include="UnityEngine\AnimationEventSource.cs" />
+    <Compile Include="UnityEngine\AnimationState.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationClipPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationHumanStream.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationLayerMixerPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationMixerPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationMotionXToDeltaPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationOffsetPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationPlayableOutput.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationPosePlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationRemoveScalePlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationScriptPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\AnimationStream.cs" />
+    <Compile Include="UnityEngine\Animations\AnimatorControllerPlayable.cs" />
+    <Compile Include="UnityEngine\Animations\DiscreteEvaluationAttribute.cs" />
+    <Compile Include="UnityEngine\Animations\NotKeyableAttribute.cs" />
+    <Compile Include="UnityEngine\Animator.cs" />
+    <Compile Include="UnityEngine\AnimatorClipInfo.cs" />
+    <Compile Include="UnityEngine\AnimatorControllerParameter.cs" />
+    <Compile Include="UnityEngine\AnimatorControllerParameterType.cs" />
+    <Compile Include="UnityEngine\AnimatorOverrideController.cs" />
+    <Compile Include="UnityEngine\AnimatorStateInfo.cs" />
+    <Compile Include="UnityEngine\AnimatorTransitionInfo.cs" />
+    <Compile Include="UnityEngine\HumanBone.cs" />
+    <Compile Include="UnityEngine\HumanLimit.cs" />
+    <Compile Include="UnityEngine\RuntimeAnimatorController.cs" />
+    <Compile Include="UnityEngine\SharedBetweenAnimatorsAttribute.cs" />
+    <Compile Include="UnityEngine\SkeletonBone.cs" />
+    <Compile Include="UnityEngine\StateMachineBehaviour.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.CoreModule\UnityEngine.CoreModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6558A}</Project>
+      <Name>UnityEngine.CoreModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine.SharedInternalsModule\UnityEngine.SharedInternalsModule.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65591}</Project>
+      <Name>UnityEngine.SharedInternalsModule</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

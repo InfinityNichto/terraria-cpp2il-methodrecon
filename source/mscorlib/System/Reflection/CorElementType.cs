@@ -1,0 +1,154 @@
+﻿using System;
+
+namespace System.Reflection
+{
+	// Token: 0x020004FC RID: 1276
+	[Serializable]
+	internal enum CorElementType : byte
+	{
+		// Token: 0x04001447 RID: 5191
+		End,
+		// Token: 0x04001448 RID: 5192
+		Void,
+		// Token: 0x04001449 RID: 5193
+		Boolean,
+		// Token: 0x0400144A RID: 5194
+		Char,
+		// Token: 0x0400144B RID: 5195
+		I1,
+		// Token: 0x0400144C RID: 5196
+		U1,
+		// Token: 0x0400144D RID: 5197
+		I2,
+		// Token: 0x0400144E RID: 5198
+		U2,
+		// Token: 0x0400144F RID: 5199
+		I4,
+		// Token: 0x04001450 RID: 5200
+		U4,
+		// Token: 0x04001451 RID: 5201
+		I8,
+		// Token: 0x04001452 RID: 5202
+		U8,
+		// Token: 0x04001453 RID: 5203
+		R4,
+		// Token: 0x04001454 RID: 5204
+		R8,
+		// Token: 0x04001455 RID: 5205
+		String,
+		// Token: 0x04001456 RID: 5206
+		Ptr,
+		// Token: 0x04001457 RID: 5207
+		ByRef,
+		// Token: 0x04001458 RID: 5208
+		ValueType,
+		// Token: 0x04001459 RID: 5209
+		Class,
+		// Token: 0x0400145A RID: 5210
+		Var,
+		// Token: 0x0400145B RID: 5211
+		Array,
+		// Token: 0x0400145C RID: 5212
+		GenericInst,
+		// Token: 0x0400145D RID: 5213
+		TypedByRef,
+		// Token: 0x0400145E RID: 5214
+		I = 24,
+		// Token: 0x0400145F RID: 5215
+		U,
+		// Token: 0x04001460 RID: 5216
+		FnPtr = 27,
+		// Token: 0x04001461 RID: 5217
+		Object,
+		// Token: 0x04001462 RID: 5218
+		SzArray,
+		// Token: 0x04001463 RID: 5219
+		MVar,
+		// Token: 0x04001464 RID: 5220
+		CModReqd,
+		// Token: 0x04001465 RID: 5221
+		CModOpt,
+		// Token: 0x04001466 RID: 5222
+		Internal,
+		// Token: 0x04001467 RID: 5223
+		Max,
+		// Token: 0x04001468 RID: 5224
+		Modifier = 64,
+		// Token: 0x04001469 RID: 5225
+		Sentinel,
+		// Token: 0x0400146A RID: 5226
+		Pinned = 69,
+		// Token: 0x0400146B RID: 5227
+		ELEMENT_TYPE_END = 0,
+		// Token: 0x0400146C RID: 5228
+		ELEMENT_TYPE_VOID,
+		// Token: 0x0400146D RID: 5229
+		ELEMENT_TYPE_BOOLEAN,
+		// Token: 0x0400146E RID: 5230
+		ELEMENT_TYPE_CHAR,
+		// Token: 0x0400146F RID: 5231
+		ELEMENT_TYPE_I1,
+		// Token: 0x04001470 RID: 5232
+		ELEMENT_TYPE_U1,
+		// Token: 0x04001471 RID: 5233
+		ELEMENT_TYPE_I2,
+		// Token: 0x04001472 RID: 5234
+		ELEMENT_TYPE_U2,
+		// Token: 0x04001473 RID: 5235
+		ELEMENT_TYPE_I4,
+		// Token: 0x04001474 RID: 5236
+		ELEMENT_TYPE_U4,
+		// Token: 0x04001475 RID: 5237
+		ELEMENT_TYPE_I8,
+		// Token: 0x04001476 RID: 5238
+		ELEMENT_TYPE_U8,
+		// Token: 0x04001477 RID: 5239
+		ELEMENT_TYPE_R4,
+		// Token: 0x04001478 RID: 5240
+		ELEMENT_TYPE_R8,
+		// Token: 0x04001479 RID: 5241
+		ELEMENT_TYPE_STRING,
+		// Token: 0x0400147A RID: 5242
+		ELEMENT_TYPE_PTR,
+		// Token: 0x0400147B RID: 5243
+		ELEMENT_TYPE_BYREF,
+		// Token: 0x0400147C RID: 5244
+		ELEMENT_TYPE_VALUETYPE,
+		// Token: 0x0400147D RID: 5245
+		ELEMENT_TYPE_CLASS,
+		// Token: 0x0400147E RID: 5246
+		ELEMENT_TYPE_VAR,
+		// Token: 0x0400147F RID: 5247
+		ELEMENT_TYPE_ARRAY,
+		// Token: 0x04001480 RID: 5248
+		ELEMENT_TYPE_GENERICINST,
+		// Token: 0x04001481 RID: 5249
+		ELEMENT_TYPE_TYPEDBYREF,
+		// Token: 0x04001482 RID: 5250
+		ELEMENT_TYPE_I = 24,
+		// Token: 0x04001483 RID: 5251
+		ELEMENT_TYPE_U,
+		// Token: 0x04001484 RID: 5252
+		ELEMENT_TYPE_FNPTR = 27,
+		// Token: 0x04001485 RID: 5253
+		ELEMENT_TYPE_OBJECT,
+		// Token: 0x04001486 RID: 5254
+		ELEMENT_TYPE_SZARRAY,
+		// Token: 0x04001487 RID: 5255
+		ELEMENT_TYPE_MVAR,
+		// Token: 0x04001488 RID: 5256
+		ELEMENT_TYPE_CMOD_REQD,
+		// Token: 0x04001489 RID: 5257
+		ELEMENT_TYPE_CMOD_OPT,
+		// Token: 0x0400148A RID: 5258
+		ELEMENT_TYPE_INTERNAL,
+		// Token: 0x0400148B RID: 5259
+		ELEMENT_TYPE_MAX,
+		// Token: 0x0400148C RID: 5260
+		ELEMENT_TYPE_MODIFIER = 64,
+		// Token: 0x0400148D RID: 5261
+		ELEMENT_TYPE_SENTINEL,
+		// Token: 0x0400148E RID: 5262
+		ELEMENT_TYPE_PINNED = 69
+	}
+}

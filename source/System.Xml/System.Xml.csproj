@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D0B9187-63A7-4FD1-94A1-73FEF9B65585}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>System.Xml</RootNamespace>
+    <AssemblyName>System.Xml</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="-PrivateImplementationDetails-.cs" />
+    <Compile Include="Cpp2IlInjected\AnalysisFailedException.cs" />
+    <Compile Include="MS\Internal\Xml\Cache\XPathDocumentNavigator.cs" />
+    <Compile Include="MS\Internal\Xml\Cache\XPathNode.cs" />
+    <Compile Include="MS\Internal\Xml\Cache\XPathNodeHelper.cs" />
+    <Compile Include="MS\Internal\Xml\Cache\XPathNodeInfoAtom.cs" />
+    <Compile Include="MS\Internal\Xml\Cache\XPathNodePageInfo.cs" />
+    <Compile Include="MS\Internal\Xml\Cache\XPathNodeRef.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SR.cs" />
+    <Compile Include="System\LocalAppContextSwitches.cs" />
+    <Compile Include="System\Xml\AsyncHelper.cs" />
+    <Compile Include="System\Xml\AttributeProperties.cs" />
+    <Compile Include="System\Xml\Base64Encoder.cs" />
+    <Compile Include="System\Xml\BinaryCompatibility.cs" />
+    <Compile Include="System\Xml\BinHexDecoder.cs" />
+    <Compile Include="System\Xml\BinHexEncoder.cs" />
+    <Compile Include="System\Xml\Bits.cs" />
+    <Compile Include="System\Xml\BitStack.cs" />
+    <Compile Include="System\Xml\ByteStack.cs" />
+    <Compile Include="System\Xml\CharEntityEncoderFallback.cs" />
+    <Compile Include="System\Xml\CharEntityEncoderFallbackBuffer.cs" />
+    <Compile Include="System\Xml\ConformanceLevel.cs" />
+    <Compile Include="System\Xml\DomNameTable.cs" />
+    <Compile Include="System\Xml\DtdParser.cs" />
+    <Compile Include="System\Xml\DtdProcessing.cs" />
+    <Compile Include="System\Xml\ElementProperties.cs" />
+    <Compile Include="System\Xml\EmptyEnumerator.cs" />
+    <Compile Include="System\Xml\EntityHandling.cs" />
+    <Compile Include="System\Xml\ExceptionType.cs" />
+    <Compile Include="System\Xml\HtmlEncodedRawTextWriter.cs" />
+    <Compile Include="System\Xml\HtmlEncodedRawTextWriterIndent.cs" />
+    <Compile Include="System\Xml\HtmlTernaryTree.cs" />
+    <Compile Include="System\Xml\HtmlUtf8RawTextWriter.cs" />
+    <Compile Include="System\Xml\HtmlUtf8RawTextWriterIndent.cs" />
+    <Compile Include="System\Xml\IDtdAttributeInfo.cs" />
+    <Compile Include="System\Xml\IDtdAttributeListInfo.cs" />
+    <Compile Include="System\Xml\IDtdDefaultAttributeInfo.cs" />
+    <Compile Include="System\Xml\IDtdEntityInfo.cs" />
+    <Compile Include="System\Xml\IDtdInfo.cs" />
+    <Compile Include="System\Xml\IDtdParser.cs" />
+    <Compile Include="System\Xml\IDtdParserAdapter.cs" />
+    <Compile Include="System\Xml\IDtdParserAdapterV1.cs" />
+    <Compile Include="System\Xml\IDtdParserAdapterWithValidation.cs" />
+    <Compile Include="System\Xml\IncrementalReadDecoder.cs" />
+    <Compile Include="System\Xml\IncrementalReadDummyDecoder.cs" />
+    <Compile Include="System\Xml\IValidationEventHandling.cs" />
+    <Compile Include="System\Xml\IXmlNamespaceResolver.cs" />
+    <Compile Include="System\Xml\LineInfo.cs" />
+    <Compile Include="System\Xml\NamespaceHandling.cs" />
+    <Compile Include="System\Xml\NameTable.cs" />
+    <Compile Include="System\Xml\NewLineHandling.cs" />
+    <Compile Include="System\Xml\OnRemoveWriter.cs" />
+    <Compile Include="System\Xml\OpenedHost.cs" />
+    <Compile Include="System\Xml\QueryOutputWriter.cs" />
+    <Compile Include="System\Xml\ReadState.cs" />
+    <Compile Include="System\Xml\Ref.cs" />
+    <Compile Include="System\Xml\Res.cs" />
+    <Compile Include="System\Xml\SafeAsciiDecoder.cs" />
+    <Compile Include="System\Xml\Schema\BaseValidator.cs" />
+    <Compile Include="System\Xml\Schema\BinaryFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\BitSet.cs" />
+    <Compile Include="System\Xml\Schema\ChoiceNode.cs" />
+    <Compile Include="System\Xml\Schema\ContentValidator.cs" />
+    <Compile Include="System\Xml\Schema\DatatypeImplementation.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_anyAtomicType.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_anySimpleType.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_anyURI.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_base64Binary.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_boolean.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_byte.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_char.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_date.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_dateTime.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_dateTimeBase.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_dateTimeNoTimeZone.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_dateTimeTimeZone.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_day.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_dayTimeDuration.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_decimal.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_double.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_doubleXdr.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_duration.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_ENTITY.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_ENUMERATION.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_fixed.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_float.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_floatXdr.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_hexBinary.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_ID.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_IDREF.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_int.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_integer.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_language.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_List.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_long.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_month.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_monthDay.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_Name.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_NCName.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_negativeInteger.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_NMTOKEN.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_nonNegativeInteger.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_nonPositiveInteger.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_normalizedString.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_normalizedStringV1Compat.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_NOTATION.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_positiveInteger.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_QName.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_QNameXdr.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_short.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_string.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_time.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_timeNoTimeZone.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_timeTimeZone.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_token.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_tokenV1Compat.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_union.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_unsignedByte.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_unsignedInt.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_unsignedLong.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_unsignedShort.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_untypedAtomicType.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_uuid.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_year.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_yearMonth.cs" />
+    <Compile Include="System\Xml\Schema\Datatype_yearMonthDuration.cs" />
+    <Compile Include="System\Xml\Schema\DateTimeFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\DfaContentValidator.cs" />
+    <Compile Include="System\Xml\Schema\DtdValidator.cs" />
+    <Compile Include="System\Xml\Schema\DurationFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\FacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\InteriorNode.cs" />
+    <Compile Include="System\Xml\Schema\IXmlSchemaInfo.cs" />
+    <Compile Include="System\Xml\Schema\LeafNode.cs" />
+    <Compile Include="System\Xml\Schema\LeafRangeNode.cs" />
+    <Compile Include="System\Xml\Schema\ListFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\MiscFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\NamespaceList.cs" />
+    <Compile Include="System\Xml\Schema\NamespaceListNode.cs" />
+    <Compile Include="System\Xml\Schema\NfaContentValidator.cs" />
+    <Compile Include="System\Xml\Schema\Numeric10FacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\Numeric2FacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\ParticleContentValidator.cs" />
+    <Compile Include="System\Xml\Schema\PlusNode.cs" />
+    <Compile Include="System\Xml\Schema\Position.cs" />
+    <Compile Include="System\Xml\Schema\Positions.cs" />
+    <Compile Include="System\Xml\Schema\QmarkNode.cs" />
+    <Compile Include="System\Xml\Schema\QNameFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\RangeContentValidator.cs" />
+    <Compile Include="System\Xml\Schema\RestrictionFacets.cs" />
+    <Compile Include="System\Xml\Schema\RestrictionFlags.cs" />
+    <Compile Include="System\Xml\Schema\SchemaAttDef.cs" />
+    <Compile Include="System\Xml\Schema\SchemaDeclBase.cs" />
+    <Compile Include="System\Xml\Schema\SchemaElementDecl.cs" />
+    <Compile Include="System\Xml\Schema\SchemaEntity.cs" />
+    <Compile Include="System\Xml\Schema\SchemaInfo.cs" />
+    <Compile Include="System\Xml\Schema\SchemaNotation.cs" />
+    <Compile Include="System\Xml\Schema\SchemaType.cs" />
+    <Compile Include="System\Xml\Schema\SequenceNode.cs" />
+    <Compile Include="System\Xml\Schema\StarNode.cs" />
+    <Compile Include="System\Xml\Schema\StringFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\SymbolsDictionary.cs" />
+    <Compile Include="System\Xml\Schema\SyntaxTreeNode.cs" />
+    <Compile Include="System\Xml\Schema\UnionFacetsChecker.cs" />
+    <Compile Include="System\Xml\Schema\UpaException.cs" />
+    <Compile Include="System\Xml\Schema\ValidationEventArgs.cs" />
+    <Compile Include="System\Xml\Schema\ValidationEventHandler.cs" />
+    <Compile Include="System\Xml\Schema\XmlAnyConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlAnyListConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlAtomicValue.cs" />
+    <Compile Include="System\Xml\Schema\XmlBaseConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlBooleanConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlDateTimeConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlListConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlMiscConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlNumeric10Converter.cs" />
+    <Compile Include="System\Xml\Schema\XmlNumeric2Converter.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaAnnotated.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaAny.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaAnyAttribute.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaAttribute.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaChoice.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaCompilationSettings.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaComplexType.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaContentProcessing.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaContentType.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaDatatype.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaDatatypeVariety.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaDerivationMethod.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaElement.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaException.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaGroupBase.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaGroupRef.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaInfo.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaObject.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaObjectCollection.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaParticle.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSequence.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSet.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSimpleType.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSimpleTypeContent.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSimpleTypeList.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSimpleTypeRestriction.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaSimpleTypeUnion.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaType.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaValidationFlags.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaValidity.cs" />
+    <Compile Include="System\Xml\Schema\XmlSchemaWhiteSpace.cs" />
+    <Compile Include="System\Xml\Schema\XmlSeverityType.cs" />
+    <Compile Include="System\Xml\Schema\XmlStringConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlTypeCode.cs" />
+    <Compile Include="System\Xml\Schema\XmlUntypedConverter.cs" />
+    <Compile Include="System\Xml\Schema\XmlValueConverter.cs" />
+    <Compile Include="System\Xml\Schema\XsdDateTime.cs" />
+    <Compile Include="System\Xml\Schema\XsdDateTimeFlags.cs" />
+    <Compile Include="System\Xml\Schema\XsdDuration.cs" />
+    <Compile Include="System\Xml\Schema\XsdSimpleValue.cs" />
+    <Compile Include="System\Xml\SecureStringHasher.cs" />
+    <Compile Include="System\Xml\Serialization\XmlAttributeAttribute.cs" />
+    <Compile Include="System\Xml\Serialization\XmlElementAttribute.cs" />
+    <Compile Include="System\Xml\Serialization\XmlEnumAttribute.cs" />
+    <Compile Include="System\Xml\Serialization\XmlIgnoreAttribute.cs" />
+    <Compile Include="System\Xml\Serialization\XmlSchemaProviderAttribute.cs" />
+    <Compile Include="System\Xml\Serialization\XmlTypeConvertorAttribute.cs" />
+    <Compile Include="System\Xml\TernaryTreeReadOnly.cs" />
+    <Compile Include="System\Xml\TextEncodedRawTextWriter.cs" />
+    <Compile Include="System\Xml\TextUtf8RawTextWriter.cs" />
+    <Compile Include="System\Xml\TriState.cs" />
+    <Compile Include="System\Xml\Ucs4Decoder.cs" />
+    <Compile Include="System\Xml\Ucs4Decoder1234.cs" />
+    <Compile Include="System\Xml\Ucs4Decoder2143.cs" />
+    <Compile Include="System\Xml\Ucs4Decoder3412.cs" />
+    <Compile Include="System\Xml\Ucs4Decoder4321.cs" />
+    <Compile Include="System\Xml\Ucs4Encoding.cs" />
+    <Compile Include="System\Xml\Ucs4Encoding1234.cs" />
+    <Compile Include="System\Xml\Ucs4Encoding2143.cs" />
+    <Compile Include="System\Xml\Ucs4Encoding3412.cs" />
+    <Compile Include="System\Xml\Ucs4Encoding4321.cs" />
+    <Compile Include="System\Xml\UTF16Decoder.cs" />
+    <Compile Include="System\Xml\ValidateNames.cs" />
+    <Compile Include="System\Xml\ValidationType.cs" />
+    <Compile Include="System\Xml\WhitespaceHandling.cs" />
+    <Compile Include="System\Xml\WriteState.cs" />
+    <Compile Include="System\Xml\XmlAsyncCheckWriter.cs" />
+    <Compile Include="System\Xml\XmlAttribute.cs" />
+    <Compile Include="System\Xml\XmlAttributeCollection.cs" />
+    <Compile Include="System\Xml\XmlAutoDetectWriter.cs" />
+    <Compile Include="System\Xml\XmlCachedStream.cs" />
+    <Compile Include="System\Xml\XmlCDataSection.cs" />
+    <Compile Include="System\Xml\XmlCharacterData.cs" />
+    <Compile Include="System\Xml\XmlCharType.cs" />
+    <Compile Include="System\Xml\XmlChildEnumerator.cs" />
+    <Compile Include="System\Xml\XmlChildNodes.cs" />
+    <Compile Include="System\Xml\XmlComment.cs" />
+    <Compile Include="System\Xml\XmlComplianceUtil.cs" />
+    <Compile Include="System\Xml\XmlConfiguration\XmlReaderSection.cs" />
+    <Compile Include="System\Xml\XmlConvert.cs" />
+    <Compile Include="System\Xml\XmlDateTimeSerializationMode.cs" />
+    <Compile Include="System\Xml\XmlDeclaration.cs" />
+    <Compile Include="System\Xml\XmlDocument.cs" />
+    <Compile Include="System\Xml\XmlDocumentFragment.cs" />
+    <Compile Include="System\Xml\XmlDocumentType.cs" />
+    <Compile Include="System\Xml\XmlDownloadManager.cs" />
+    <Compile Include="System\Xml\XmlElement.cs" />
+    <Compile Include="System\Xml\XmlEncodedRawTextWriter.cs" />
+    <Compile Include="System\Xml\XmlEncodedRawTextWriterIndent.cs" />
+    <Compile Include="System\Xml\XmlEntity.cs" />
+    <Compile Include="System\Xml\XmlEntityReference.cs" />
+    <Compile Include="System\Xml\XmlEventCache.cs" />
+    <Compile Include="System\Xml\XmlException.cs" />
+    <Compile Include="System\Xml\XmlImplementation.cs" />
+    <Compile Include="System\Xml\XmlLinkedNode.cs" />
+    <Compile Include="System\Xml\XmlLoader.cs" />
+    <Compile Include="System\Xml\XmlName.cs" />
+    <Compile Include="System\Xml\XmlNamedNodeMap.cs" />
+    <Compile Include="System\Xml\XmlNameEx.cs" />
+    <Compile Include="System\Xml\XmlNamespaceManager.cs" />
+    <Compile Include="System\Xml\XmlNameTable.cs" />
+    <Compile Include="System\Xml\XmlNode.cs" />
+    <Compile Include="System\Xml\XmlNodeChangedAction.cs" />
+    <Compile Include="System\Xml\XmlNodeChangedEventArgs.cs" />
+    <Compile Include="System\Xml\XmlNodeChangedEventHandler.cs" />
+    <Compile Include="System\Xml\XmlNodeList.cs" />
+    <Compile Include="System\Xml\XmlNodeType.cs" />
+    <Compile Include="System\Xml\XmlNotation.cs" />
+    <Compile Include="System\Xml\XmlOutputMethod.cs" />
+    <Compile Include="System\Xml\XmlParserContext.cs" />
+    <Compile Include="System\Xml\XmlProcessingInstruction.cs" />
+    <Compile Include="System\Xml\XmlQualifiedName.cs" />
+    <Compile Include="System\Xml\XmlRawWriter.cs" />
+    <Compile Include="System\Xml\XmlRawWriterBase64Encoder.cs" />
+    <Compile Include="System\Xml\XmlReader.cs" />
+    <Compile Include="System\Xml\XmlReaderSettings.cs" />
+    <Compile Include="System\Xml\XmlRegisteredNonCachedStream.cs" />
+    <Compile Include="System\Xml\XmlResolver.cs" />
+    <Compile Include="System\Xml\XmlSignificantWhitespace.cs" />
+    <Compile Include="System\Xml\XmlSpace.cs" />
+    <Compile Include="System\Xml\XmlStandalone.cs" />
+    <Compile Include="System\Xml\XmlText.cs" />
+    <Compile Include="System\Xml\XmlTextReader.cs" />
+    <Compile Include="System\Xml\XmlTextReaderImpl.cs" />
+    <Compile Include="System\Xml\XmlTokenizedType.cs" />
+    <Compile Include="System\Xml\XmlUnspecifiedAttribute.cs" />
+    <Compile Include="System\Xml\XmlUrlResolver.cs" />
+    <Compile Include="System\Xml\XmlUtf8RawTextWriter.cs" />
+    <Compile Include="System\Xml\XmlUtf8RawTextWriterIndent.cs" />
+    <Compile Include="System\Xml\XmlWellFormedWriter.cs" />
+    <Compile Include="System\Xml\XmlWhitespace.cs" />
+    <Compile Include="System\Xml\XmlWriter.cs" />
+    <Compile Include="System\Xml\XmlWriterSettings.cs" />
+    <Compile Include="System\Xml\XPath\XPathDocument.cs" />
+    <Compile Include="System\Xml\XPath\XPathItem.cs" />
+    <Compile Include="System\Xml\XPath\XPathNamespaceScope.cs" />
+    <Compile Include="System\Xml\XPath\XPathNavigator.cs" />
+    <Compile Include="System\Xml\XPath\XPathNavigatorKeyComparer.cs" />
+    <Compile Include="System\Xml\XPath\XPathNodeType.cs" />
+    <Compile Include="System\Xml\Xsl\Runtime\StringConcat.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B6557D}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System\System.csproj">
+      <Project>{2D0B9187-63A7-4FD1-94A1-73FEF9B65582}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
