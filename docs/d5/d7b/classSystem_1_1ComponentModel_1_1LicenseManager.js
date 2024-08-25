@@ -1,0 +1,28 @@
+var classSystem_1_1ComponentModel_1_1LicenseManager =
+[
+    [ "LicenseManager", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a923175a515d2655531ba8cb01f80a0d6.html#a923175a515d2655531ba8cb01f80a0d6", null ],
+    [ "LicenseManager", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a81529edae8378d743ae2346eb9ff0c93.html#a81529edae8378d743ae2346eb9ff0c93", null ],
+    [ "CacheProvider", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ac024ffaf149500fc56e35a6516a659ae.html#ac024ffaf149500fc56e35a6516a659ae", null ],
+    [ "CreateWithContext", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ad4502b56a3ff4899e2a960670d20c892.html#ad4502b56a3ff4899e2a960670d20c892", null ],
+    [ "CreateWithContext", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a0927a6bc4ff13046deef559f9c954594.html#a0927a6bc4ff13046deef559f9c954594", null ],
+    [ "GetCachedNoLicenseProvider", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ac1019cb9340d691a0d13d62f8fe4a429.html#ac1019cb9340d691a0d13d62f8fe4a429", null ],
+    [ "GetCachedProvider", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ae89d85aaa8de9ddc825e7494ef58e0d9.html#ae89d85aaa8de9ddc825e7494ef58e0d9", null ],
+    [ "GetCachedProviderInstance", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a4077db34cb2234fcffa9c5b0d09975d6.html#a4077db34cb2234fcffa9c5b0d09975d6", null ],
+    [ "IsLicensed", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ab5b859b0e08ece0a7b0ddee551bd830c.html#ab5b859b0e08ece0a7b0ddee551bd830c", null ],
+    [ "IsValid", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a4346882f61686279d1e211bb06e6208e.html#a4346882f61686279d1e211bb06e6208e", null ],
+    [ "IsValid", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_acb85fe9b760d02cbb4eb99df2c593472.html#acb85fe9b760d02cbb4eb99df2c593472", null ],
+    [ "LockContext", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a9370f574d5a198d0e3ab736d76728e39.html#a9370f574d5a198d0e3ab736d76728e39", null ],
+    [ "UnlockContext", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a6baf48e09806cc49f8ce54e7f2e19ef6.html#a6baf48e09806cc49f8ce54e7f2e19ef6", null ],
+    [ "Validate", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ab5e94b001d1fc630c05fc9ed95efbe42.html#ab5e94b001d1fc630c05fc9ed95efbe42", null ],
+    [ "Validate", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a03f6177fa2f9d5013d2438071f57a16c.html#a03f6177fa2f9d5013d2438071f57a16c", null ],
+    [ "ValidateInternal", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a0e32895203586d737d139344836273b3.html#a0e32895203586d737d139344836273b3", null ],
+    [ "ValidateInternalRecursive", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a7b98924f3b95616c386b59087ff8f8e2.html#a7b98924f3b95616c386b59087ff8f8e2", null ],
+    [ "s_context", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_abbcd7792d2515b27e156ecb9337ab030.html#abbcd7792d2515b27e156ecb9337ab030", null ],
+    [ "s_contextLockHolder", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_aee539fc8ee91417aaff1a56a4a750fa1.html#aee539fc8ee91417aaff1a56a4a750fa1", null ],
+    [ "s_internalSyncObject", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_aa22eddd610ee5d14505896212021e5c5.html#aa22eddd610ee5d14505896212021e5c5", null ],
+    [ "s_providerInstances", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_ad3de41d48e2ed7c4f082fc5f407a316d.html#ad3de41d48e2ed7c4f082fc5f407a316d", null ],
+    [ "s_providers", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a405ea3a940f0ea39e0adac5a014d6a52.html#a405ea3a940f0ea39e0adac5a014d6a52", null ],
+    [ "s_selfLock", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a166bba458b936e42b021c5aeeec6a90d.html#a166bba458b936e42b021c5aeeec6a90d", null ],
+    [ "CurrentContext", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a424b38f23d4619d09eedd3ccb8e2442b.html#a424b38f23d4619d09eedd3ccb8e2442b", null ],
+    [ "UsageMode", "d5/d7b/classSystem_1_1ComponentModel_1_1LicenseManager_a2132b51635b95cf6bbf014206ca27375.html#a2132b51635b95cf6bbf014206ca27375", null ]
+];

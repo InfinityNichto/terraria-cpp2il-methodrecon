@@ -1,0 +1,25 @@
+var classSystem_1_1Net_1_1HttpListenerContext =
+[
+    [ "HttpListenerContext", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a227544b2021af96f5865c8d04265ff1d.html#a227544b2021af96f5865c8d04265ff1d", null ],
+    [ "HttpListenerContext", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_acffa0890af0f7d91d70f732db2218cdf.html#acffa0890af0f7d91d70f732db2218cdf", null ],
+    [ "AcceptWebSocketAsync", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_aa52405808e1471d428fe777cab929d1e.html#aa52405808e1471d428fe777cab929d1e", null ],
+    [ "AcceptWebSocketAsync", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a97973d1c0f498e8b3994bfcca94bd385.html#a97973d1c0f498e8b3994bfcca94bd385", null ],
+    [ "AcceptWebSocketAsync", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a6eb085d357e509fc2b0f1b2011f3ec60.html#a6eb085d357e509fc2b0f1b2011f3ec60", null ],
+    [ "AcceptWebSocketAsync", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a913b9924d9190a67fb6c8beb4e77e496.html#a913b9924d9190a67fb6c8beb4e77e496", null ],
+    [ "ParseAuthentication", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a76124ce0fdba305426999b131d772499.html#a76124ce0fdba305426999b131d772499", null ],
+    [ "ParseBasicAuthentication", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_ad1c60a201bbb3d730f90d6e0c29c5b81.html#ad1c60a201bbb3d730f90d6e0c29c5b81", null ],
+    [ "cnc", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a5830fd94fefb237378b92550e384802f.html#a5830fd94fefb237378b92550e384802f", null ],
+    [ "err_status", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a2bec37db543d8429a25906acb101a652.html#a2bec37db543d8429a25906acb101a652", null ],
+    [ "error", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_ab0c7768eda4a7b8ef8a3d860ed1ed0bb.html#ab0c7768eda4a7b8ef8a3d860ed1ed0bb", null ],
+    [ "Listener", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a909267f977b724cef36f3bef37c507af.html#a909267f977b724cef36f3bef37c507af", null ],
+    [ "request", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_af0c698d6c5159522b4b4447978c99c82.html#af0c698d6c5159522b4b4447978c99c82", null ],
+    [ "response", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a73efe3f149aa3bb989aee83cc7e15db9.html#a73efe3f149aa3bb989aee83cc7e15db9", null ],
+    [ "user", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_aef87f01b5fa5e463d71b233c4fa990ed.html#aef87f01b5fa5e463d71b233c4fa990ed", null ],
+    [ "Connection", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_af98070d2689df515e88511021090c1a8.html#af98070d2689df515e88511021090c1a8", null ],
+    [ "ErrorMessage", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a1691fe638f98c89c7454b2fa6ba90d94.html#a1691fe638f98c89c7454b2fa6ba90d94", null ],
+    [ "ErrorStatus", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a1c81944312571616a80e66313fb766f6.html#a1c81944312571616a80e66313fb766f6", null ],
+    [ "HaveError", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a1d5115406ca099c32d9460f1ab2dff9e.html#a1d5115406ca099c32d9460f1ab2dff9e", null ],
+    [ "Request", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_afc3202c15111c9400bc391c6f2c2ccf8.html#afc3202c15111c9400bc391c6f2c2ccf8", null ],
+    [ "Response", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_a060d8e4e08b3cd7e2fab40572e64f95c.html#a060d8e4e08b3cd7e2fab40572e64f95c", null ],
+    [ "User", "d0/d59/classSystem_1_1Net_1_1HttpListenerContext_aa5723ceb6fc6957c2b06a610ae78e7c1.html#aa5723ceb6fc6957c2b06a610ae78e7c1", null ]
+];

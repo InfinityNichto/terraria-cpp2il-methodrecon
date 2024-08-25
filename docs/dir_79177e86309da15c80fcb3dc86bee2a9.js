@@ -1,0 +1,28 @@
+var dir_79177e86309da15c80fcb3dc86bee2a9 =
+[
+    [ "BatchCullingContext.cs", "d1/dce/BatchCullingContext_8cs.html", "d1/dce/BatchCullingContext_8cs" ],
+    [ "BatchRendererCullingOutput.cs", "d4/dd1/BatchRendererCullingOutput_8cs.html", "d4/dd1/BatchRendererCullingOutput_8cs" ],
+    [ "BatchRendererGroup.cs", "d7/da5/BatchRendererGroup_8cs.html", "d7/da5/BatchRendererGroup_8cs" ],
+    [ "BatchVisibility.cs", "d9/da1/BatchVisibility_8cs.html", "d9/da1/BatchVisibility_8cs" ],
+    [ "ColorWriteMask.cs", "dd/de0/ColorWriteMask_8cs.html", "dd/de0/ColorWriteMask_8cs" ],
+    [ "CompareFunction.cs", "d0/dc0/UnityEngine_8CoreModule_2UnityEngine_2Rendering_2CompareFunction_8cs.html", "d0/dc0/UnityEngine_8CoreModule_2UnityEngine_2Rendering_2CompareFunction_8cs" ],
+    [ "GraphicsSettings.cs", "d5/d42/GraphicsSettings_8cs.html", "d5/d42/GraphicsSettings_8cs" ],
+    [ "IndexFormat.cs", "dd/dcb/IndexFormat_8cs.html", "dd/dcb/IndexFormat_8cs" ],
+    [ "LODParameters.cs", "d0/de8/LODParameters_8cs.html", "d0/de8/LODParameters_8cs" ],
+    [ "MeshUpdateFlags.cs", "d4/d45/MeshUpdateFlags_8cs.html", "d4/d45/MeshUpdateFlags_8cs" ],
+    [ "OnDemandRendering.cs", "d4/d1c/OnDemandRendering_8cs.html", "d4/d1c/OnDemandRendering_8cs" ],
+    [ "RenderPipeline.cs", "d7/db5/RenderPipeline_8cs.html", "d7/db5/RenderPipeline_8cs" ],
+    [ "RenderPipelineAsset.cs", "d4/dbe/RenderPipelineAsset_8cs.html", "d4/dbe/RenderPipelineAsset_8cs" ],
+    [ "RenderPipelineManager.cs", "d6/da7/RenderPipelineManager_8cs.html", "d6/da7/RenderPipelineManager_8cs" ],
+    [ "ScriptableRenderContext.cs", "d8/d98/ScriptableRenderContext_8cs.html", "d8/d98/ScriptableRenderContext_8cs" ],
+    [ "ShaderPropertyFlags.cs", "d8/df0/ShaderPropertyFlags_8cs.html", "d8/df0/ShaderPropertyFlags_8cs" ],
+    [ "ShaderTagId.cs", "dd/d68/ShaderTagId_8cs.html", "dd/d68/ShaderTagId_8cs" ],
+    [ "ShadowSamplingMode.cs", "d1/dad/ShadowSamplingMode_8cs.html", "d1/dad/ShadowSamplingMode_8cs" ],
+    [ "StencilOp.cs", "d1/d93/StencilOp_8cs.html", "d1/d93/StencilOp_8cs" ],
+    [ "SubMeshDescriptor.cs", "d1/d23/SubMeshDescriptor_8cs.html", "d1/d23/SubMeshDescriptor_8cs" ],
+    [ "SupportedRenderingFeatures.cs", "d5/ddc/SupportedRenderingFeatures_8cs.html", "d5/ddc/SupportedRenderingFeatures_8cs" ],
+    [ "TextureDimension.cs", "d0/d5b/TextureDimension_8cs.html", "d0/d5b/TextureDimension_8cs" ],
+    [ "VertexAttribute.cs", "db/d7f/VertexAttribute_8cs.html", "db/d7f/VertexAttribute_8cs" ],
+    [ "VertexAttributeDescriptor.cs", "df/d74/VertexAttributeDescriptor_8cs.html", "df/d74/VertexAttributeDescriptor_8cs" ],
+    [ "VertexAttributeFormat.cs", "dd/d01/VertexAttributeFormat_8cs.html", "dd/d01/VertexAttributeFormat_8cs" ]
+];

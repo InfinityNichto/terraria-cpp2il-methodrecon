@@ -1,0 +1,4 @@
+var NativeSetClassTypeToNullOnScheduleAttribute_8cs =
+[
+    [ "Unity.Collections.LowLevel.Unsafe.NativeSetClassTypeToNullOnScheduleAttribute", "d0/d2c/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeSetClassTypeToNullOnScheduleAttribute.html", "d0/d2c/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeSetClassTypeToNullOnScheduleAttribute" ]
+];

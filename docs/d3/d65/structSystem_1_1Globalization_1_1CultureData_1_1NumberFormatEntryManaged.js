@@ -1,0 +1,26 @@
+var structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged =
+[
+    [ "currency_decimal_digits", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a936587cfa4fbea37f9f8c3c37af672c6.html#a936587cfa4fbea37f9f8c3c37af672c6", null ],
+    [ "currency_decimal_separator", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a27cef2fb54d2422c5920e48a7ff847ac.html#a27cef2fb54d2422c5920e48a7ff847ac", null ],
+    [ "currency_group_separator", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a1ddc3a106eb7590082ecea13e9a1d849.html#a1ddc3a106eb7590082ecea13e9a1d849", null ],
+    [ "currency_group_sizes0", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a100c680d81db212a97e676c60024cd43.html#a100c680d81db212a97e676c60024cd43", null ],
+    [ "currency_group_sizes1", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a1e096d0118fd2550abdd130ace956b2f.html#a1e096d0118fd2550abdd130ace956b2f", null ],
+    [ "currency_negative_pattern", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_ad74b11ffcb816cce3daecfe1808f11c4.html#ad74b11ffcb816cce3daecfe1808f11c4", null ],
+    [ "currency_positive_pattern", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_aa88d200a9619021480e6d633e4e0b408.html#aa88d200a9619021480e6d633e4e0b408", null ],
+    [ "currency_symbol", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a320032846704b20c3e269afb457369fb.html#a320032846704b20c3e269afb457369fb", null ],
+    [ "nan_symbol", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a3686b0bb6364dc39a522e0ea9f433756.html#a3686b0bb6364dc39a522e0ea9f433756", null ],
+    [ "negative_infinity_symbol", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_aeb71dddf7bee52074cb710c5ae615f2d.html#aeb71dddf7bee52074cb710c5ae615f2d", null ],
+    [ "negative_sign", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a90557dffea96dbd1885876062eceabd9.html#a90557dffea96dbd1885876062eceabd9", null ],
+    [ "number_decimal_digits", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a1bdcde845f91458e422b909c5a17b1d6.html#a1bdcde845f91458e422b909c5a17b1d6", null ],
+    [ "number_decimal_separator", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a1faaf3269a7ce10bdc4255ad6d1d64c2.html#a1faaf3269a7ce10bdc4255ad6d1d64c2", null ],
+    [ "number_group_separator", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_af8e710216e589705bc3271db4fb5fce1.html#af8e710216e589705bc3271db4fb5fce1", null ],
+    [ "number_group_sizes0", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a67063105c9d573a9e9edca549eb4a506.html#a67063105c9d573a9e9edca549eb4a506", null ],
+    [ "number_group_sizes1", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a1f38f6eebdd132fc5dd87d27d0b98453.html#a1f38f6eebdd132fc5dd87d27d0b98453", null ],
+    [ "number_negative_pattern", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_ac9e1a202ded3dccfd9c75d79c987802d.html#ac9e1a202ded3dccfd9c75d79c987802d", null ],
+    [ "per_mille_symbol", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a9a180088cf2707aed07be95303c9ec45.html#a9a180088cf2707aed07be95303c9ec45", null ],
+    [ "percent_negative_pattern", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a5749757802c3ca958cab7b0d63608e2c.html#a5749757802c3ca958cab7b0d63608e2c", null ],
+    [ "percent_positive_pattern", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a947aa864e45e5be44a48db2529f7d979.html#a947aa864e45e5be44a48db2529f7d979", null ],
+    [ "percent_symbol", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a11def332c62c890e3b3b33c0490364c1.html#a11def332c62c890e3b3b33c0490364c1", null ],
+    [ "positive_infinity_symbol", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_aa6a87ec410c12d820e88594abee2093f.html#aa6a87ec410c12d820e88594abee2093f", null ],
+    [ "positive_sign", "d3/d65/structSystem_1_1Globalization_1_1CultureData_1_1NumberFormatEntryManaged_a12af9f28c924dd8fe49a8c989588e6d2.html#a12af9f28c924dd8fe49a8c989588e6d2", null ]
+];

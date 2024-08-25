@@ -1,0 +1,27 @@
+var classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction =
+[
+    [ "XProcessingInstruction", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a61dbf3ee70387db3c22ab97bf97cf3a5.html#a61dbf3ee70387db3c22ab97bf97cf3a5", null ],
+    [ "XProcessingInstruction", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_aa88af3758985da70e5f9e007fdfb37a0.html#aa88af3758985da70e5f9e007fdfb37a0", null ],
+    [ "Annotation< T >", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a89ff738d93234e8c4672e40439dd1dfb", null ],
+    [ "AnnotationForSealedType", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a39e1121a56f7d3c4bcd6c6df65cba995", null ],
+    [ "AppendText", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a7cc2453a084362a64f8f68f03652482b", null ],
+    [ "CloneNode", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a5998fe7fbfcbf2cbe8dc00ce8e21beef.html#a5998fe7fbfcbf2cbe8dc00ce8e21beef", null ],
+    [ "GetSaveOptionsFromAnnotations", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#aa4d43a2ba8fc9dcb46e603231aa392a0", null ],
+    [ "GetXmlString", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a6ddf26f9c7e7877a662cc6008302cef9", null ],
+    [ "NotifyChanged", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#ac74f12cf0507d31a688235c39be2ec24", null ],
+    [ "NotifyChanging", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a9a5f04ac5d42df8c643db42b4d79eab4", null ],
+    [ "Remove", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#adcb5aa1482079cc3b20c198d78d94b76", null ],
+    [ "SkipNotify", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a77180e2f3e0e9c8357762277324a9e4f", null ],
+    [ "ToString", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a358590bfb301c2fdd22ae9d38094c6a8", null ],
+    [ "ValidateName", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a831ebeff016bea113cd4533cab1bfee0.html#a831ebeff016bea113cd4533cab1bfee0", null ],
+    [ "WriteTo", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_ab76b4f5af2cbb1c2b8e343c5bccfddc6.html#ab76b4f5af2cbb1c2b8e343c5bccfddc6", null ],
+    [ "annotations", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a367ef184264f1cf48f471aedf6183add", null ],
+    [ "data", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a873bb995502cec5b13e49095b55585a1.html#a873bb995502cec5b13e49095b55585a1", null ],
+    [ "next", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a15706daf146fc6f89c0a47119ef6f76c", null ],
+    [ "parent", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a52be2dc0184b76490b73ca9f46cf7afa", null ],
+    [ "target", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a27bd3dc2e2a2677d387bc8d6eadcfb0d.html#a27bd3dc2e2a2677d387bc8d6eadcfb0d", null ],
+    [ "Data", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_ace38d253bf94c46bbb43e4adf4a5b53e.html#ace38d253bf94c46bbb43e4adf4a5b53e", null ],
+    [ "NodeType", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a0683af395e6d5d7ac0c9f993b38ef918.html#a0683af395e6d5d7ac0c9f993b38ef918", null ],
+    [ "Parent", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction.html#a150f3295fa90b08155907d0109c7bfa0", null ],
+    [ "Target", "de/d14/classSystem_1_1Xml_1_1Linq_1_1XProcessingInstruction_a95ee25205ea26b87b2f7d21eeea40f32.html#a95ee25205ea26b87b2f7d21eeea40f32", null ]
+];

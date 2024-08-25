@@ -1,0 +1,35 @@
+var classAlert =
+[
+    [ "AlertShownReason", "d5/d14/classAlert_aedecfe1645f5601ecbf8ef5f2eb53a2a.html#aedecfe1645f5601ecbf8ef5f2eb53a2a", [
+      [ "PlatformError", "d5/d14/classAlert_aedecfe1645f5601ecbf8ef5f2eb53a2a.html#aedecfe1645f5601ecbf8ef5f2eb53a2aaba8ea63548a12106e8f5aed4e964ae6a", null ],
+      [ "NetworkingIssue", "d5/d14/classAlert_aedecfe1645f5601ecbf8ef5f2eb53a2a.html#aedecfe1645f5601ecbf8ef5f2eb53a2aabb15f13041c949b2ef98f5b8fee17931", null ],
+      [ "DebugIAP", "d5/d14/classAlert_aedecfe1645f5601ecbf8ef5f2eb53a2a.html#aedecfe1645f5601ecbf8ef5f2eb53a2aa062678916d5d5f0950999907be41a3e0", null ],
+      [ "ToolsMistake", "d5/d14/classAlert_aedecfe1645f5601ecbf8ef5f2eb53a2a.html#aedecfe1645f5601ecbf8ef5f2eb53a2aae0b4f60d03969036cfd497dc2d67f088", null ],
+      [ "AppRating", "d5/d14/classAlert_aedecfe1645f5601ecbf8ef5f2eb53a2a.html#aedecfe1645f5601ecbf8ef5f2eb53a2aa3f715dad004aa9ac1bae19dae7872981", null ]
+    ] ],
+    [ "Alert", "d5/d14/classAlert_af6cf696caf215e3635fb3843e33f3cc0.html#af6cf696caf215e3635fb3843e33f3cc0", null ],
+    [ "AlertButtonClicked", "d5/d14/classAlert_a084c67d621095b0ce8d83aaddf0d7a09.html#a084c67d621095b0ce8d83aaddf0d7a09", null ],
+    [ "AlertCancelled", "d5/d14/classAlert_ad87e7dc32f073c25828ee208fac9d1af.html#ad87e7dc32f073c25828ee208fac9d1af", null ],
+    [ "Cleanup", "d5/d14/classAlert.html#a76cd8bd0d5511a433dba6e83978c1c6f", null ],
+    [ "Create", "d5/d14/classAlert.html#a8dcc4fdf34ff455b5d3e68051a775d7f", null ],
+    [ "Create", "d5/d14/classAlert.html#a5781b0d76ab66b7a4dbeb6db53159ca1", null ],
+    [ "CreateOnMainThread", "d5/d14/classAlert.html#a05136cd9ad945b7db1568c1b58e79235", null ],
+    [ "Destroy", "d5/d14/classAlert.html#afe9290f2313ae9321fabd7fc567c2219", null ],
+    [ "GetAlertDelayObject", "d5/d14/classAlert_aa0f5d88d1053c06718583c3745a93498.html#aa0f5d88d1053c06718583c3745a93498", null ],
+    [ "Init", "d5/d14/classAlert_a3435922213c12eaef38e81352f3b02dc.html#a3435922213c12eaef38e81352f3b02dc", null ],
+    [ "InternalShowDelayed", "d5/d14/classAlert_a4983d7ae531926a05cd7419099d2e22a.html#a4983d7ae531926a05cd7419099d2e22a", null ],
+    [ "InternalShowDelayed", "d5/d14/classAlert_a46f6c650dfea9feffd07324325dd5032.html#a46f6c650dfea9feffd07324325dd5032", null ],
+    [ "OnDisable", "d5/d14/classAlert.html#adb47b039be05cdc12206f58bd0ee8134", null ],
+    [ "OnEnable", "d5/d14/classAlert.html#a4d6eabc43c957e9bbf2b1ebcf725051d", null ],
+    [ "PCDismissCallback", "d5/d14/classAlert_a01d8780851438b8f16bf0dfbebff79a7.html#a01d8780851438b8f16bf0dfbebff79a7", null ],
+    [ "Show", "d5/d14/classAlert_a6bc64d3886f6772aeef13b3379401007.html#a6bc64d3886f6772aeef13b3379401007", null ],
+    [ "Show", "d5/d14/classAlert_a4aed202a4c325950061c5b878ee5924b.html#a4aed202a4c325950061c5b878ee5924b", null ],
+    [ "Shutdown", "d5/d14/classAlert_ac0b8fed7c26407c23e3001af97064f12.html#ac0b8fed7c26407c23e3001af97064f12", null ],
+    [ "_buttons", "d5/d14/classAlert_af5b6aad1bdf9e37fce6a109b1574194c.html#af5b6aad1bdf9e37fce6a109b1574194c", null ],
+    [ "_defaultButton", "d5/d14/classAlert_aa0eb63960c131e56aa5c4ceaf7f06ab2.html#aa0eb63960c131e56aa5c4ceaf7f06ab2", null ],
+    [ "_delayObject", "d5/d14/classAlert_a0095b5498eef932057f8b01325d1c483.html#a0095b5498eef932057f8b01325d1c483", null ],
+    [ "_initialised", "d5/d14/classAlert.html#a9dc8002e6fca2221423b2ee15925295f", null ],
+    [ "_instance", "d5/d14/classAlert.html#a948282bcd2c7847940d101bd5be85094", null ],
+    [ "DismissedWithButton", "d5/d14/classAlert_a456bc830aec356c3c5462bbfaa3da2d9.html#a456bc830aec356c3c5462bbfaa3da2d9", null ],
+    [ "Instance", "d5/d14/classAlert.html#a54103e8475b2a352ee759d5732307534", null ]
+];

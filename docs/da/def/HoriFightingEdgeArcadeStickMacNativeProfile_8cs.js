@@ -1,0 +1,4 @@
+var HoriFightingEdgeArcadeStickMacNativeProfile_8cs =
+[
+    [ "InControl.NativeDeviceProfiles.HoriFightingEdgeArcadeStickMacNativeProfile", "da/d88/classInControl_1_1NativeDeviceProfiles_1_1HoriFightingEdgeArcadeStickMacNativeProfile.html", "da/d88/classInControl_1_1NativeDeviceProfiles_1_1HoriFightingEdgeArcadeStickMacNativeProfile" ]
+];

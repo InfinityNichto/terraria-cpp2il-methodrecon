@@ -1,0 +1,5 @@
+var interfaceTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1IShaderEffect =
+[
+    [ "AfterDrawing", "d6/d6d/interfaceTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1IShaderEffect_a7b124f80525d5d0f186dec29539a8d17.html#a7b124f80525d5d0f186dec29539a8d17", null ],
+    [ "BeforeDrawing", "d6/d6d/interfaceTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1IShaderEffect_a1b7ab68c410c78b46db6bae8a2ccb80e.html#a1b7ab68c410c78b46db6bae8a2ccb80e", null ]
+];

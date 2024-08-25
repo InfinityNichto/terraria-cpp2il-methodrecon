@@ -1,0 +1,8 @@
+var classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings =
+[
+    [ "ScriptableRuntimeReflectionSystemSettings", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings_a531468fd4a13a92b62086c1096b4ea4a.html#a531468fd4a13a92b62086c1096b4ea4a", null ],
+    [ "ScriptingDirtyReflectionSystemInstance", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings_a28104563f8b76d1948b1ba0ae1382f90.html#a28104563f8b76d1948b1ba0ae1382f90", null ],
+    [ "s_Instance", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings_a2835f715b0da0a4b27d13a9d7e64afa7.html#a2835f715b0da0a4b27d13a9d7e64afa7", null ],
+    [ "Internal_ScriptableRuntimeReflectionSystemSettings_instance", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings_ab967154391cb09d155d4ccf1c5e83bff.html#ab967154391cb09d155d4ccf1c5e83bff", null ],
+    [ "Internal_ScriptableRuntimeReflectionSystemSettings_system", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings_ae4d973798b96204561dfb76aea60a423.html#ae4d973798b96204561dfb76aea60a423", null ]
+];

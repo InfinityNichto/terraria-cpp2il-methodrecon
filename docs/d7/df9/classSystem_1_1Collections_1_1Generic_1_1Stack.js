@@ -1,0 +1,26 @@
+var classSystem_1_1Collections_1_1Generic_1_1Stack =
+[
+    [ "Enumerator", "d7/d51/structSystem_1_1Collections_1_1Generic_1_1Stack_1_1Enumerator.html", "d7/d51/structSystem_1_1Collections_1_1Generic_1_1Stack_1_1Enumerator" ],
+    [ "Stack", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a1c3c3d6a3aaf3cecf0826dc66b122b00.html#a1c3c3d6a3aaf3cecf0826dc66b122b00", null ],
+    [ "Add", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack.html#aa6abcfa734348c2d019daca2abdbdc35", null ],
+    [ "Clear", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack.html#ad00c1236b6288b628352431bd4225adb", null ],
+    [ "Contains", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack.html#a8b6ffee9e0f04e2c128c8dedf15578ae", null ],
+    [ "CopyTo", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_acbcf1a1d6010b34daa57a7336f93b709.html#acbcf1a1d6010b34daa57a7336f93b709", null ],
+    [ "CopyTo", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack.html#a22c1acf5dff7f4ea45ed93024a3e2f5e", null ],
+    [ "GetEnumerator", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a09886a902687eb1d30f3dcddc6a4e7d1.html#a09886a902687eb1d30f3dcddc6a4e7d1", null ],
+    [ "GetEnumerator", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a7e76dc46e131e4c0ca38462ba9859db9.html#a7e76dc46e131e4c0ca38462ba9859db9", null ],
+    [ "Peek", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_afcba1e63d1958393f990e2448c0c6903.html#afcba1e63d1958393f990e2448c0c6903", null ],
+    [ "Pop", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_ac1c16dd4efb9605a365eaf9cf207150e.html#ac1c16dd4efb9605a365eaf9cf207150e", null ],
+    [ "Push", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a4e39648e62457d6443dc6e9ba152475a.html#a4e39648e62457d6443dc6e9ba152475a", null ],
+    [ "PushWithResize", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a9c29420f93b29f03890d1f7bc522de1a.html#a9c29420f93b29f03890d1f7bc522de1a", null ],
+    [ "Remove", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack.html#a36f1138438d05f9f4d3786e6c8ddee68", null ],
+    [ "ThrowForEmptyStack", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a4ed9896c2144f4063a65549ee703a130.html#a4ed9896c2144f4063a65549ee703a130", null ],
+    [ "_array", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a3233cf9642772644a0b49d308965cc85.html#a3233cf9642772644a0b49d308965cc85", null ],
+    [ "_size", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_af5c72bb85696bb33f84c2a2f120a0e15.html#af5c72bb85696bb33f84c2a2f120a0e15", null ],
+    [ "_syncRoot", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a58a8e912d52dec14cae83c2242453943.html#a58a8e912d52dec14cae83c2242453943", null ],
+    [ "_version", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a297926ca24dc3d2136920eb73cf54584.html#a297926ca24dc3d2136920eb73cf54584", null ],
+    [ "Count", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a4263793c5b8dab9a4894562a91f101a0.html#a4263793c5b8dab9a4894562a91f101a0", null ],
+    [ "IsReadOnly", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack.html#a1cd147a9b612415c805d93a7e625a248", null ],
+    [ "IsSynchronized", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a9e574db0a48bd7bfb7ab64e04b4c99e0.html#a9e574db0a48bd7bfb7ab64e04b4c99e0", null ],
+    [ "SyncRoot", "d7/df9/classSystem_1_1Collections_1_1Generic_1_1Stack_a8ecc288845c0b827a55fed2ec4166d18.html#a8ecc288845c0b827a55fed2ec4166d18", null ]
+];

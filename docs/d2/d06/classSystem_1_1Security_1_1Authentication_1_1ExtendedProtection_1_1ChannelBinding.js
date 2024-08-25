@@ -1,0 +1,25 @@
+var classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding =
+[
+    [ "Close", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#aa5d1a98a1419a7bfeaf7373b86996046", null ],
+    [ "DangerousAddRef", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a9d50fa573063d7305a8c12a33c2056ea", null ],
+    [ "DangerousGetHandle", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a424cc281bd8123fdfb254fb943233b9f", null ],
+    [ "DangerousRelease", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a0b33a39fe618278a5098954f5689f7c1", null ],
+    [ "DangerousReleaseInternal", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#af2047be679be0cfc69d8a21c18f8a9ed", null ],
+    [ "Dispose", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#aa6f4faab748ef89385be080c9333476a", null ],
+    [ "Dispose", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a344d136a775824ae067d8bee9b303060", null ],
+    [ "Finalize", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a5103731a7bcc3fd139173c37cb1bfc56", null ],
+    [ "InternalDispose", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#ac28b2336d6beb8238d2f1d07f6d50271", null ],
+    [ "InternalFinalize", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a263212e1042732d9eb8b30a63d3ca18d", null ],
+    [ "ReleaseHandle", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#aa0b0c5a16a6eddffe1c1db710d6ecfee", null ],
+    [ "SetHandle", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a3fb15f153dbeb6d1885b4918eefdd25a", null ],
+    [ "SetHandleAsInvalid", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a52aa845d880e936a4f3d725864ef9d4a", null ],
+    [ "_fullyInitialized", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a20d2682784334ed60e179ed105f2cbb4", null ],
+    [ "_ownsHandle", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#af771e37e1741bcac73187dc731fe85a5", null ],
+    [ "_state", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#ac6a964078ab46f2a7e232900171dd397", null ],
+    [ "handle", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a7998659110bb0dab360363c425b828f7", null ],
+    [ "RefCount_Mask", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#afcc9a53ff169a04ddef0969d7dbe8b9f", null ],
+    [ "RefCount_One", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#aa8289647a332d73b908b35387e065982", null ],
+    [ "IsClosed", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#a993302e5d4328d7205ccd5e511abb5b5", null ],
+    [ "IsInvalid", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html#ab7d39268ddfeae3ab1bfc6b00f7b2ed1", null ],
+    [ "Size", "d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding_a2732d19952d0ba5b3a0411a03f63d2bf.html#a2732d19952d0ba5b3a0411a03f63d2bf", null ]
+];

@@ -1,0 +1,26 @@
+var classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser =
+[
+    [ "LocalUser", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_af0495ffabe80c37d0221ed098d6ad607.html#af0495ffabe80c37d0221ed098d6ad607", null ],
+    [ "Authenticate", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_a2a1e0ec8898626ea1cebb36cd8c9cde4.html#a2a1e0ec8898626ea1cebb36cd8c9cde4", null ],
+    [ "SetAuthenticated", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_ad1ee70adef1f9e1a908a3f7595002ae8.html#ad1ee70adef1f9e1a908a3f7595002ae8", null ],
+    [ "SetImage", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a7589f7e221970a255ec6fe93468f2a39", null ],
+    [ "SetUnderage", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_a532fbae8bc148a389daa1547c9c0f298.html#a532fbae8bc148a389daa1547c9c0f298", null ],
+    [ "SetUserID", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#afb0a4063ad8732dfcf6c7f951790844b", null ],
+    [ "SetUserName", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a4f3ffb6c836de84198191080b22a98ab", null ],
+    [ "ToString", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a6da07e92702f4307b5c1aa6dfca992ab", null ],
+    [ "m_Authenticated", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_a373d0841ecea6a1a1c34ee550a8183a6.html#a373d0841ecea6a1a1c34ee550a8183a6", null ],
+    [ "m_Friends", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_a453c0b6d51957882f42ca25c017c556b.html#a453c0b6d51957882f42ca25c017c556b", null ],
+    [ "m_gameID", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a2ed42abaf2261aadc71a3c8ba88dc42b", null ],
+    [ "m_ID", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a268da966966f36197bf011bf0fd051a0", null ],
+    [ "m_Image", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a24c8ecf88068f48e0e9aa721f2e7be07", null ],
+    [ "m_IsFriend", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a690dc96fe040eb0a794c032c7e9d5ed8", null ],
+    [ "m_legacyID", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#aef944e4d807f45f564f559d1bdb8cca2", null ],
+    [ "m_State", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a89f90e5c078e04fa1dce7f3e27966c68", null ],
+    [ "m_Underage", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_ab5f8a7dd93bd25f2105ec34a6782b74f.html#ab5f8a7dd93bd25f2105ec34a6782b74f", null ],
+    [ "m_UserName", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#a3df934b281a485590dc887152094339a", null ],
+    [ "authenticated", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser_aa69916321332159bdecc40273e577427.html#aa69916321332159bdecc40273e577427", null ],
+    [ "id", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#aef0eaf35569090b46b6c53eeb2e4830c", null ],
+    [ "isFriend", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#ac6e5f5f901ef113bf0974470dd79c119", null ],
+    [ "state", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#adbdcbb852990468e826f1d41324cd5ef", null ],
+    [ "userName", "d9/dd4/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1LocalUser.html#ad3e85526138fff7ff9bf2053a6001995", null ]
+];

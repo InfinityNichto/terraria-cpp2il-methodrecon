@@ -1,0 +1,28 @@
+var structInControl_1_1OptionalFloat =
+[
+    [ "OptionalFloat", "d8/d51/structInControl_1_1OptionalFloat_a4b7b379b64c70a5b833d751549039366.html#a4b7b379b64c70a5b833d751549039366", null ],
+    [ "ApproximatelyEquals", "d8/d51/structInControl_1_1OptionalFloat_a8c6e5ba043f8e701557887bf685c3c9b.html#a8c6e5ba043f8e701557887bf685c3c9b", null ],
+    [ "Clear", "d8/d51/structInControl_1_1OptionalFloat_a72ec0cf5dc81d746f1154ef1e419da3b.html#a72ec0cf5dc81d746f1154ef1e419da3b", null ],
+    [ "CombineHashCodes", "d8/d51/structInControl_1_1OptionalFloat_a8b346a985218494587a9f36402039253.html#a8b346a985218494587a9f36402039253", null ],
+    [ "Equals", "d8/d51/structInControl_1_1OptionalFloat_a03f30af31413d4745616a07a9333251d.html#a03f30af31413d4745616a07a9333251d", null ],
+    [ "Equals", "d8/d51/structInControl_1_1OptionalFloat_ad548e27c27736ce19c18cdd292fc3a99.html#ad548e27c27736ce19c18cdd292fc3a99", null ],
+    [ "Equals", "d8/d51/structInControl_1_1OptionalFloat_af944d5849d5d9e7ef7d7cc47ad474c1d.html#af944d5849d5d9e7ef7d7cc47ad474c1d", null ],
+    [ "GetHashCode", "d8/d51/structInControl_1_1OptionalFloat_a1df49d7051cdbc7d8373f53b0f6110ca.html#a1df49d7051cdbc7d8373f53b0f6110ca", null ],
+    [ "GetValueOrDefault", "d8/d51/structInControl_1_1OptionalFloat_aafe9de560772b622204cd467cbc7888a.html#aafe9de560772b622204cd467cbc7888a", null ],
+    [ "GetValueOrZero", "d8/d51/structInControl_1_1OptionalFloat_a504c8a12c4043dcf73bd95ad07c698ec.html#a504c8a12c4043dcf73bd95ad07c698ec", null ],
+    [ "IsApproximatelyEqual", "d8/d51/structInControl_1_1OptionalFloat_a3060f769e8fe68a84b6e5476c0436828.html#a3060f769e8fe68a84b6e5476c0436828", null ],
+    [ "operator float", "d8/d51/structInControl_1_1OptionalFloat_a09c3ae2ab1c4ce7b21975315e7562705.html#a09c3ae2ab1c4ce7b21975315e7562705", null ],
+    [ "operator OptionalFloat", "d8/d51/structInControl_1_1OptionalFloat_ab8db3cc995e7556474349bff35e88600.html#ab8db3cc995e7556474349bff35e88600", null ],
+    [ "operator!=", "d8/d51/structInControl_1_1OptionalFloat_abaf0eeeb3d6fb4e85434265f7451c5a8.html#abaf0eeeb3d6fb4e85434265f7451c5a8", null ],
+    [ "operator!=", "d8/d51/structInControl_1_1OptionalFloat_a57ac462e257e3c0a92fcec6c62257290.html#a57ac462e257e3c0a92fcec6c62257290", null ],
+    [ "operator==", "d8/d51/structInControl_1_1OptionalFloat_a429eb023602807e3987eeeb9a6e97b16.html#a429eb023602807e3987eeeb9a6e97b16", null ],
+    [ "operator==", "d8/d51/structInControl_1_1OptionalFloat_a712e767513ae16a38357cdbd554a0314.html#a712e767513ae16a38357cdbd554a0314", null ],
+    [ "SetValue", "d8/d51/structInControl_1_1OptionalFloat_af0912736dfefb00c3f54a9cd7e08936c.html#af0912736dfefb00c3f54a9cd7e08936c", null ],
+    [ "ToString", "d8/d51/structInControl_1_1OptionalFloat_a2c13e49e03a03002501dde52624d9412.html#a2c13e49e03a03002501dde52624d9412", null ],
+    [ "epsilon", "d8/d51/structInControl_1_1OptionalFloat_ab439974521fcd49dcc34057d69c81bfa.html#ab439974521fcd49dcc34057d69c81bfa", null ],
+    [ "hasValue", "d8/d51/structInControl_1_1OptionalFloat_a39eeacd526771ceddc57ae657e1f68df.html#a39eeacd526771ceddc57ae657e1f68df", null ],
+    [ "value", "d8/d51/structInControl_1_1OptionalFloat_ac09780e88d774ac50a2f4e5c2372a69c.html#ac09780e88d774ac50a2f4e5c2372a69c", null ],
+    [ "HasNoValue", "d8/d51/structInControl_1_1OptionalFloat_a62b626a57d85362fe854473beef8fc62.html#a62b626a57d85362fe854473beef8fc62", null ],
+    [ "HasValue", "d8/d51/structInControl_1_1OptionalFloat_a3f88c8a51cb5c42d7658ae59d6f9f9cd.html#a3f88c8a51cb5c42d7658ae59d6f9f9cd", null ],
+    [ "Value", "d8/d51/structInControl_1_1OptionalFloat_ab618eb03de77a93f8b08978970e1398a.html#ab618eb03de77a93f8b08978970e1398a", null ]
+];

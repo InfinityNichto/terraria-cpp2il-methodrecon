@@ -1,0 +1,108 @@
+var namespaceSystem_1_1Configuration =
+[
+    [ "Assemblies", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies.html", [
+      [ "AssemblyHashAlgorithm", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7", [
+        [ "None", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7a6adf97f83acf6453d4a6a4b1070f3754", null ],
+        [ "MD5", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7a7f138a09169b250e9dcb378140907378", null ],
+        [ "SHA1", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7a9a9f4eb6d0036a164588b6ee74390442", null ],
+        [ "SHA256", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7ab505df5aa812b4f320420b8a952f20e5", null ],
+        [ "SHA384", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7ae446c175009b980a004574cb795388ab", null ],
+        [ "SHA512", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a99c6cf34f4093538e5cbe2f9f9d915a7.html#a99c6cf34f4093538e5cbe2f9f9d915a7adb6c5a350bb792ef07a62a1750962737", null ]
+      ] ],
+      [ "AssemblyVersionCompatibility", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a5db904a0191af95292b938f5a28266df.html#a5db904a0191af95292b938f5a28266df", [
+        [ "SameMachine", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a5db904a0191af95292b938f5a28266df.html#a5db904a0191af95292b938f5a28266dfa2db3287f5d31ba605cb868ae5a25f47c", null ],
+        [ "SameProcess", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a5db904a0191af95292b938f5a28266df.html#a5db904a0191af95292b938f5a28266dfa6f4586e683557d1e7a2079e56f852efb", null ],
+        [ "SameDomain", "d5/d19/namespaceSystem_1_1Configuration_1_1Assemblies_a5db904a0191af95292b938f5a28266df.html#a5db904a0191af95292b938f5a28266dfa08a51136fbb0535586f05c8ad73890b1", null ]
+      ] ]
+    ] ],
+    [ "Internal", "d6/d96/namespaceSystem_1_1Configuration_1_1Internal.html", "d6/d96/namespaceSystem_1_1Configuration_1_1Internal" ],
+    [ "Provider", "d2/d26/namespaceSystem_1_1Configuration_1_1Provider.html", "d2/d26/namespaceSystem_1_1Configuration_1_1Provider" ],
+    [ "ApplicationScopedSettingAttribute", "d0/d0a/classSystem_1_1Configuration_1_1ApplicationScopedSettingAttribute.html", "d0/d0a/classSystem_1_1Configuration_1_1ApplicationScopedSettingAttribute" ],
+    [ "ApplicationSettingsBase", "d2/dd2/classSystem_1_1Configuration_1_1ApplicationSettingsBase.html", "d2/dd2/classSystem_1_1Configuration_1_1ApplicationSettingsBase" ],
+    [ "ApplicationSettingsGroup", "d1/d2b/classSystem_1_1Configuration_1_1ApplicationSettingsGroup.html", "d1/d2b/classSystem_1_1Configuration_1_1ApplicationSettingsGroup" ],
+    [ "AppSettingsReader", "db/d2f/classSystem_1_1Configuration_1_1AppSettingsReader.html", "db/d2f/classSystem_1_1Configuration_1_1AppSettingsReader" ],
+    [ "ClientSettingsSection", "d8/d7d/classSystem_1_1Configuration_1_1ClientSettingsSection.html", "d8/d7d/classSystem_1_1Configuration_1_1ClientSettingsSection" ],
+    [ "Configuration", "d4/d55/classSystem_1_1Configuration_1_1Configuration.html", null ],
+    [ "ConfigurationCollectionAttribute", "d7/d5a/classSystem_1_1Configuration_1_1ConfigurationCollectionAttribute.html", "d7/d5a/classSystem_1_1Configuration_1_1ConfigurationCollectionAttribute" ],
+    [ "ConfigurationElement", "de/d66/classSystem_1_1Configuration_1_1ConfigurationElement.html", "de/d66/classSystem_1_1Configuration_1_1ConfigurationElement" ],
+    [ "ConfigurationElementCollection", "db/d9c/classSystem_1_1Configuration_1_1ConfigurationElementCollection.html", "db/d9c/classSystem_1_1Configuration_1_1ConfigurationElementCollection" ],
+    [ "ConfigurationException", "d2/d5f/classSystem_1_1Configuration_1_1ConfigurationException.html", "d2/d5f/classSystem_1_1Configuration_1_1ConfigurationException" ],
+    [ "ConfigurationPropertyCollection", "dd/d7a/classSystem_1_1Configuration_1_1ConfigurationPropertyCollection.html", null ],
+    [ "ConfigurationSection", "d3/d84/classSystem_1_1Configuration_1_1ConfigurationSection.html", "d3/d84/classSystem_1_1Configuration_1_1ConfigurationSection" ],
+    [ "ConfigurationSectionGroup", "d0/d2c/classSystem_1_1Configuration_1_1ConfigurationSectionGroup.html", null ],
+    [ "ConfigurationSettings", "d8/dec/classSystem_1_1Configuration_1_1ConfigurationSettings.html", "d8/dec/classSystem_1_1Configuration_1_1ConfigurationSettings" ],
+    [ "ConfigXmlDocument", "d8/d63/classSystem_1_1Configuration_1_1ConfigXmlDocument.html", "d8/d63/classSystem_1_1Configuration_1_1ConfigXmlDocument" ],
+    [ "DefaultSettingValueAttribute", "d6/d95/classSystem_1_1Configuration_1_1DefaultSettingValueAttribute.html", "d6/d95/classSystem_1_1Configuration_1_1DefaultSettingValueAttribute" ],
+    [ "DictionarySectionHandler", "dd/dd4/classSystem_1_1Configuration_1_1DictionarySectionHandler.html", "dd/dd4/classSystem_1_1Configuration_1_1DictionarySectionHandler" ],
+    [ "IApplicationSettingsProvider", "d5/d1c/interfaceSystem_1_1Configuration_1_1IApplicationSettingsProvider.html", "d5/d1c/interfaceSystem_1_1Configuration_1_1IApplicationSettingsProvider" ],
+    [ "IConfigurationSectionHandler", "df/d16/interfaceSystem_1_1Configuration_1_1IConfigurationSectionHandler.html", "df/d16/interfaceSystem_1_1Configuration_1_1IConfigurationSectionHandler" ],
+    [ "IConfigurationSystem", "d6/d96/interfaceSystem_1_1Configuration_1_1IConfigurationSystem.html", "d6/d96/interfaceSystem_1_1Configuration_1_1IConfigurationSystem" ],
+    [ "IdnElement", "df/db4/classSystem_1_1Configuration_1_1IdnElement.html", "df/db4/classSystem_1_1Configuration_1_1IdnElement" ],
+    [ "IgnoreSection", "d4/d34/classSystem_1_1Configuration_1_1IgnoreSection.html", "d4/d34/classSystem_1_1Configuration_1_1IgnoreSection" ],
+    [ "IgnoreSectionHandler", "d4/dc5/classSystem_1_1Configuration_1_1IgnoreSectionHandler.html", "d4/dc5/classSystem_1_1Configuration_1_1IgnoreSectionHandler" ],
+    [ "IPersistComponentSettings", "d4/d1f/interfaceSystem_1_1Configuration_1_1IPersistComponentSettings.html", "d4/d1f/interfaceSystem_1_1Configuration_1_1IPersistComponentSettings" ],
+    [ "IriParsingElement", "d7/dab/classSystem_1_1Configuration_1_1IriParsingElement.html", "d7/dab/classSystem_1_1Configuration_1_1IriParsingElement" ],
+    [ "ISettingsProviderService", "d5/d29/interfaceSystem_1_1Configuration_1_1ISettingsProviderService.html", "d5/d29/interfaceSystem_1_1Configuration_1_1ISettingsProviderService" ],
+    [ "LocalFileSettingsProvider", "da/dfd/classSystem_1_1Configuration_1_1LocalFileSettingsProvider.html", "da/dfd/classSystem_1_1Configuration_1_1LocalFileSettingsProvider" ],
+    [ "NameValueFileSectionHandler", "da/d40/classSystem_1_1Configuration_1_1NameValueFileSectionHandler.html", "da/d40/classSystem_1_1Configuration_1_1NameValueFileSectionHandler" ],
+    [ "NameValueSectionHandler", "d6/dca/classSystem_1_1Configuration_1_1NameValueSectionHandler.html", "d6/dca/classSystem_1_1Configuration_1_1NameValueSectionHandler" ],
+    [ "NoSettingsVersionUpgradeAttribute", "d0/de2/classSystem_1_1Configuration_1_1NoSettingsVersionUpgradeAttribute.html", "d0/de2/classSystem_1_1Configuration_1_1NoSettingsVersionUpgradeAttribute" ],
+    [ "SchemeSettingElement", "d0/da8/classSystem_1_1Configuration_1_1SchemeSettingElement.html", "d0/da8/classSystem_1_1Configuration_1_1SchemeSettingElement" ],
+    [ "SchemeSettingElementCollection", "d7/d65/classSystem_1_1Configuration_1_1SchemeSettingElementCollection.html", "d7/d65/classSystem_1_1Configuration_1_1SchemeSettingElementCollection" ],
+    [ "SettingAttribute", "de/d92/classSystem_1_1Configuration_1_1SettingAttribute.html", "de/d92/classSystem_1_1Configuration_1_1SettingAttribute" ],
+    [ "SettingChangingEventArgs", "d8/de1/classSystem_1_1Configuration_1_1SettingChangingEventArgs.html", "d8/de1/classSystem_1_1Configuration_1_1SettingChangingEventArgs" ],
+    [ "SettingChangingEventHandler", "d3/dac/classSystem_1_1Configuration_1_1SettingChangingEventHandler.html", "d3/dac/classSystem_1_1Configuration_1_1SettingChangingEventHandler" ],
+    [ "SettingElement", "d4/d76/classSystem_1_1Configuration_1_1SettingElement.html", "d4/d76/classSystem_1_1Configuration_1_1SettingElement" ],
+    [ "SettingElementCollection", "d8/d55/classSystem_1_1Configuration_1_1SettingElementCollection.html", "d8/d55/classSystem_1_1Configuration_1_1SettingElementCollection" ],
+    [ "SettingsAttributeDictionary", "d5/d1b/classSystem_1_1Configuration_1_1SettingsAttributeDictionary.html", "d5/d1b/classSystem_1_1Configuration_1_1SettingsAttributeDictionary" ],
+    [ "SettingsBase", "d4/df9/classSystem_1_1Configuration_1_1SettingsBase.html", "d4/df9/classSystem_1_1Configuration_1_1SettingsBase" ],
+    [ "SettingsContext", "d6/d5e/classSystem_1_1Configuration_1_1SettingsContext.html", "d6/d5e/classSystem_1_1Configuration_1_1SettingsContext" ],
+    [ "SettingsDescriptionAttribute", "d1/dd2/classSystem_1_1Configuration_1_1SettingsDescriptionAttribute.html", "d1/dd2/classSystem_1_1Configuration_1_1SettingsDescriptionAttribute" ],
+    [ "SettingsGroupDescriptionAttribute", "d0/d50/classSystem_1_1Configuration_1_1SettingsGroupDescriptionAttribute.html", "d0/d50/classSystem_1_1Configuration_1_1SettingsGroupDescriptionAttribute" ],
+    [ "SettingsGroupNameAttribute", "db/d3e/classSystem_1_1Configuration_1_1SettingsGroupNameAttribute.html", "db/d3e/classSystem_1_1Configuration_1_1SettingsGroupNameAttribute" ],
+    [ "SettingsLoadedEventArgs", "db/dbc/classSystem_1_1Configuration_1_1SettingsLoadedEventArgs.html", "db/dbc/classSystem_1_1Configuration_1_1SettingsLoadedEventArgs" ],
+    [ "SettingsLoadedEventHandler", "dc/d9e/classSystem_1_1Configuration_1_1SettingsLoadedEventHandler.html", "dc/d9e/classSystem_1_1Configuration_1_1SettingsLoadedEventHandler" ],
+    [ "SettingsManageabilityAttribute", "d7/d19/classSystem_1_1Configuration_1_1SettingsManageabilityAttribute.html", "d7/d19/classSystem_1_1Configuration_1_1SettingsManageabilityAttribute" ],
+    [ "SettingsProperty", "d0/da7/classSystem_1_1Configuration_1_1SettingsProperty.html", "d0/da7/classSystem_1_1Configuration_1_1SettingsProperty" ],
+    [ "SettingsPropertyCollection", "d2/da7/classSystem_1_1Configuration_1_1SettingsPropertyCollection.html", "d2/da7/classSystem_1_1Configuration_1_1SettingsPropertyCollection" ],
+    [ "SettingsPropertyIsReadOnlyException", "da/d01/classSystem_1_1Configuration_1_1SettingsPropertyIsReadOnlyException.html", "da/d01/classSystem_1_1Configuration_1_1SettingsPropertyIsReadOnlyException" ],
+    [ "SettingsPropertyNotFoundException", "d8/d33/classSystem_1_1Configuration_1_1SettingsPropertyNotFoundException.html", "d8/d33/classSystem_1_1Configuration_1_1SettingsPropertyNotFoundException" ],
+    [ "SettingsPropertyValue", "d6/de4/classSystem_1_1Configuration_1_1SettingsPropertyValue.html", "d6/de4/classSystem_1_1Configuration_1_1SettingsPropertyValue" ],
+    [ "SettingsPropertyValueCollection", "d6/df0/classSystem_1_1Configuration_1_1SettingsPropertyValueCollection.html", "d6/df0/classSystem_1_1Configuration_1_1SettingsPropertyValueCollection" ],
+    [ "SettingsPropertyWrongTypeException", "d8/d21/classSystem_1_1Configuration_1_1SettingsPropertyWrongTypeException.html", "d8/d21/classSystem_1_1Configuration_1_1SettingsPropertyWrongTypeException" ],
+    [ "SettingsProvider", "db/de4/classSystem_1_1Configuration_1_1SettingsProvider.html", "db/de4/classSystem_1_1Configuration_1_1SettingsProvider" ],
+    [ "SettingsProviderAttribute", "d2/dae/classSystem_1_1Configuration_1_1SettingsProviderAttribute.html", "d2/dae/classSystem_1_1Configuration_1_1SettingsProviderAttribute" ],
+    [ "SettingsProviderCollection", "d7/d4e/classSystem_1_1Configuration_1_1SettingsProviderCollection.html", "d7/d4e/classSystem_1_1Configuration_1_1SettingsProviderCollection" ],
+    [ "SettingsSavingEventHandler", "d9/de3/classSystem_1_1Configuration_1_1SettingsSavingEventHandler.html", "d9/de3/classSystem_1_1Configuration_1_1SettingsSavingEventHandler" ],
+    [ "SettingsSerializeAsAttribute", "dc/d8a/classSystem_1_1Configuration_1_1SettingsSerializeAsAttribute.html", "dc/d8a/classSystem_1_1Configuration_1_1SettingsSerializeAsAttribute" ],
+    [ "SettingValueElement", "d8/daa/classSystem_1_1Configuration_1_1SettingValueElement.html", "d8/daa/classSystem_1_1Configuration_1_1SettingValueElement" ],
+    [ "SingleTagSectionHandler", "de/d55/classSystem_1_1Configuration_1_1SingleTagSectionHandler.html", "de/d55/classSystem_1_1Configuration_1_1SingleTagSectionHandler" ],
+    [ "SpecialSettingAttribute", "df/d3d/classSystem_1_1Configuration_1_1SpecialSettingAttribute.html", "df/d3d/classSystem_1_1Configuration_1_1SpecialSettingAttribute" ],
+    [ "UriSection", "dd/dc1/classSystem_1_1Configuration_1_1UriSection.html", "dd/dc1/classSystem_1_1Configuration_1_1UriSection" ],
+    [ "UserScopedSettingAttribute", "d5/ded/classSystem_1_1Configuration_1_1UserScopedSettingAttribute.html", "d5/ded/classSystem_1_1Configuration_1_1UserScopedSettingAttribute" ],
+    [ "UserSettingsGroup", "d7/d6b/classSystem_1_1Configuration_1_1UserSettingsGroup.html", "d7/d6b/classSystem_1_1Configuration_1_1UserSettingsGroup" ],
+    [ "ConfigurationElementCollectionType", "d9/d9d/namespaceSystem_1_1Configuration_a10c86e0e0ad9b222ccab8b1fc3d94216.html#a10c86e0e0ad9b222ccab8b1fc3d94216", [
+      [ "AddRemoveClearMap", "d9/d9d/namespaceSystem_1_1Configuration_a10c86e0e0ad9b222ccab8b1fc3d94216.html#a10c86e0e0ad9b222ccab8b1fc3d94216a865f3f201d70e132e2c098d9a4d0918f", null ],
+      [ "AddRemoveClearMapAlternate", "d9/d9d/namespaceSystem_1_1Configuration_a10c86e0e0ad9b222ccab8b1fc3d94216.html#a10c86e0e0ad9b222ccab8b1fc3d94216a2f27e2506802749461dd5b1ecc71c51c", null ],
+      [ "BasicMap", "d9/d9d/namespaceSystem_1_1Configuration_a10c86e0e0ad9b222ccab8b1fc3d94216.html#a10c86e0e0ad9b222ccab8b1fc3d94216a7d66e9b7360b4318bbd96821ce6339b7", null ],
+      [ "BasicMapAlternate", "d9/d9d/namespaceSystem_1_1Configuration_a10c86e0e0ad9b222ccab8b1fc3d94216.html#a10c86e0e0ad9b222ccab8b1fc3d94216ab21fe722633e70814738e8b5e15a8e0d", null ]
+    ] ],
+    [ "ConfigurationSaveMode", "d9/d9d/namespaceSystem_1_1Configuration_a6c5c65ab41400f773d19b96f62a1b270.html#a6c5c65ab41400f773d19b96f62a1b270", [
+      [ "Full", "d9/d9d/namespaceSystem_1_1Configuration_a6c5c65ab41400f773d19b96f62a1b270.html#a6c5c65ab41400f773d19b96f62a1b270abbd47109890259c0127154db1af26c75", null ],
+      [ "Minimal", "d9/d9d/namespaceSystem_1_1Configuration_a6c5c65ab41400f773d19b96f62a1b270.html#a6c5c65ab41400f773d19b96f62a1b270a30fc6bbba82125243ecf4ddb27fee645", null ],
+      [ "Modified", "d9/d9d/namespaceSystem_1_1Configuration_a6c5c65ab41400f773d19b96f62a1b270.html#a6c5c65ab41400f773d19b96f62a1b270a35e0c8c0b180c95d4e122e55ed62cc64", null ]
+    ] ],
+    [ "SettingsManageability", "d9/d9d/namespaceSystem_1_1Configuration_a12c1072ee6b140c79b3a0261d8499d81.html#a12c1072ee6b140c79b3a0261d8499d81", [
+      [ "Roaming", "d9/d9d/namespaceSystem_1_1Configuration_a12c1072ee6b140c79b3a0261d8499d81.html#a12c1072ee6b140c79b3a0261d8499d81a48e479c8d87de78171b5ca989c2664a5", null ]
+    ] ],
+    [ "SettingsSerializeAs", "d9/d9d/namespaceSystem_1_1Configuration_adedb80de0496321cebfbcaf7aa5aa9de.html#adedb80de0496321cebfbcaf7aa5aa9de", [
+      [ "Binary", "d9/d9d/namespaceSystem_1_1Configuration_adedb80de0496321cebfbcaf7aa5aa9de.html#adedb80de0496321cebfbcaf7aa5aa9dea6ce976e8f061b2b5cfe4d0c50c3405dd", null ],
+      [ "ProviderSpecific", "d9/d9d/namespaceSystem_1_1Configuration_adedb80de0496321cebfbcaf7aa5aa9de.html#adedb80de0496321cebfbcaf7aa5aa9deaca1b55045b75eca20ca5be3a4e29b1d2", null ],
+      [ "String", "d9/d9d/namespaceSystem_1_1Configuration_adedb80de0496321cebfbcaf7aa5aa9de.html#adedb80de0496321cebfbcaf7aa5aa9dea27118326006d3829667a400ad23d5d98", null ],
+      [ "Xml", "d9/d9d/namespaceSystem_1_1Configuration_adedb80de0496321cebfbcaf7aa5aa9de.html#adedb80de0496321cebfbcaf7aa5aa9dea9ec8e4e3ab4c7eeba097f27d7364d743", null ]
+    ] ],
+    [ "SpecialSetting", "d9/d9d/namespaceSystem_1_1Configuration_a32e6befd82e1e9c168b4a32a7797b925.html#a32e6befd82e1e9c168b4a32a7797b925", [
+      [ "ConnectionString", "d9/d9d/namespaceSystem_1_1Configuration_a32e6befd82e1e9c168b4a32a7797b925.html#a32e6befd82e1e9c168b4a32a7797b925a707a9c057c759a8eba2c21cec674b4a1", null ],
+      [ "WebServiceUrl", "d9/d9d/namespaceSystem_1_1Configuration_a32e6befd82e1e9c168b4a32a7797b925.html#a32e6befd82e1e9c168b4a32a7797b925a292cf711438d76b71b53c59828aaa5ac", null ]
+    ] ]
+];

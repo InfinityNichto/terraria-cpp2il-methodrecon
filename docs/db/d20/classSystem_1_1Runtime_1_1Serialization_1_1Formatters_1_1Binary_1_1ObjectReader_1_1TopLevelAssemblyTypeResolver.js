@@ -1,0 +1,6 @@
+var classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectReader_1_1TopLevelAssemblyTypeResolver =
+[
+    [ "TopLevelAssemblyTypeResolver", "db/d20/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectReader_1_1TopLevelAssemblyTypeResolver_a6d7152a6f637b4ae61fcdbba2b40b306.html#a6d7152a6f637b4ae61fcdbba2b40b306", null ],
+    [ "ResolveType", "db/d20/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectReader_1_1TopLevelAssemblyTypeResolver_a41de7c3f00e53ced0eea424f576bd2ab.html#a41de7c3f00e53ced0eea424f576bd2ab", null ],
+    [ "m_topLevelAssembly", "db/d20/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectReader_1_1TopLevelAssemblyTypeResolver_aef18ec6381684748a199fbcb7ac21b4d.html#aef18ec6381684748a199fbcb7ac21b4d", null ]
+];

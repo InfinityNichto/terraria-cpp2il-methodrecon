@@ -1,0 +1,28 @@
+var classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder =
+[
+    [ "Decoder", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder_a7fce67eb1ef8605fe165a12105940565.html#a7fce67eb1ef8605fe165a12105940565", null ],
+    [ "ClearMustFlush", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#ad4ba84c7e18c4b6bbc103f69c96b7a8e", null ],
+    [ "Convert", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#ab11f6c9a032cf977dfdf1207dd669d3d", null ],
+    [ "Convert", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#aac4c6fe965dc44a00fd4b56213493bc7", null ],
+    [ "GetCharCount", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a35c3730b91656b31e193db928e32fd99", null ],
+    [ "GetCharCount", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#aede3ad4421d65c0ffd04b8fee5f1c609", null ],
+    [ "GetCharCount", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a24cd1a87ac8266c3a5371c64f45ee8b2", null ],
+    [ "GetChars", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#afc421e9a7711c3ed0a0d5e0baf55bd21", null ],
+    [ "GetChars", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#ab12e2822a3ae58c146910de6659bd1ba", null ],
+    [ "GetChars", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#abe4de7a7eef2ab248b5198cbd9ab557f", null ],
+    [ "GetChars", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a179c27086080bcfd32dd9dd60dbe2df3", null ],
+    [ "Reset", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder_a00f2be6807107212b6f0fc0bbe5f93a3.html#a00f2be6807107212b6f0fc0bbe5f93a3", null ],
+    [ "_bytesUsed", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#ab1331c524605b2c228d323e24acd6381", null ],
+    [ "_encoding", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a6aea204da0d3b8441eb8319b78db10ed", null ],
+    [ "_fallback", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a1c7d5287283299c41ff225f593bf765a", null ],
+    [ "_fallbackBuffer", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a782e579831c5e504d3fdd7ca4b54c139", null ],
+    [ "_mustFlush", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a5d9fb7bf28904eda20f3289a4eef8780", null ],
+    [ "_throwOnOverflow", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#ad79628be30d507b7fbd3afb97cbb9ac0", null ],
+    [ "lastByte", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder_a6587b9c5e7703e8d18a80cdd703a442d.html#a6587b9c5e7703e8d18a80cdd703a442d", null ],
+    [ "lastChar", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder_a884d4aaeb91604fa85f54c5f83093cc2.html#a884d4aaeb91604fa85f54c5f83093cc2", null ],
+    [ "Fallback", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a218aed86356aef5ca59a9f017b7e6903", null ],
+    [ "FallbackBuffer", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a08a43bb3640ad53e9e22ad397a55ff1d", null ],
+    [ "HasState", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder_a01c00e73006b9b77081f8c6551c3cfb8.html#a01c00e73006b9b77081f8c6551c3cfb8", null ],
+    [ "InternalHasFallbackBuffer", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#a7889f9380a7cd8efc53df19a4ce0e504", null ],
+    [ "MustFlush", "d2/dea/classSystem_1_1Text_1_1UnicodeEncoding_1_1Decoder.html#aa9537b83bf5fae0c27e67da9cec697d3", null ]
+];

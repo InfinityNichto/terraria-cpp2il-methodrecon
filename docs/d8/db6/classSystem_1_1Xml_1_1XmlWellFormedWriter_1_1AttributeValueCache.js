@@ -1,0 +1,37 @@
+var classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache =
+[
+    [ "BufferChunk", "de/d4e/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_1_1BufferChunk.html", "de/d4e/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_1_1BufferChunk" ],
+    [ "Item", "d9/d95/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_1_1Item.html", "d9/d95/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_1_1Item" ],
+    [ "ItemType", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315", [
+      [ "EntityRef", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315a06ca4a6045aa22947b4ba52879cf951c", null ],
+      [ "CharEntity", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315ae69ec7152501557b83e1c81e61aec841", null ],
+      [ "SurrogateCharEntity", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315ab625808db2b324d3702791f26fa616cf", null ],
+      [ "Whitespace", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315ace9a733c2ae3f8b704aec91f551b2bcc", null ],
+      [ "String", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315a27118326006d3829667a400ad23d5d98", null ],
+      [ "StringChars", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315a11d424cf6b5d7c897f657d99bac0074d", null ],
+      [ "Raw", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315a65e65c8ab0d8609ce12fc68a03cb8e00", null ],
+      [ "RawChars", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315aa42d793633748c5ca7149fc4c74dfa06", null ],
+      [ "ValueString", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a254a245b7fc6c4cc924e15b885ef9315.html#a254a245b7fc6c4cc924e15b885ef9315a605374fc2419ea72c65a3b7fb4185647", null ]
+    ] ],
+    [ "AttributeValueCache", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_ae369c7db073e18fe66e948a87bd7ac3b.html#ae369c7db073e18fe66e948a87bd7ac3b", null ],
+    [ "AddItem", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a98dbad7d5bbde55b94af19f00da78c51.html#a98dbad7d5bbde55b94af19f00da78c51", null ],
+    [ "Clear", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_ae60e09df009b3b2826334a5651cc279a.html#ae60e09df009b3b2826334a5651cc279a", null ],
+    [ "Replay", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_ad000c70edcea33e70492b1e8234076dd.html#ad000c70edcea33e70492b1e8234076dd", null ],
+    [ "StartComplexValue", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a5e034def45f58bcf1d103636e036502a.html#a5e034def45f58bcf1d103636e036502a", null ],
+    [ "Trim", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a27992df98518d2274638b3dbf68eb041.html#a27992df98518d2274638b3dbf68eb041", null ],
+    [ "WriteCharEntity", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a06233ef49a5903e2f4057600c0d6e7cc.html#a06233ef49a5903e2f4057600c0d6e7cc", null ],
+    [ "WriteChars", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_aa61580c0dbd346d8172acbee6f818414.html#aa61580c0dbd346d8172acbee6f818414", null ],
+    [ "WriteEntityRef", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_abbd6aecb8e88ca07354b36acafc96012.html#abbd6aecb8e88ca07354b36acafc96012", null ],
+    [ "WriteRaw", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a3a7e86270fb6b43c5cbab41eb35fe0cd.html#a3a7e86270fb6b43c5cbab41eb35fe0cd", null ],
+    [ "WriteRaw", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_ab4373a4ebaf43d8b3da1a2cea39760b5.html#ab4373a4ebaf43d8b3da1a2cea39760b5", null ],
+    [ "WriteString", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a920f9f556fd5b465cde73df4b8525147.html#a920f9f556fd5b465cde73df4b8525147", null ],
+    [ "WriteSurrogateCharEntity", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_adc592dd46dd97786a75b0787acdb7e2d.html#adc592dd46dd97786a75b0787acdb7e2d", null ],
+    [ "WriteValue", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_ae9a65d7f6d6dd409d7b1a7d510c4d18f.html#ae9a65d7f6d6dd409d7b1a7d510c4d18f", null ],
+    [ "WriteWhitespace", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a308ac82d12e9d52b1576ef161d259e86.html#a308ac82d12e9d52b1576ef161d259e86", null ],
+    [ "firstItem", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_ae0f1cb23cf9b8a2959c6171a03144ad4.html#ae0f1cb23cf9b8a2959c6171a03144ad4", null ],
+    [ "items", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a75e6bf25d85784b20d01c4546ce1f8a0.html#a75e6bf25d85784b20d01c4546ce1f8a0", null ],
+    [ "lastItem", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a9adacd720c12497747cad5ac64daa8aa.html#a9adacd720c12497747cad5ac64daa8aa", null ],
+    [ "singleStringValue", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_af524dd86dde53eadf9ef85c1f7fd79be.html#af524dd86dde53eadf9ef85c1f7fd79be", null ],
+    [ "stringValue", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_a130865e935e82370e1fd28f1df928bae.html#a130865e935e82370e1fd28f1df928bae", null ],
+    [ "StringValue", "d8/db6/classSystem_1_1Xml_1_1XmlWellFormedWriter_1_1AttributeValueCache_add094ffb87a140f7bb2ebd742c182791.html#add094ffb87a140f7bb2ebd742c182791", null ]
+];

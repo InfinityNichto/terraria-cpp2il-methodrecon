@@ -1,0 +1,36 @@
+var classSystem_1_1Net_1_1WebConnectionTunnel =
+[
+    [ "d__42", "d6/d24/structSystem_1_1Net_1_1WebConnectionTunnel_1_1d____42.html", "d6/d24/structSystem_1_1Net_1_1WebConnectionTunnel_1_1d____42" ],
+    [ "d__43", "dc/d8d/structSystem_1_1Net_1_1WebConnectionTunnel_1_1d____43.html", "dc/d8d/structSystem_1_1Net_1_1WebConnectionTunnel_1_1d____43" ],
+    [ "NtlmAuthState", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ad130d2c7773011cb341e9a0370aefb9d.html#ad130d2c7773011cb341e9a0370aefb9d", [
+      [ "None", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ad130d2c7773011cb341e9a0370aefb9d.html#ad130d2c7773011cb341e9a0370aefb9da6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "Challenge", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ad130d2c7773011cb341e9a0370aefb9d.html#ad130d2c7773011cb341e9a0370aefb9dab5f5623b6137a89a1dadf079a5e92266", null ],
+      [ "Response", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ad130d2c7773011cb341e9a0370aefb9d.html#ad130d2c7773011cb341e9a0370aefb9dad64ed3e9c10229648e069f56e32f4c8e", null ]
+    ] ],
+    [ "WebConnectionTunnel", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a662b971d1737ed4e744a1126d9486975.html#a662b971d1737ed4e744a1126d9486975", null ],
+    [ "FlushContents", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_abb109da6090cf0cf6b588f8a792c4aa3.html#abb109da6090cf0cf6b588f8a792c4aa3", null ],
+    [ "Initialize", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ac5b591dbd043b18073be5f6dd743d47e.html#ac5b591dbd043b18073be5f6dd743d47e", null ],
+    [ "ReadHeaders", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ac14af9a8c1f95d9450544b9d823eea08.html#ac14af9a8c1f95d9450544b9d823eea08", null ],
+    [ "connectRequest", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a4a6c0f2a7a6ed797eccda9c2a5565dd9.html#a4a6c0f2a7a6ed797eccda9c2a5565dd9", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a341b87a618c8edcfed6c80ce96facdb7.html#a341b87a618c8edcfed6c80ce96facdb7", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a1ce94cb457f251c2d678db8b90cc15f8.html#a1ce94cb457f251c2d678db8b90cc15f8", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_af6752d2a445a2bd3c503f1d4eee90218.html#af6752d2a445a2bd3c503f1d4eee90218", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a379621299b806f369350c9a17d776870.html#a379621299b806f369350c9a17d776870", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a54746e8c653f974c57fd4d78373015e6.html#a54746e8c653f974c57fd4d78373015e6", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ad33ca4247b2bd085720cb65a1fe63f50.html#ad33ca4247b2bd085720cb65a1fe63f50", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a6e1f6a5d62047b6289800c3b9df43323.html#a6e1f6a5d62047b6289800c3b9df43323", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_add2c83a35b74147f335d7a04758b2b73.html#add2c83a35b74147f335d7a04758b2b73", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a6c7e13784a22d75cda4d0a5f572a644e.html#a6c7e13784a22d75cda4d0a5f572a644e", null ],
+    [ "k__BackingField", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a499ef2f7452890f481e1f3f715622040.html#a499ef2f7452890f481e1f3f715622040", null ],
+    [ "ntlmAuthState", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ac8c41ffa7492f5a0d11312da542e5462.html#ac8c41ffa7492f5a0d11312da542e5462", null ],
+    [ "Challenge", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_aa95afc334db1aaa782cee561c7c0952d.html#aa95afc334db1aaa782cee561c7c0952d", null ],
+    [ "CloseConnection", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a129b7f58aa41b98e512d8140d92e8a97.html#a129b7f58aa41b98e512d8140d92e8a97", null ],
+    [ "ConnectUri", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a41a83152ccfb6d69b3150c2edbc61a80.html#a41a83152ccfb6d69b3150c2edbc61a80", null ],
+    [ "Data", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a79a4d25fdbb89c614c9eb67bb882fc8a.html#a79a4d25fdbb89c614c9eb67bb882fc8a", null ],
+    [ "Headers", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ac3927944066e624ead4a441cf2093b25.html#ac3927944066e624ead4a441cf2093b25", null ],
+    [ "ProxyVersion", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a3ce864d2a3c977cdf04b19dd6652257e.html#a3ce864d2a3c977cdf04b19dd6652257e", null ],
+    [ "Request", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a5d372620c4195273286944eb9ec762f7.html#a5d372620c4195273286944eb9ec762f7", null ],
+    [ "StatusCode", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_a2854d6874c1b3201be8dda42dd8a9972.html#a2854d6874c1b3201be8dda42dd8a9972", null ],
+    [ "StatusDescription", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_aa05c35b3395bd8d466343c772d6484ca.html#aa05c35b3395bd8d466343c772d6484ca", null ],
+    [ "Success", "da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_aba89e0a7e9040e957b2862c7d9e7c2c8.html#aba89e0a7e9040e957b2862c7d9e7c2c8", null ]
+];

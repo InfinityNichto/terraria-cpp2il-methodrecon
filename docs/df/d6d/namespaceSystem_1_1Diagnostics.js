@@ -1,0 +1,86 @@
+var namespaceSystem_1_1Diagnostics =
+[
+    [ "Contracts", "da/d95/namespaceSystem_1_1Diagnostics_1_1Contracts.html", "da/d95/namespaceSystem_1_1Diagnostics_1_1Contracts" ],
+    [ "Tracing", "d1/d08/namespaceSystem_1_1Diagnostics_1_1Tracing.html", "d1/d08/namespaceSystem_1_1Diagnostics_1_1Tracing" ],
+    [ "AsyncStreamReader", "d8/dfb/classSystem_1_1Diagnostics_1_1AsyncStreamReader.html", "d8/dfb/classSystem_1_1Diagnostics_1_1AsyncStreamReader" ],
+    [ "BooleanSwitch", "d4/db5/classSystem_1_1Diagnostics_1_1BooleanSwitch.html", "d4/db5/classSystem_1_1Diagnostics_1_1BooleanSwitch" ],
+    [ "ConditionalAttribute", "d4/d1e/classSystem_1_1Diagnostics_1_1ConditionalAttribute.html", "d4/d1e/classSystem_1_1Diagnostics_1_1ConditionalAttribute" ],
+    [ "CorrelationManager", "d9/d1c/classSystem_1_1Diagnostics_1_1CorrelationManager.html", "d9/d1c/classSystem_1_1Diagnostics_1_1CorrelationManager" ],
+    [ "DebuggableAttribute", "d1/d8a/classSystem_1_1Diagnostics_1_1DebuggableAttribute.html", "d1/d8a/classSystem_1_1Diagnostics_1_1DebuggableAttribute" ],
+    [ "Debugger", "d8/d1d/classSystem_1_1Diagnostics_1_1Debugger.html", "d8/d1d/classSystem_1_1Diagnostics_1_1Debugger" ],
+    [ "DebuggerBrowsableAttribute", "d9/dff/classSystem_1_1Diagnostics_1_1DebuggerBrowsableAttribute.html", "d9/dff/classSystem_1_1Diagnostics_1_1DebuggerBrowsableAttribute" ],
+    [ "DebuggerDisplayAttribute", "d6/dbb/classSystem_1_1Diagnostics_1_1DebuggerDisplayAttribute.html", "d6/dbb/classSystem_1_1Diagnostics_1_1DebuggerDisplayAttribute" ],
+    [ "DebuggerHiddenAttribute", "df/d3c/classSystem_1_1Diagnostics_1_1DebuggerHiddenAttribute.html", "df/d3c/classSystem_1_1Diagnostics_1_1DebuggerHiddenAttribute" ],
+    [ "DebuggerNonUserCodeAttribute", "d3/d7f/classSystem_1_1Diagnostics_1_1DebuggerNonUserCodeAttribute.html", "d3/d7f/classSystem_1_1Diagnostics_1_1DebuggerNonUserCodeAttribute" ],
+    [ "DebuggerStepThroughAttribute", "dc/d7e/classSystem_1_1Diagnostics_1_1DebuggerStepThroughAttribute.html", "dc/d7e/classSystem_1_1Diagnostics_1_1DebuggerStepThroughAttribute" ],
+    [ "DebuggerTypeProxyAttribute", "da/d77/classSystem_1_1Diagnostics_1_1DebuggerTypeProxyAttribute.html", "da/d77/classSystem_1_1Diagnostics_1_1DebuggerTypeProxyAttribute" ],
+    [ "DefaultTraceListener", "d5/d98/classSystem_1_1Diagnostics_1_1DefaultTraceListener.html", "d5/d98/classSystem_1_1Diagnostics_1_1DefaultTraceListener" ],
+    [ "DiagnosticsConfigurationHandler", "d1/d61/classSystem_1_1Diagnostics_1_1DiagnosticsConfigurationHandler.html", "d1/d61/classSystem_1_1Diagnostics_1_1DiagnosticsConfigurationHandler" ],
+    [ "MonitoringDescriptionAttribute", "dd/dcf/classSystem_1_1Diagnostics_1_1MonitoringDescriptionAttribute.html", "dd/dcf/classSystem_1_1Diagnostics_1_1MonitoringDescriptionAttribute" ],
+    [ "Process", "df/d53/classSystem_1_1Diagnostics_1_1Process.html", "df/d53/classSystem_1_1Diagnostics_1_1Process" ],
+    [ "ProcessInfo", "df/dd5/classSystem_1_1Diagnostics_1_1ProcessInfo.html", null ],
+    [ "ProcessModuleCollection", "d7/d68/classSystem_1_1Diagnostics_1_1ProcessModuleCollection.html", "d7/d68/classSystem_1_1Diagnostics_1_1ProcessModuleCollection" ],
+    [ "ProcessStartInfo", "d9/da4/classSystem_1_1Diagnostics_1_1ProcessStartInfo.html", "d9/da4/classSystem_1_1Diagnostics_1_1ProcessStartInfo" ],
+    [ "ProcessThreadCollection", "dd/dd0/classSystem_1_1Diagnostics_1_1ProcessThreadCollection.html", "dd/dd0/classSystem_1_1Diagnostics_1_1ProcessThreadCollection" ],
+    [ "ProcessWaitHandle", "d2/d95/classSystem_1_1Diagnostics_1_1ProcessWaitHandle.html", "d2/d95/classSystem_1_1Diagnostics_1_1ProcessWaitHandle" ],
+    [ "StackFrame", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame.html", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame" ],
+    [ "StackTrace", "dd/d5b/classSystem_1_1Diagnostics_1_1StackTrace.html", "dd/d5b/classSystem_1_1Diagnostics_1_1StackTrace" ],
+    [ "StackTraceHiddenAttribute", "d0/dcf/classSystem_1_1Diagnostics_1_1StackTraceHiddenAttribute.html", "d0/dcf/classSystem_1_1Diagnostics_1_1StackTraceHiddenAttribute" ],
+    [ "Stopwatch", "d4/d0c/classSystem_1_1Diagnostics_1_1Stopwatch.html", "d4/d0c/classSystem_1_1Diagnostics_1_1Stopwatch" ],
+    [ "Switch", "d6/d2e/classSystem_1_1Diagnostics_1_1Switch.html", "d6/d2e/classSystem_1_1Diagnostics_1_1Switch" ],
+    [ "SwitchLevelAttribute", "da/dd0/classSystem_1_1Diagnostics_1_1SwitchLevelAttribute.html", "da/dd0/classSystem_1_1Diagnostics_1_1SwitchLevelAttribute" ],
+    [ "Trace", "d2/dcf/classSystem_1_1Diagnostics_1_1Trace.html", "d2/dcf/classSystem_1_1Diagnostics_1_1Trace" ],
+    [ "TraceEventCache", "d0/dfc/classSystem_1_1Diagnostics_1_1TraceEventCache.html", "d0/dfc/classSystem_1_1Diagnostics_1_1TraceEventCache" ],
+    [ "TraceFilter", "d5/d37/classSystem_1_1Diagnostics_1_1TraceFilter.html", "d5/d37/classSystem_1_1Diagnostics_1_1TraceFilter" ],
+    [ "TraceInternal", "da/d4d/classSystem_1_1Diagnostics_1_1TraceInternal.html", "da/d4d/classSystem_1_1Diagnostics_1_1TraceInternal" ],
+    [ "TraceListener", "d0/de9/classSystem_1_1Diagnostics_1_1TraceListener.html", "d0/de9/classSystem_1_1Diagnostics_1_1TraceListener" ],
+    [ "TraceListenerCollection", "d0/d55/classSystem_1_1Diagnostics_1_1TraceListenerCollection.html", "d0/d55/classSystem_1_1Diagnostics_1_1TraceListenerCollection" ],
+    [ "TraceSwitch", "d5/dae/classSystem_1_1Diagnostics_1_1TraceSwitch.html", "d5/dae/classSystem_1_1Diagnostics_1_1TraceSwitch" ],
+    [ "DebuggerBrowsableState", "df/d6d/namespaceSystem_1_1Diagnostics_a486561cf4fed2ee8a7180f9c436412cf.html#a486561cf4fed2ee8a7180f9c436412cf", [
+      [ "Never", "df/d6d/namespaceSystem_1_1Diagnostics_a486561cf4fed2ee8a7180f9c436412cf.html#a486561cf4fed2ee8a7180f9c436412cfa6e7b34fa59e1bd229b207892956dc41c", null ],
+      [ "Collapsed", "df/d6d/namespaceSystem_1_1Diagnostics_a486561cf4fed2ee8a7180f9c436412cf.html#a486561cf4fed2ee8a7180f9c436412cfaab27f5ee6b3e86fe7260fdd770a72010", null ],
+      [ "RootHidden", "df/d6d/namespaceSystem_1_1Diagnostics_a486561cf4fed2ee8a7180f9c436412cf.html#a486561cf4fed2ee8a7180f9c436412cfa825af039513d8fa02251756b6971963d", null ]
+    ] ],
+    [ "ProcessPriorityClass", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7", [
+      [ "AboveNormal", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7a930ee274ea2e4d208702d4695b3ec0f4", null ],
+      [ "BelowNormal", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7ab59972ff632793f205ffc303eba53481", null ],
+      [ "High", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7a655d20c1ca69519ca647684edbb2db35", null ],
+      [ "Idle", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7ae599161956d626eda4cb0a5ffb85271c", null ],
+      [ "Normal", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7a960b44c579bc2f6818d2daaf9e4c16f0", null ],
+      [ "RealTime", "df/d6d/namespaceSystem_1_1Diagnostics_a951637ed2de125b459eba4dccf8ef7f7.html#a951637ed2de125b459eba4dccf8ef7f7ad50ae798e3aa50c3a502118e759cc216", null ]
+    ] ],
+    [ "ProcessWindowStyle", "df/d6d/namespaceSystem_1_1Diagnostics_aebe7e437a691696d1451d62279d794dd.html#aebe7e437a691696d1451d62279d794dd", [
+      [ "Hidden", "df/d6d/namespaceSystem_1_1Diagnostics_aebe7e437a691696d1451d62279d794dd.html#aebe7e437a691696d1451d62279d794dda7acdf85c69cc3c5305456a293524386e", null ],
+      [ "Maximized", "df/d6d/namespaceSystem_1_1Diagnostics_aebe7e437a691696d1451d62279d794dd.html#aebe7e437a691696d1451d62279d794dda49d903a5c02560cf79bf6b516cc89457", null ],
+      [ "Minimized", "df/d6d/namespaceSystem_1_1Diagnostics_aebe7e437a691696d1451d62279d794dd.html#aebe7e437a691696d1451d62279d794dda074afcc50ae51f248cbae4950845549e", null ],
+      [ "Normal", "df/d6d/namespaceSystem_1_1Diagnostics_aebe7e437a691696d1451d62279d794dd.html#aebe7e437a691696d1451d62279d794dda960b44c579bc2f6818d2daaf9e4c16f0", null ]
+    ] ],
+    [ "TraceEventType", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72f", [
+      [ "Critical", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fa278d01e5af56273bae1bb99a98b370cd", null ],
+      [ "Error", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fa902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Warning", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fa0eaadb4fcb48a0a0ed7bc9868be9fbaa", null ],
+      [ "Information", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72faa82be0f551b8708bc08eb33cd9ded0cf", null ],
+      [ "Verbose", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fad4a9fa383ab700c5bdd6f31cf7df0faf", null ],
+      [ "Start", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72faa6122a65eaa676f700ae68d393054a37", null ],
+      [ "Stop", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fa11a755d598c0c417f9a36758c3da7481", null ],
+      [ "Suspend", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fab3834d6f7a63e5e750e0ca5ecf31e3b9", null ],
+      [ "Resume", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72faf1cefec9e2196c672a622347f1fbc325", null ],
+      [ "Transfer", "df/d6d/namespaceSystem_1_1Diagnostics_a48f598bcffac5a0f8d1c51b008bae72f.html#a48f598bcffac5a0f8d1c51b008bae72fa6950810f0d2bba97a6f710c7b965b84e", null ]
+    ] ],
+    [ "TraceLevel", "df/d6d/namespaceSystem_1_1Diagnostics_a5d95c6229f5c0344fc9e357bb8a5ad1b.html#a5d95c6229f5c0344fc9e357bb8a5ad1b", [
+      [ "Off", "df/d6d/namespaceSystem_1_1Diagnostics_a5d95c6229f5c0344fc9e357bb8a5ad1b.html#a5d95c6229f5c0344fc9e357bb8a5ad1bad15305d7a4e34e02489c74a5ef542f36", null ],
+      [ "Error", "df/d6d/namespaceSystem_1_1Diagnostics_a5d95c6229f5c0344fc9e357bb8a5ad1b.html#a5d95c6229f5c0344fc9e357bb8a5ad1ba902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Warning", "df/d6d/namespaceSystem_1_1Diagnostics_a5d95c6229f5c0344fc9e357bb8a5ad1b.html#a5d95c6229f5c0344fc9e357bb8a5ad1ba0eaadb4fcb48a0a0ed7bc9868be9fbaa", null ],
+      [ "Info", "df/d6d/namespaceSystem_1_1Diagnostics_a5d95c6229f5c0344fc9e357bb8a5ad1b.html#a5d95c6229f5c0344fc9e357bb8a5ad1ba4059b0251f66a18cb56f544728796875", null ],
+      [ "Verbose", "df/d6d/namespaceSystem_1_1Diagnostics_a5d95c6229f5c0344fc9e357bb8a5ad1b.html#a5d95c6229f5c0344fc9e357bb8a5ad1bad4a9fa383ab700c5bdd6f31cf7df0faf", null ]
+    ] ],
+    [ "TraceOptions", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bc", [
+      [ "None", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bca6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "LogicalOperationStack", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bcaddad1480d8a0b3bffe1b0ff9a29e39fb", null ],
+      [ "DateTime", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bca8cf10d2341ed01492506085688270c1e", null ],
+      [ "Timestamp", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bcaa3d5de3eac8bb00ae86fd1a1005f1500", null ],
+      [ "ProcessId", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bca1bead95945ffa874ecf27b365050db06", null ],
+      [ "ThreadId", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bca693e7589872f7acd3e69d831d022d6ea", null ],
+      [ "Callstack", "df/d6d/namespaceSystem_1_1Diagnostics_a31cf5e2a6e1aa13ca6ad913a3af356bc.html#a31cf5e2a6e1aa13ca6ad913a3af356bca30650823a23b39a1a2f2c35d9b726127", null ]
+    ] ]
+];

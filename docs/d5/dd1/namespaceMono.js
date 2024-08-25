@@ -1,0 +1,38 @@
+var namespaceMono =
+[
+    [ "Globalization", "d3/d7f/namespaceMono_1_1Globalization.html", "d3/d7f/namespaceMono_1_1Globalization" ],
+    [ "Http", "dd/d7e/namespaceMono_1_1Http.html", "dd/d7e/namespaceMono_1_1Http" ],
+    [ "Interop", "d0/d9d/namespaceMono_1_1Interop.html", "d0/d9d/namespaceMono_1_1Interop" ],
+    [ "Math", "d8/d57/namespaceMono_1_1Math.html", "d8/d57/namespaceMono_1_1Math" ],
+    [ "Net", "d8/d5c/namespaceMono_1_1Net.html", "d8/d5c/namespaceMono_1_1Net" ],
+    [ "Security", "d8/dfe/namespaceMono_1_1Security.html", "d8/dfe/namespaceMono_1_1Security" ],
+    [ "Unity", "db/d4e/namespaceMono_1_1Unity.html", "db/d4e/namespaceMono_1_1Unity" ],
+    [ "Util", "db/d02/namespaceMono_1_1Util.html", "db/d02/namespaceMono_1_1Util" ],
+    [ "Xml", "d0/de7/namespaceMono_1_1Xml.html", "d0/de7/namespaceMono_1_1Xml" ],
+    [ "DependencyInjector", "d4/dac/classMono_1_1DependencyInjector.html", "d4/dac/classMono_1_1DependencyInjector" ],
+    [ "ISystemCertificateProvider", "dd/db1/interfaceMono_1_1ISystemCertificateProvider.html", "dd/db1/interfaceMono_1_1ISystemCertificateProvider" ],
+    [ "ISystemDependencyProvider", "d4/dd9/interfaceMono_1_1ISystemDependencyProvider.html", "d4/dd9/interfaceMono_1_1ISystemDependencyProvider" ],
+    [ "MonoAssemblyName", "d8/d1a/structMono_1_1MonoAssemblyName.html", "d8/d1a/structMono_1_1MonoAssemblyName" ],
+    [ "Runtime", "d1/daa/classMono_1_1Runtime.html", "d1/daa/classMono_1_1Runtime" ],
+    [ "RuntimeClassHandle", "d5/d8e/structMono_1_1RuntimeClassHandle.html", "d5/d8e/structMono_1_1RuntimeClassHandle" ],
+    [ "RuntimeEventHandle", "d6/df1/structMono_1_1RuntimeEventHandle.html", "d6/df1/structMono_1_1RuntimeEventHandle" ],
+    [ "RuntimeGenericParamInfoHandle", "da/dcc/structMono_1_1RuntimeGenericParamInfoHandle.html", "da/dcc/structMono_1_1RuntimeGenericParamInfoHandle" ],
+    [ "RuntimeGPtrArrayHandle", "db/da3/structMono_1_1RuntimeGPtrArrayHandle.html", "db/da3/structMono_1_1RuntimeGPtrArrayHandle" ],
+    [ "RuntimeMarshal", "d8/d38/classMono_1_1RuntimeMarshal.html", "d8/d38/classMono_1_1RuntimeMarshal" ],
+    [ "RuntimePropertyHandle", "d1/d04/structMono_1_1RuntimePropertyHandle.html", "d1/d04/structMono_1_1RuntimePropertyHandle" ],
+    [ "RuntimeRemoteClassHandle", "dc/d00/structMono_1_1RuntimeRemoteClassHandle.html", "dc/d00/structMono_1_1RuntimeRemoteClassHandle" ],
+    [ "RuntimeStructs", "de/df6/classMono_1_1RuntimeStructs.html", "de/df6/classMono_1_1RuntimeStructs" ],
+    [ "SafeGPtrArrayHandle", "d6/de9/structMono_1_1SafeGPtrArrayHandle.html", "d6/de9/structMono_1_1SafeGPtrArrayHandle" ],
+    [ "SafeStringMarshal", "dc/da5/structMono_1_1SafeStringMarshal.html", "dc/da5/structMono_1_1SafeStringMarshal" ],
+    [ "SystemCertificateProvider", "d5/da7/classMono_1_1SystemCertificateProvider.html", "d5/da7/classMono_1_1SystemCertificateProvider" ],
+    [ "SystemDependencyProvider", "da/db1/classMono_1_1SystemDependencyProvider.html", "da/db1/classMono_1_1SystemDependencyProvider" ],
+    [ "ValueTuple", "d6/dda/structMono_1_1ValueTuple.html", "d6/dda/structMono_1_1ValueTuple" ],
+    [ "X509Pal", "d7/d49/classMono_1_1X509Pal.html", "d7/d49/classMono_1_1X509Pal" ],
+    [ "X509PalImpl", "d9/d89/classMono_1_1X509PalImpl.html", "d9/d89/classMono_1_1X509PalImpl" ],
+    [ "X509PalImplMono", "d2/dd1/classMono_1_1X509PalImplMono.html", "d2/dd1/classMono_1_1X509PalImplMono" ],
+    [ "CertificateImportFlags", "d5/dd1/namespaceMono_ac35c2b3cd0ecd64381b82776845a2ded.html#ac35c2b3cd0ecd64381b82776845a2ded", [
+      [ "None", "d5/dd1/namespaceMono_ac35c2b3cd0ecd64381b82776845a2ded.html#ac35c2b3cd0ecd64381b82776845a2deda6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "DisableNativeBackend", "d5/dd1/namespaceMono_ac35c2b3cd0ecd64381b82776845a2ded.html#ac35c2b3cd0ecd64381b82776845a2deda18690a1db17047b1638895d4b7302ed8", null ],
+      [ "DisableAutomaticFallback", "d5/dd1/namespaceMono_ac35c2b3cd0ecd64381b82776845a2ded.html#ac35c2b3cd0ecd64381b82776845a2dedaef99065e691a9f1e437d3875bb96ef5c", null ]
+    ] ]
+];

@@ -1,0 +1,26 @@
+var classSystem_1_1Diagnostics_1_1StackFrame =
+[
+    [ "StackFrame", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_aceceb536f85333d13cce7e691cf45e18.html#aceceb536f85333d13cce7e691cf45e18", null ],
+    [ "StackFrame", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_acd8771688a1798ab559d782a7596a07e.html#acd8771688a1798ab559d782a7596a07e", null ],
+    [ "get_frame_info", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a1aae453550980e4d6f48c92c70c15de5.html#a1aae453550980e4d6f48c92c70c15de5", null ],
+    [ "GetFileLineNumber", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_aee28d4d6f0dded9a030349543203b41e.html#aee28d4d6f0dded9a030349543203b41e", null ],
+    [ "GetFileName", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a0b2837f0223857d2aa7a8c01387bfd7e.html#a0b2837f0223857d2aa7a8c01387bfd7e", null ],
+    [ "GetILOffset", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a132ff4ba8dc158e1ef28e59da416a63a.html#a132ff4ba8dc158e1ef28e59da416a63a", null ],
+    [ "GetInternalMethodName", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a53c59247bae87b3c0c48e7bde294bf92.html#a53c59247bae87b3c0c48e7bde294bf92", null ],
+    [ "GetMethod", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_aa302885f439fd90995ff490d4ef363d6.html#aa302885f439fd90995ff490d4ef363d6", null ],
+    [ "GetMethodAddress", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a6184eb092cfdec0c93e1a1697ebbeffd.html#a6184eb092cfdec0c93e1a1697ebbeffd", null ],
+    [ "GetMethodIndex", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_ad3cb7fc7a9ad17f769949cc3ef4decb2.html#ad3cb7fc7a9ad17f769949cc3ef4decb2", null ],
+    [ "GetNativeOffset", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a6c64a3407c285b51afddc9f40e2f98d7.html#a6c64a3407c285b51afddc9f40e2f98d7", null ],
+    [ "GetSecureFileName", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_ae2229f51d076844d1bdb2c3c0a70e7c8.html#ae2229f51d076844d1bdb2c3c0a70e7c8", null ],
+    [ "ToString", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a68e741bca3672a3b5f74b3a7bc0aa45a.html#a68e741bca3672a3b5f74b3a7bc0aa45a", null ],
+    [ "columnNumber", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a108c476a8d37b6fdc97669cea0fc5b0e.html#a108c476a8d37b6fdc97669cea0fc5b0e", null ],
+    [ "fileName", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_afacf15ba00231959327655d0e7fdff5c.html#afacf15ba00231959327655d0e7fdff5c", null ],
+    [ "ilOffset", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a779c0a48b2ac09d91d6ad07ec33b4f76.html#a779c0a48b2ac09d91d6ad07ec33b4f76", null ],
+    [ "internalMethodName", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a66592c584d2568afbe8892f334c05e66.html#a66592c584d2568afbe8892f334c05e66", null ],
+    [ "lineNumber", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a14881636e0ddd4315178fb483f195fba.html#a14881636e0ddd4315178fb483f195fba", null ],
+    [ "methodAddress", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_aebec234b6f54c629699616921db281f1.html#aebec234b6f54c629699616921db281f1", null ],
+    [ "methodBase", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_af242e44f590d74bf540b7d1c544097d2.html#af242e44f590d74bf540b7d1c544097d2", null ],
+    [ "methodIndex", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a2a18cec792fd9cf1306b963d75c6c8d0.html#a2a18cec792fd9cf1306b963d75c6c8d0", null ],
+    [ "nativeOffset", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a1980a18b9c43199e627f2b2d5bceb50c.html#a1980a18b9c43199e627f2b2d5bceb50c", null ],
+    [ "OFFSET_UNKNOWN", "df/df2/classSystem_1_1Diagnostics_1_1StackFrame_a81fc746e8e0cb177cba2ae52d1594eb6.html#a81fc746e8e0cb177cba2ae52d1594eb6", null ]
+];

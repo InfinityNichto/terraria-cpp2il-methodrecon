@@ -1,0 +1,26 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance =
+[
+    [ "SoundEffectInstance", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_acf3a0c351c881033d0f0f5c516cfba8a.html#acf3a0c351c881033d0f0f5c516cfba8a", null ],
+    [ "SoundEffectInstance", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a15009e456cb4149ffadd156a49596a0c.html#a15009e456cb4149ffadd156a49596a0c", null ],
+    [ "Pause", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a386b7297f4d25126b21cd60095347788.html#a386b7297f4d25126b21cd60095347788", null ],
+    [ "Play", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a9f6b200d01348cbad1977035d0889aef.html#a9f6b200d01348cbad1977035d0889aef", null ],
+    [ "PlayOnMainThread", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a789820e6599c5cbab3038e5eb88934a8.html#a789820e6599c5cbab3038e5eb88934a8", null ],
+    [ "Restart", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_aee3816c23177fc6b9012e1adcd0ed9a8.html#aee3816c23177fc6b9012e1adcd0ed9a8", null ],
+    [ "Resume", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_aaeb13ecf8f24036364ebf49359fa26e1.html#aaeb13ecf8f24036364ebf49359fa26e1", null ],
+    [ "Stop", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a22351af9d0ee898e627f673085b63229.html#a22351af9d0ee898e627f673085b63229", null ],
+    [ "StopOnMainThread", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_ab766ddaa6b4a88472c1bf123c9d9f3d0.html#ab766ddaa6b4a88472c1bf123c9d9f3d0", null ],
+    [ "_effect", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a2f0bd51ac934b9fd0d3d6456683e9955.html#a2f0bd51ac934b9fd0d3d6456683e9955", null ],
+    [ "_loop", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a2155352f74500a661a4ecbeedee3e35c.html#a2155352f74500a661a4ecbeedee3e35c", null ],
+    [ "_pan", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a1d10668b3db114a0cca36bc3c3c27554.html#a1d10668b3db114a0cca36bc3c3c27554", null ],
+    [ "_pitch", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_ab78e8760f2fe61b5fb2c63b1c62b3232.html#ab78e8760f2fe61b5fb2c63b1c62b3232", null ],
+    [ "_playingInstance", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a5a3b4a709986f7fd125fee4c7b8b4d43.html#a5a3b4a709986f7fd125fee4c7b8b4d43", null ],
+    [ "_volume", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a0a5e009067d8b5ee240948acd2306f7d.html#a0a5e009067d8b5ee240948acd2306f7d", null ],
+    [ "pitchOffset", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_adc415648b2f3f83ff1125edd93e0e324.html#adc415648b2f3f83ff1125edd93e0e324", null ],
+    [ "pitchScale", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a2470f07052d73b682e70729b49c1953a.html#a2470f07052d73b682e70729b49c1953a", null ],
+    [ "CurrentPosition", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_acfacaf3523452404eca08858bc714f89.html#acfacaf3523452404eca08858bc714f89", null ],
+    [ "IsLooped", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_af96a1c7ca4858b883463487e7d54e3fa.html#af96a1c7ca4858b883463487e7d54e3fa", null ],
+    [ "Pan", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_aae6a65021bf04acb00d709198fb809f4.html#aae6a65021bf04acb00d709198fb809f4", null ],
+    [ "Pitch", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_ace64b2a457ab6e24aa22c9c691f4532b.html#ace64b2a457ab6e24aa22c9c691f4532b", null ],
+    [ "State", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_afc95004677ab2d085be4f828d1b0a2ba.html#afc95004677ab2d085be4f828d1b0a2ba", null ],
+    [ "Volume", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_aed5b820c1a911fa4a2fd77d3e25632cf.html#aed5b820c1a911fa4a2fd77d3e25632cf", null ]
+];

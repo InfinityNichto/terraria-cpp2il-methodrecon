@@ -1,0 +1,27 @@
+var classUserManagement =
+[
+    [ "UserManagement", "d9/d5d/classUserManagement_a4e50244362c5b124795191f09241121c.html#a4e50244362c5b124795191f09241121c", null ],
+    [ "UserManagement", "d9/d5d/classUserManagement_afc406ba186e599b563e8d4135238548b.html#afc406ba186e599b563e8d4135238548b", null ],
+    [ "AddUser", "d9/d5d/classUserManagement_a6f36be77914a843ab2b54366d32c4ead.html#a6f36be77914a843ab2b54366d32c4ead", null ],
+    [ "ApplyCameras", "d9/d5d/classUserManagement_a08a6bd26dd129a13c00ce1c5ee5045e8.html#a08a6bd26dd129a13c00ce1c5ee5045e8", null ],
+    [ "CanControllerBeUsedForPlayer", "d9/d5d/classUserManagement_a313a882c4627aa46b141e8e55732a59f.html#a313a882c4627aa46b141e8e55732a59f", null ],
+    [ "CanControllerBeUserForPrimaryPlayer", "d9/d5d/classUserManagement_ad06ead13d2279f98180642b383bec625.html#ad06ead13d2279f98180642b383bec625", null ],
+    [ "FindLocalUserByController", "d9/d5d/classUserManagement_a8496b9f86543793f2d3525f5de3fd724.html#a8496b9f86543793f2d3525f5de3fd724", null ],
+    [ "FindLocalUserByPlayer", "d9/d5d/classUserManagement_a1578c3bd0d853d80f415b1c6e69dc975.html#a1578c3bd0d853d80f415b1c6e69dc975", null ],
+    [ "FindLocalUserByUser", "d9/d5d/classUserManagement_a8e4649f3095c6ea695134a655c121501.html#a8e4649f3095c6ea695134a655c121501", null ],
+    [ "HandleNetworkLost", "d9/d5d/classUserManagement_aec17860df249d7ec2eb6027ae1503bb2.html#aec17860df249d7ec2eb6027ae1503bb2", null ],
+    [ "LocalUserQuit", "d9/d5d/classUserManagement_adb02ee2b208a675ad6e52aa5a0660d8b.html#adb02ee2b208a675ad6e52aa5a0660d8b", null ],
+    [ "LookForNewUsers", "d9/d5d/classUserManagement_aaa565f1d4d6e9f4780215c2d43015b69.html#aaa565f1d4d6e9f4780215c2d43015b69", null ],
+    [ "SetupPrimary", "d9/d5d/classUserManagement_a36327f65420a34953cfcef88737370e4.html#a36327f65420a34953cfcef88737370e4", null ],
+    [ "SignInController", "d9/d5d/classUserManagement_ab548d728ca245dafdada84a2ac8bbae4.html#ab548d728ca245dafdada84a2ac8bbae4", null ],
+    [ "SwitchPrimaryUser", "d9/d5d/classUserManagement_a61c11bb398762347f2391df4bf3fff1f.html#a61c11bb398762347f2391df4bf3fff1f", null ],
+    [ "SwitchUser", "d9/d5d/classUserManagement_a074ac7dfc0342e8d6e6b6b6a4b8b017d.html#a074ac7dfc0342e8d6e6b6b6a4b8b017d", null ],
+    [ "UpdateViewPorts", "d9/d5d/classUserManagement_a620a40d76ec1f7200f6c927eb9c8ef0b.html#a620a40d76ec1f7200f6c927eb9c8ef0b", null ],
+    [ "UserSignedOut", "d9/d5d/classUserManagement_a43f62c489dc4a09814b3df77425c6eea.html#a43f62c489dc4a09814b3df77425c6eea", null ],
+    [ "UserSignIn", "d9/d5d/classUserManagement_ae828170e40d1c2884aa3999fec2260b2.html#ae828170e40d1c2884aa3999fec2260b2", null ],
+    [ "AvailableIndices", "d9/d5d/classUserManagement_aea883a150a8ee87b730bf023fc9bb112.html#aea883a150a8ee87b730bf023fc9bb112", null ],
+    [ "LocalUsers", "d9/d5d/classUserManagement_a25eb71778935a002daecb52d192db16e.html#a25eb71778935a002daecb52d192db16e", null ],
+    [ "PendingUser", "d9/d5d/classUserManagement_abed6443e6cd559c7f90396ec1973754f.html#abed6443e6cd559c7f90396ec1973754f", null ],
+    [ "PrimaryPlayer", "d9/d5d/classUserManagement_aa59974c5844835632d0364ed78951f1e.html#aa59974c5844835632d0364ed78951f1e", null ],
+    [ "SplitHorizontalFirst", "d9/d5d/classUserManagement_ab72e259afe7e3c5f21c2fc55d688e497.html#ab72e259afe7e3c5f21c2fc55d688e497", null ]
+];

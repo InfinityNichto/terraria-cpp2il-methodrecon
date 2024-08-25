@@ -1,0 +1,4 @@
+var HORIFightingCommanderControllerMacNativeProfile_8cs =
+[
+    [ "InControl.NativeDeviceProfiles.HORIFightingCommanderControllerMacNativeProfile", "d4/d58/classInControl_1_1NativeDeviceProfiles_1_1HORIFightingCommanderControllerMacNativeProfile.html", "d4/d58/classInControl_1_1NativeDeviceProfiles_1_1HORIFightingCommanderControllerMacNativeProfile" ]
+];

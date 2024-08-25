@@ -1,0 +1,28 @@
+var classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper =
+[
+    [ "ClubProperties", "db/dc2/structTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_1_1ClubProperties.html", "db/dc2/structTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_1_1ClubProperties" ],
+    [ "ContactListener", "de/d60/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_1_1ContactListener.html", "de/d60/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_1_1ContactListener" ],
+    [ "ShotStrength", "d0/d7c/structTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_1_1ShotStrength.html", "d0/d7c/structTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_1_1ShotStrength" ],
+    [ "GolfHelper", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_afa32835e9fb437fc2584d1fc2744d162.html#afa32835e9fb437fc2584d1fc2744d162", null ],
+    [ "CalculateShotStrength", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_ac1b0f9dbfa60bfd280e7f6bfce6b9a86.html#ac1b0f9dbfa60bfd280e7f6bfce6b9a86", null ],
+    [ "CalculateShotStrength", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_acd8a3d54027f56333ea1d61d0b189c8a.html#acd8a3d54027f56333ea1d61d0b189c8a", null ],
+    [ "DrawPredictionLine", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a98e4ba6242e39eb2b188f54d0430a311.html#a98e4ba6242e39eb2b188f54d0430a311", null ],
+    [ "FindGolfBallForHelper", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a3eb286acbaa84fecdc8315a1717ecfae.html#a3eb286acbaa84fecdc8315a1717ecfae", null ],
+    [ "FindHelperFromGolfBall", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a95c896d87cffc8236dc731bafbfbbf29.html#a95c896d87cffc8236dc731bafbfbbf29", null ],
+    [ "FindVectorOnOval", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a2ee5ec46c0853d4ca22a93d1b9162356.html#a2ee5ec46c0853d4ca22a93d1b9162356", null ],
+    [ "GetClubProperties", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a2fccaf325f9c9c359b11a353c41027cf.html#a2fccaf325f9c9c359b11a353c41027cf", null ],
+    [ "GetClubPropertiesFromGolfHelper", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_ada4c7330eea668cdfac0d54284206b4b.html#ada4c7330eea668cdfac0d54284206b4b", null ],
+    [ "HitGolfBall", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a26e0a141a37a50fcd5788370a51c301c.html#a26e0a141a37a50fcd5788370a51c301c", null ],
+    [ "IsGolfBallResting", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a99c23d9bf06bcd0cb77d52326e566162.html#a99c23d9bf06bcd0cb77d52326e566162", null ],
+    [ "IsGolfShotValid", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_ae9f2ba1d2530e7d9548e2ea57bec5baf.html#ae9f2ba1d2530e7d9548e2ea57bec5baf", null ],
+    [ "IsPlayerHoldingClub", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_afe30862e5cf8bc2facb0556c4b7830a8.html#afe30862e5cf8bc2facb0556c4b7830a8", null ],
+    [ "StepGolfBall", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_acc96425d260cfa80c4631c55993147d4.html#acc96425d260cfa80c4631c55993147d4", null ],
+    [ "UpdateDebugDraw", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_aecb3509adbdedd742158730c631899f0.html#aecb3509adbdedd742158730c631899f0", null ],
+    [ "ValidateShot", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a2c538aec87e3be1967114acfae19b7b5.html#a2c538aec87e3be1967114acfae19b7b5", null ],
+    [ "_predictionLine", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a3a367bfe66c4d1e1b5c6a7cea390b6f9.html#a3a367bfe66c4d1e1b5c6a7cea390b6f9", null ],
+    [ "Listener", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_ae0feffcbe32c11a6c8f760e23e209f7d.html#ae0feffcbe32c11a6c8f760e23e209f7d", null ],
+    [ "PhysicsProperties", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a1b2c867c64864a40634e0c0fce3c0a06.html#a1b2c867c64864a40634e0c0fce3c0a06", null ],
+    [ "PointsNeededForLevel1", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a1d489053837defebffd3aea13c1fc2a8.html#a1d489053837defebffd3aea13c1fc2a8", null ],
+    [ "PointsNeededForLevel2", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_a9b722a9046ecb49e81e5e54835b5b536.html#a9b722a9046ecb49e81e5e54835b5b536", null ],
+    [ "PointsNeededForLevel3", "d9/d7a/classTerraria_1_1GameContent_1_1Golf_1_1GolfHelper_acd5e49d26854a6c6db364267c1396c72.html#acd5e49d26854a6c6db364267c1396c72", null ]
+];

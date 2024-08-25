@@ -1,0 +1,4 @@
+var RazerWolverineUltimateControllerMacNativeProfile_8cs =
+[
+    [ "InControl.NativeDeviceProfiles.RazerWolverineUltimateControllerMacNativeProfile", "d3/d41/classInControl_1_1NativeDeviceProfiles_1_1RazerWolverineUltimateControllerMacNativeProfile.html", "d3/d41/classInControl_1_1NativeDeviceProfiles_1_1RazerWolverineUltimateControllerMacNativeProfile" ]
+];

@@ -1,0 +1,4 @@
+var ScriptableRuntimeReflectionSystemSettings_8cs =
+[
+    [ "UnityEngine.Experimental.Rendering.ScriptableRuntimeReflectionSystemSettings", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings.html", "d7/df9/classUnityEngine_1_1Experimental_1_1Rendering_1_1ScriptableRuntimeReflectionSystemSettings" ]
+];

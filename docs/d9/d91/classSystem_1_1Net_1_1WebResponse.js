@@ -1,0 +1,27 @@
+var classSystem_1_1Net_1_1WebResponse =
+[
+    [ "WebResponse", "d9/d91/classSystem_1_1Net_1_1WebResponse_adf7f3196803eb05f82b8bfbbdb0bb100.html#adf7f3196803eb05f82b8bfbbdb0bb100", null ],
+    [ "WebResponse", "d9/d91/classSystem_1_1Net_1_1WebResponse_a6bf051c7560d9c8fd5d4184a60c07dde.html#a6bf051c7560d9c8fd5d4184a60c07dde", null ],
+    [ "Close", "d9/d91/classSystem_1_1Net_1_1WebResponse_a08766c5ecc151b5acd4d2820c483c5a6.html#a08766c5ecc151b5acd4d2820c483c5a6", null ],
+    [ "CreateObjRef", "d9/d91/classSystem_1_1Net_1_1WebResponse.html#af26fbf2586546931bc82b6a68b228e61", null ],
+    [ "Dispose", "d9/d91/classSystem_1_1Net_1_1WebResponse_ad90ce59710755bbff3ee1ba42ccbab5c.html#ad90ce59710755bbff3ee1ba42ccbab5c", null ],
+    [ "Dispose", "d9/d91/classSystem_1_1Net_1_1WebResponse_ab646e0c6e0b4b5249aa95ae67691fd09.html#ab646e0c6e0b4b5249aa95ae67691fd09", null ],
+    [ "GetObjectData", "d9/d91/classSystem_1_1Net_1_1WebResponse_a0c1ea40cfad8981cefdb9a3a792fba67.html#a0c1ea40cfad8981cefdb9a3a792fba67", null ],
+    [ "GetObjectData", "d9/d91/classSystem_1_1Net_1_1WebResponse_ab30dc62964fa84ac1f0748e114b4b166.html#ab30dc62964fa84ac1f0748e114b4b166", null ],
+    [ "GetResponseStream", "d9/d91/classSystem_1_1Net_1_1WebResponse_aa6c65f1aec1956cbe9df77e63e355a84.html#aa6c65f1aec1956cbe9df77e63e355a84", null ],
+    [ "InitializeLifetimeService", "d9/d91/classSystem_1_1Net_1_1WebResponse.html#ac831ed6de7a66333d07144ce2abd382a", null ],
+    [ "_identity", "d9/d91/classSystem_1_1Net_1_1WebResponse.html#aeb39322b0e322cf20d83c1e8445ab173", null ],
+    [ "m_IsCacheFresh", "d9/d91/classSystem_1_1Net_1_1WebResponse_ac3a063c926f0c3eb79e968b9f8f9ce28.html#ac3a063c926f0c3eb79e968b9f8f9ce28", null ],
+    [ "m_IsFromCache", "d9/d91/classSystem_1_1Net_1_1WebResponse_a46fc6b1bd8ab8d983a2d6c6a896fb04f.html#a46fc6b1bd8ab8d983a2d6c6a896fb04f", null ],
+    [ "ContentLength", "d9/d91/classSystem_1_1Net_1_1WebResponse_aa9070c073d0f63549263fcacb9a19b2b.html#aa9070c073d0f63549263fcacb9a19b2b", null ],
+    [ "ContentType", "d9/d91/classSystem_1_1Net_1_1WebResponse_a8cd0645576189f890eca0a42786f5af3.html#a8cd0645576189f890eca0a42786f5af3", null ],
+    [ "Headers", "d9/d91/classSystem_1_1Net_1_1WebResponse_ac30c5304e226f0c636493de26c3855e8.html#ac30c5304e226f0c636493de26c3855e8", null ],
+    [ "InternalSetFromCache", "d9/d91/classSystem_1_1Net_1_1WebResponse_a4b2e228745c55fe4b8dda202ca03241c.html#a4b2e228745c55fe4b8dda202ca03241c", null ],
+    [ "InternalSetIsCacheFresh", "d9/d91/classSystem_1_1Net_1_1WebResponse_a77abdc865daa89df4be6c5d79c707e0f.html#a77abdc865daa89df4be6c5d79c707e0f", null ],
+    [ "IsCacheFresh", "d9/d91/classSystem_1_1Net_1_1WebResponse_a302d17254ee60694e6c7c73a3a905558.html#a302d17254ee60694e6c7c73a3a905558", null ],
+    [ "IsFromCache", "d9/d91/classSystem_1_1Net_1_1WebResponse_a3094396090b8bfb79f2829c35fde70c9.html#a3094396090b8bfb79f2829c35fde70c9", null ],
+    [ "IsMutuallyAuthenticated", "d9/d91/classSystem_1_1Net_1_1WebResponse_a325101b1d17613d0bb0ac9bd6df5747f.html#a325101b1d17613d0bb0ac9bd6df5747f", null ],
+    [ "ObjectIdentity", "d9/d91/classSystem_1_1Net_1_1WebResponse.html#a4f524e1451637fcb175469ec65f6e3da", null ],
+    [ "ResponseUri", "d9/d91/classSystem_1_1Net_1_1WebResponse_a07981433ecbe884738b589da2260616c.html#a07981433ecbe884738b589da2260616c", null ],
+    [ "SupportsHeaders", "d9/d91/classSystem_1_1Net_1_1WebResponse_ad99836cc5854e3d1a1e181efb8a886c9.html#ad99836cc5854e3d1a1e181efb8a886c9", null ]
+];

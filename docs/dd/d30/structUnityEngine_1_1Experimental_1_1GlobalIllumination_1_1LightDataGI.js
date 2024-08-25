@@ -1,0 +1,25 @@
+var structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI =
+[
+    [ "Init", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a04adbe401eabc02a8fb4cb87f15fa981.html#a04adbe401eabc02a8fb4cb87f15fa981", null ],
+    [ "Init", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_afa1a926ce436840995673ecc1089d714.html#afa1a926ce436840995673ecc1089d714", null ],
+    [ "Init", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_ae21fc14ceb3a40073b3e093c86317f6e.html#ae21fc14ceb3a40073b3e093c86317f6e", null ],
+    [ "Init", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a0d7491b6238e01d9b97d2472f67a6222.html#a0d7491b6238e01d9b97d2472f67a6222", null ],
+    [ "Init", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_aa18ae15579a217dc0f1a1cd585bfd513.html#aa18ae15579a217dc0f1a1cd585bfd513", null ],
+    [ "InitNoBake", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_aaad45537c7fc3adf2cd0deb91d95ca9e.html#aaad45537c7fc3adf2cd0deb91d95ca9e", null ],
+    [ "color", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_adf62a252a29dae70caf6eeb1a3b164de.html#adf62a252a29dae70caf6eeb1a3b164de", null ],
+    [ "coneAngle", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a48a8b75883bbef9af86bde6f1cf33691.html#a48a8b75883bbef9af86bde6f1cf33691", null ],
+    [ "cookieID", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a7bec9f1c06c96233e1bcb0e26dc611fc.html#a7bec9f1c06c96233e1bcb0e26dc611fc", null ],
+    [ "cookieScale", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_afcd86667c8cbf98727a8ca8eabab4bc4.html#afcd86667c8cbf98727a8ca8eabab4bc4", null ],
+    [ "falloff", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_abdd06e9ba674d19aad3d874f11468b76.html#abdd06e9ba674d19aad3d874f11468b76", null ],
+    [ "indirectColor", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a13a88f57709318431eab442d6b7dcbb0.html#a13a88f57709318431eab442d6b7dcbb0", null ],
+    [ "innerConeAngle", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a852e6154438ce305bd2ebe3ce580effb.html#a852e6154438ce305bd2ebe3ce580effb", null ],
+    [ "instanceID", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_aa94dc25bcc5d3b8ebf6dad87494edce3.html#aa94dc25bcc5d3b8ebf6dad87494edce3", null ],
+    [ "mode", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_aa9c2de6d88e7c1c0024f967e7ee08be4.html#aa9c2de6d88e7c1c0024f967e7ee08be4", null ],
+    [ "orientation", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a394ae91359d53598996c82ebaa21243a.html#a394ae91359d53598996c82ebaa21243a", null ],
+    [ "position", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a4a6c0fe6ad5e6fb4762c933cd750ac87.html#a4a6c0fe6ad5e6fb4762c933cd750ac87", null ],
+    [ "range", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a3583cc19c7ea982fd6ff47b52576d801.html#a3583cc19c7ea982fd6ff47b52576d801", null ],
+    [ "shadow", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a0add9d6f99bf29f9f866b7b8a7c500be.html#a0add9d6f99bf29f9f866b7b8a7c500be", null ],
+    [ "shape0", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_a97a87508ca6fa42eb3ca9eaa1e54e1a6.html#a97a87508ca6fa42eb3ca9eaa1e54e1a6", null ],
+    [ "shape1", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_abda9d367ae9b6fc9960991f01377c88e.html#abda9d367ae9b6fc9960991f01377c88e", null ],
+    [ "type", "dd/d30/structUnityEngine_1_1Experimental_1_1GlobalIllumination_1_1LightDataGI_ac86cdceeee16177b3817e078cc15893f.html#ac86cdceeee16177b3817e078cc15893f", null ]
+];

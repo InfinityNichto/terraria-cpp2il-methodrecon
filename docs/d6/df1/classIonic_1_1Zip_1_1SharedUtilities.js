@@ -1,0 +1,28 @@
+var classIonic_1_1Zip_1_1SharedUtilities =
+[
+    [ "SharedUtilities", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a0e5088d9c48bb3a39a90a545375f7559.html#a0e5088d9c48bb3a39a90a545375f7559", null ],
+    [ "_HRForException", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_acdf0f68123113246a645e0667bb689c9.html#acdf0f68123113246a645e0667bb689c9", null ],
+    [ "_ReadFourBytes", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a986de71bcc61a2dace40c08c88c23ab2.html#a986de71bcc61a2dace40c08c88c23ab2", null ],
+    [ "AdjustTime_Reverse", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a4621ed59a5d2c491221f96d57e8b9968.html#a4621ed59a5d2c491221f96d57e8b9968", null ],
+    [ "CreateAndOpenUniqueTempFile", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a60462949ed90f25524b49ae7c5fe582b.html#a60462949ed90f25524b49ae7c5fe582b", null ],
+    [ "DateTimeToPacked", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a0271dd22e59bc6ae44847a0b1bb02056.html#a0271dd22e59bc6ae44847a0b1bb02056", null ],
+    [ "FindSignature", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a3d99e011f3d7b68a034c6a3b0528ce80.html#a3d99e011f3d7b68a034c6a3b0528ce80", null ],
+    [ "GenerateRandomStringImpl", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_acec0b575585a3384a7ab3893006adda4.html#acec0b575585a3384a7ab3893006adda4", null ],
+    [ "GetFileLength", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a1db9ca971c7d1b6f09a257a49de6f7ac.html#a1db9ca971c7d1b6f09a257a49de6f7ac", null ],
+    [ "InternalGetTempFileName", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a1a6c035fd34d47ee5c40037916cbf25c.html#a1a6c035fd34d47ee5c40037916cbf25c", null ],
+    [ "NormalizePathForUseInZipFile", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_ae218ba9503c00281afe66e46bd54da49.html#ae218ba9503c00281afe66e46bd54da49", null ],
+    [ "PackedToDateTime", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_aaa84342ff99969885ecccecbcff19dbc.html#aaa84342ff99969885ecccecbcff19dbc", null ],
+    [ "ReadEntrySignature", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a2d9cd64dacc015d76bfc3e5fb087d417.html#a2d9cd64dacc015d76bfc3e5fb087d417", null ],
+    [ "ReadInt", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a91e8aae152258d7348a561361d59af2e.html#a91e8aae152258d7348a561361d59af2e", null ],
+    [ "ReadSignature", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a40ee373e737ef9d85ecde2c5bf458764.html#a40ee373e737ef9d85ecde2c5bf458764", null ],
+    [ "ReadWithRetry", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_abdd9b43069828a99a80c475b70c3d89d.html#abdd9b43069828a99a80c475b70c3d89d", null ],
+    [ "SimplifyFwdSlashPath", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a76be725d5408f3187ec26c27f23d8bf0.html#a76be725d5408f3187ec26c27f23d8bf0", null ],
+    [ "StringFromBuffer", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a8669cf6da4b88f6d3089da03e0d2d75b.html#a8669cf6da4b88f6d3089da03e0d2d75b", null ],
+    [ "StringToByteArray", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_abd668a7079a3355a0990b89e109c2985.html#abd668a7079a3355a0990b89e109c2985", null ],
+    [ "StringToByteArray", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a577c3e1cfeee34fc66d4bb40f7af3596.html#a577c3e1cfeee34fc66d4bb40f7af3596", null ],
+    [ "Utf8StringFromBuffer", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a46cc966a468b29ef83558a85e453838c.html#a46cc966a468b29ef83558a85e453838c", null ],
+    [ "Workaround_Ladybug318918", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a9676cb93a027fa5efe8df7273e6ca7ce.html#a9676cb93a027fa5efe8df7273e6ca7ce", null ],
+    [ "doubleDotRegex1", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_ad3e4ce5ef05125cf20f1c8e856e78907.html#ad3e4ce5ef05125cf20f1c8e856e78907", null ],
+    [ "ibm437", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_ada0e06966efb364af1d1269c4cd2d30d.html#ada0e06966efb364af1d1269c4cd2d30d", null ],
+    [ "utf8", "d6/df1/classIonic_1_1Zip_1_1SharedUtilities_a2ad73dde11e3fd139b07c745ba0208bb.html#a2ad73dde11e3fd139b07c745ba0208bb", null ]
+];

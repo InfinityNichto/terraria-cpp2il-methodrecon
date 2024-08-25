@@ -1,0 +1,26 @@
+var classSystem_1_1Text_1_1DecoderNLS =
+[
+    [ "DecoderNLS", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_ad9f4738eadffcfba01ac1deec53cf988.html#ad9f4738eadffcfba01ac1deec53cf988", null ],
+    [ "ClearMustFlush", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_ad4ba84c7e18c4b6bbc103f69c96b7a8e.html#ad4ba84c7e18c4b6bbc103f69c96b7a8e", null ],
+    [ "Convert", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_ab11f6c9a032cf977dfdf1207dd669d3d.html#ab11f6c9a032cf977dfdf1207dd669d3d", null ],
+    [ "Convert", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_aac4c6fe965dc44a00fd4b56213493bc7.html#aac4c6fe965dc44a00fd4b56213493bc7", null ],
+    [ "GetCharCount", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_a35c3730b91656b31e193db928e32fd99.html#a35c3730b91656b31e193db928e32fd99", null ],
+    [ "GetCharCount", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_aede3ad4421d65c0ffd04b8fee5f1c609.html#aede3ad4421d65c0ffd04b8fee5f1c609", null ],
+    [ "GetCharCount", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_a24cd1a87ac8266c3a5371c64f45ee8b2.html#a24cd1a87ac8266c3a5371c64f45ee8b2", null ],
+    [ "GetChars", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_afc421e9a7711c3ed0a0d5e0baf55bd21.html#afc421e9a7711c3ed0a0d5e0baf55bd21", null ],
+    [ "GetChars", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_ab12e2822a3ae58c146910de6659bd1ba.html#ab12e2822a3ae58c146910de6659bd1ba", null ],
+    [ "GetChars", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_abe4de7a7eef2ab248b5198cbd9ab557f.html#abe4de7a7eef2ab248b5198cbd9ab557f", null ],
+    [ "GetChars", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS.html#a179c27086080bcfd32dd9dd60dbe2df3", null ],
+    [ "Reset", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_a1330765aa8527d620343a07a80338187.html#a1330765aa8527d620343a07a80338187", null ],
+    [ "_bytesUsed", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_ab1331c524605b2c228d323e24acd6381.html#ab1331c524605b2c228d323e24acd6381", null ],
+    [ "_encoding", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_a6aea204da0d3b8441eb8319b78db10ed.html#a6aea204da0d3b8441eb8319b78db10ed", null ],
+    [ "_fallback", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS.html#a1c7d5287283299c41ff225f593bf765a", null ],
+    [ "_fallbackBuffer", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS.html#a782e579831c5e504d3fdd7ca4b54c139", null ],
+    [ "_mustFlush", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_a5d9fb7bf28904eda20f3289a4eef8780.html#a5d9fb7bf28904eda20f3289a4eef8780", null ],
+    [ "_throwOnOverflow", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_ad79628be30d507b7fbd3afb97cbb9ac0.html#ad79628be30d507b7fbd3afb97cbb9ac0", null ],
+    [ "Fallback", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS.html#a218aed86356aef5ca59a9f017b7e6903", null ],
+    [ "FallbackBuffer", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS.html#a08a43bb3640ad53e9e22ad397a55ff1d", null ],
+    [ "HasState", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_a5948b61cc41dd41686f1d96208bfdcc5.html#a5948b61cc41dd41686f1d96208bfdcc5", null ],
+    [ "InternalHasFallbackBuffer", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS.html#a7889f9380a7cd8efc53df19a4ce0e504", null ],
+    [ "MustFlush", "d2/d8e/classSystem_1_1Text_1_1DecoderNLS_aa9537b83bf5fae0c27e67da9cec697d3.html#aa9537b83bf5fae0c27e67da9cec697d3", null ]
+];

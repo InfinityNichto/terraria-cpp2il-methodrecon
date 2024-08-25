@@ -1,0 +1,7 @@
+var classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EmpressOfLightIsGenuinelyEnraged =
+[
+    [ "EmpressOfLightIsGenuinelyEnraged", "de/d02/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EmpressOfLightIsGenuinelyEnraged_af7a4705013b9e09c243691174d0bdee1.html#af7a4705013b9e09c243691174d0bdee1", null ],
+    [ "CanDrop", "de/d02/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EmpressOfLightIsGenuinelyEnraged_a4538bba9e93a37877e841f7cc492af54.html#a4538bba9e93a37877e841f7cc492af54", null ],
+    [ "CanShowItemDropInUI", "de/d02/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EmpressOfLightIsGenuinelyEnraged_a3c5c4793f3347d141c589dc3ce7899f3.html#a3c5c4793f3347d141c589dc3ce7899f3", null ],
+    [ "GetConditionDescription", "de/d02/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EmpressOfLightIsGenuinelyEnraged_abc457255bc900bb5062c748e31380e11.html#abc457255bc900bb5062c748e31380e11", null ]
+];

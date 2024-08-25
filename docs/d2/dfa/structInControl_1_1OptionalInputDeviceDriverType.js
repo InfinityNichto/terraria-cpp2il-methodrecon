@@ -1,0 +1,25 @@
+var structInControl_1_1OptionalInputDeviceDriverType =
+[
+    [ "OptionalInputDeviceDriverType", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a6e25661d9d325b8cec457f0117caf309.html#a6e25661d9d325b8cec457f0117caf309", null ],
+    [ "Clear", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a40d9dd1ad92bdca243104d34e2bb305a.html#a40d9dd1ad92bdca243104d34e2bb305a", null ],
+    [ "CombineHashCodes", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_af84a2171fca73870265de839aa851201.html#af84a2171fca73870265de839aa851201", null ],
+    [ "Equals", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a10deb70b5c758667abcc0819519b6d19.html#a10deb70b5c758667abcc0819519b6d19", null ],
+    [ "Equals", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a13d7a1eb0a289dd9657ffce5ac81fd1c.html#a13d7a1eb0a289dd9657ffce5ac81fd1c", null ],
+    [ "Equals", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_ae2d39f5f1bcfb07d599e86e2a15605ab.html#ae2d39f5f1bcfb07d599e86e2a15605ab", null ],
+    [ "GetHashCode", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a28a76a49ab6f6e485a224edd78e70d37.html#a28a76a49ab6f6e485a224edd78e70d37", null ],
+    [ "GetValueOrDefault", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a6752a0a0673e9a9e6a5a4959f5475684.html#a6752a0a0673e9a9e6a5a4959f5475684", null ],
+    [ "GetValueOrZero", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_adfae39edfa2ad473a7c0f691aa273800.html#adfae39edfa2ad473a7c0f691aa273800", null ],
+    [ "operator InputDeviceDriverType", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_aca9d7b5dfac6c7191115e060d7d0da0d.html#aca9d7b5dfac6c7191115e060d7d0da0d", null ],
+    [ "operator OptionalInputDeviceDriverType", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a0e887531c345b68b86020aba7f1d7d40.html#a0e887531c345b68b86020aba7f1d7d40", null ],
+    [ "operator!=", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_ad505b4f8a5339ce6e170e5f221066cc7.html#ad505b4f8a5339ce6e170e5f221066cc7", null ],
+    [ "operator!=", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a65e55183c30d87fc3661ea7a9eb9f254.html#a65e55183c30d87fc3661ea7a9eb9f254", null ],
+    [ "operator==", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_abdfbad9479db5354c8ec8cd21293895e.html#abdfbad9479db5354c8ec8cd21293895e", null ],
+    [ "operator==", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a4f2913b832c49aeb840fef20b700969d.html#a4f2913b832c49aeb840fef20b700969d", null ],
+    [ "SetValue", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_ae00d85652ae5c38e7026d43ec40cc627.html#ae00d85652ae5c38e7026d43ec40cc627", null ],
+    [ "ToString", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a4d9bf926bddc66d5ff3476df40dec1e9.html#a4d9bf926bddc66d5ff3476df40dec1e9", null ],
+    [ "hasValue", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a2a8449a13757666a46af56edc0d5229c.html#a2a8449a13757666a46af56edc0d5229c", null ],
+    [ "value", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a81eed092d0ae632231f21c9cfc08775d.html#a81eed092d0ae632231f21c9cfc08775d", null ],
+    [ "HasNoValue", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_a8f014757000f2a92d060c93751d84bf9.html#a8f014757000f2a92d060c93751d84bf9", null ],
+    [ "HasValue", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_ac626bf3b7731a0e5fcefd86257f14b97.html#ac626bf3b7731a0e5fcefd86257f14b97", null ],
+    [ "Value", "d2/dfa/structInControl_1_1OptionalInputDeviceDriverType_aeae461eb63d1da045ba20e9e2d08a245.html#aeae461eb63d1da045ba20e9e2d08a245", null ]
+];

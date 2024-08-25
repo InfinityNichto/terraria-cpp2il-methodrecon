@@ -1,0 +1,26 @@
+var structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder =
+[
+    [ "AsyncTaskMethodBuilder", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a1e07bab21873e44bdbe9613797a159f8.html#a1e07bab21873e44bdbe9613797a159f8", null ],
+    [ "AsyncTaskMethodBuilder", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a1e07bab21873e44bdbe9613797a159f8.html#a1e07bab21873e44bdbe9613797a159f8", null ],
+    [ "AwaitUnsafeOnCompleted< TAwaiter, TStateMachine >", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_abfd8f9b9138d27003332630ec4645cb6.html#abfd8f9b9138d27003332630ec4645cb6", null ],
+    [ "AwaitUnsafeOnCompleted< TAwaiter, TStateMachine >", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_abfd8f9b9138d27003332630ec4645cb6.html#abfd8f9b9138d27003332630ec4645cb6", null ],
+    [ "Create", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a13edf7872012ebce646f91ed9f105fa0.html#a13edf7872012ebce646f91ed9f105fa0", null ],
+    [ "Create", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_ae282116472ca61c037e398b19a42e3bc.html#ae282116472ca61c037e398b19a42e3bc", null ],
+    [ "GetTaskForResult", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_abfb346c91b1badb3fb8b057259b4ce89.html#abfb346c91b1badb3fb8b057259b4ce89", null ],
+    [ "SetException", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a27fd73c3a59a12323797be91f4872020.html#a27fd73c3a59a12323797be91f4872020", null ],
+    [ "SetException", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a27fd73c3a59a12323797be91f4872020.html#a27fd73c3a59a12323797be91f4872020", null ],
+    [ "SetResult", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_ab59e05cf714558f587df8beeb45c33c2.html#ab59e05cf714558f587df8beeb45c33c2", null ],
+    [ "SetResult", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a514d29e7c3f8b47f7365ee5608c814d0.html#a514d29e7c3f8b47f7365ee5608c814d0", null ],
+    [ "SetResult", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_aee18f8c9724931a4cc05d819c874b8e2.html#aee18f8c9724931a4cc05d819c874b8e2", null ],
+    [ "SetStateMachine", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a738e0bd0569cd45dcfd4820bff897ca6.html#a738e0bd0569cd45dcfd4820bff897ca6", null ],
+    [ "SetStateMachine", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a738e0bd0569cd45dcfd4820bff897ca6.html#a738e0bd0569cd45dcfd4820bff897ca6", null ],
+    [ "Start< TStateMachine >", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_ac52252028faae793e3cec51ca40abb2a.html#ac52252028faae793e3cec51ca40abb2a", null ],
+    [ "Start< TStateMachine >", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_ac52252028faae793e3cec51ca40abb2a.html#ac52252028faae793e3cec51ca40abb2a", null ],
+    [ "m_builder", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a90656745889f611a7c2c5d2ce21a3e22.html#a90656745889f611a7c2c5d2ce21a3e22", null ],
+    [ "m_coreState", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a2aed956297118c67b011829c7c8484d5.html#a2aed956297118c67b011829c7c8484d5", null ],
+    [ "m_task", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a04403a6e8fb535072043db68606ef65d.html#a04403a6e8fb535072043db68606ef65d", null ],
+    [ "s_cachedCompleted", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a98a4196ba237331e0b807c2d70ac4a97.html#a98a4196ba237331e0b807c2d70ac4a97", null ],
+    [ "s_defaultResultTask", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_ac213a88564c3bd9d5ca305ededc01e35.html#ac213a88564c3bd9d5ca305ededc01e35", null ],
+    [ "Task", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a985ccea7bcae60c1682e8a5a5afd7e3d.html#a985ccea7bcae60c1682e8a5a5afd7e3d", null ],
+    [ "Task", "d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder_a2d8d409129d95dde6d868695b34a07f1.html#a2d8d409129d95dde6d868695b34a07f1", null ]
+];

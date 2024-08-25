@@ -1,0 +1,26 @@
+var classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle =
+[
+    [ "SafeGssCredHandle", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle_af953c3fa9cf4c6cfe59d763c0d7a475f.html#af953c3fa9cf4c6cfe59d763c0d7a475f", null ],
+    [ "Close", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#aa5d1a98a1419a7bfeaf7373b86996046", null ],
+    [ "Create", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle_aef5909a55db93355a89e2fcaff0c5935.html#aef5909a55db93355a89e2fcaff0c5935", null ],
+    [ "DangerousAddRef", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a9d50fa573063d7305a8c12a33c2056ea", null ],
+    [ "DangerousGetHandle", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a424cc281bd8123fdfb254fb943233b9f", null ],
+    [ "DangerousRelease", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a0b33a39fe618278a5098954f5689f7c1", null ],
+    [ "DangerousReleaseInternal", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#af2047be679be0cfc69d8a21c18f8a9ed", null ],
+    [ "Dispose", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#aa6f4faab748ef89385be080c9333476a", null ],
+    [ "Dispose", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a344d136a775824ae067d8bee9b303060", null ],
+    [ "Finalize", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a5103731a7bcc3fd139173c37cb1bfc56", null ],
+    [ "InternalDispose", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#ac28b2336d6beb8238d2f1d07f6d50271", null ],
+    [ "InternalFinalize", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a263212e1042732d9eb8b30a63d3ca18d", null ],
+    [ "ReleaseHandle", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle_a0d071a9c9ab1da1029728eda6b886bb9.html#a0d071a9c9ab1da1029728eda6b886bb9", null ],
+    [ "SetHandle", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a3fb15f153dbeb6d1885b4918eefdd25a", null ],
+    [ "SetHandleAsInvalid", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a52aa845d880e936a4f3d725864ef9d4a", null ],
+    [ "_fullyInitialized", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a20d2682784334ed60e179ed105f2cbb4", null ],
+    [ "_ownsHandle", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#af771e37e1741bcac73187dc731fe85a5", null ],
+    [ "_state", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#ac6a964078ab46f2a7e232900171dd397", null ],
+    [ "handle", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a7998659110bb0dab360363c425b828f7", null ],
+    [ "RefCount_Mask", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#afcc9a53ff169a04ddef0969d7dbe8b9f", null ],
+    [ "RefCount_One", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#aa8289647a332d73b908b35387e065982", null ],
+    [ "IsClosed", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle.html#a993302e5d4328d7205ccd5e511abb5b5", null ],
+    [ "IsInvalid", "d8/d6b/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeGssCredHandle_a4a83b1d3a7d6186adabd5a1a21807cf4.html#a4a83b1d3a7d6186adabd5a1a21807cf4", null ]
+];

@@ -1,0 +1,28 @@
+var structUnityEngine_1_1Touch =
+[
+    [ "m_AltitudeAngle", "db/da6/structUnityEngine_1_1Touch_af35cad593eccff140e34be2080ea6caa.html#af35cad593eccff140e34be2080ea6caa", null ],
+    [ "m_AzimuthAngle", "db/da6/structUnityEngine_1_1Touch_a09332bf5108f6be402ed62d32c952b27.html#a09332bf5108f6be402ed62d32c952b27", null ],
+    [ "m_FingerId", "db/da6/structUnityEngine_1_1Touch_a1e5cb124fca5ab06d97c5aaa22e21b87.html#a1e5cb124fca5ab06d97c5aaa22e21b87", null ],
+    [ "m_maximumPossiblePressure", "db/da6/structUnityEngine_1_1Touch_a8da980cb74f2a321c7edaf01c233e69f.html#a8da980cb74f2a321c7edaf01c233e69f", null ],
+    [ "m_Phase", "db/da6/structUnityEngine_1_1Touch_a126022c6eaf37634f66f27618a57d940.html#a126022c6eaf37634f66f27618a57d940", null ],
+    [ "m_Position", "db/da6/structUnityEngine_1_1Touch_a09150b54dbe4e6394e01a663c8a8c9a9.html#a09150b54dbe4e6394e01a663c8a8c9a9", null ],
+    [ "m_PositionDelta", "db/da6/structUnityEngine_1_1Touch_a638cfa7576c3375678b7846ccf7cdf06.html#a638cfa7576c3375678b7846ccf7cdf06", null ],
+    [ "m_Pressure", "db/da6/structUnityEngine_1_1Touch_ae192d7d0d78c493b416f401997213018.html#ae192d7d0d78c493b416f401997213018", null ],
+    [ "m_Radius", "db/da6/structUnityEngine_1_1Touch_ab48523717fbdf5806ab5ead5a4cc6b18.html#ab48523717fbdf5806ab5ead5a4cc6b18", null ],
+    [ "m_RadiusVariance", "db/da6/structUnityEngine_1_1Touch_a9a7373eb77a7e4adf88a0e757c92407e.html#a9a7373eb77a7e4adf88a0e757c92407e", null ],
+    [ "m_RawPosition", "db/da6/structUnityEngine_1_1Touch_aa497b7abb28f45801c27628ae4d5cdb0.html#aa497b7abb28f45801c27628ae4d5cdb0", null ],
+    [ "m_TapCount", "db/da6/structUnityEngine_1_1Touch_a96356684859b7b9119d597bd92d721ba.html#a96356684859b7b9119d597bd92d721ba", null ],
+    [ "m_TimeDelta", "db/da6/structUnityEngine_1_1Touch_a82b6a07c68eecc4738a97b86d419e5fc.html#a82b6a07c68eecc4738a97b86d419e5fc", null ],
+    [ "m_Type", "db/da6/structUnityEngine_1_1Touch_a913b0df2fafeb4e433c7746187738287.html#a913b0df2fafeb4e433c7746187738287", null ],
+    [ "altitudeAngle", "db/da6/structUnityEngine_1_1Touch_afb74316f6af32a328c1df7782256e1c4.html#afb74316f6af32a328c1df7782256e1c4", null ],
+    [ "azimuthAngle", "db/da6/structUnityEngine_1_1Touch_a7e4f0da1a3daef1d68fc1cad5d641cf7.html#a7e4f0da1a3daef1d68fc1cad5d641cf7", null ],
+    [ "fingerId", "db/da6/structUnityEngine_1_1Touch_ac85a160c71cd10bb4018c04e074fc088.html#ac85a160c71cd10bb4018c04e074fc088", null ],
+    [ "maximumPossiblePressure", "db/da6/structUnityEngine_1_1Touch_ac45d3c034a33b34a106282e5f1d2d69c.html#ac45d3c034a33b34a106282e5f1d2d69c", null ],
+    [ "phase", "db/da6/structUnityEngine_1_1Touch_af51f988662e622b4d9cc8807597538ae.html#af51f988662e622b4d9cc8807597538ae", null ],
+    [ "position", "db/da6/structUnityEngine_1_1Touch_aa85985a5bb00f60287f076c5861d3ebb.html#aa85985a5bb00f60287f076c5861d3ebb", null ],
+    [ "pressure", "db/da6/structUnityEngine_1_1Touch_ae254162948e99d5fe7376cd7e3c75167.html#ae254162948e99d5fe7376cd7e3c75167", null ],
+    [ "radius", "db/da6/structUnityEngine_1_1Touch_a2a9613ddb3c39a2b81fa1c19e819aa9a.html#a2a9613ddb3c39a2b81fa1c19e819aa9a", null ],
+    [ "radiusVariance", "db/da6/structUnityEngine_1_1Touch_a6ea102621cac4e4b0e4aac4cf5650c35.html#a6ea102621cac4e4b0e4aac4cf5650c35", null ],
+    [ "tapCount", "db/da6/structUnityEngine_1_1Touch_a3d5b1ad664743bf9b76cb809ce892df5.html#a3d5b1ad664743bf9b76cb809ce892df5", null ],
+    [ "type", "db/da6/structUnityEngine_1_1Touch_a0d129f5996e4c829bbc68783810f7dd8.html#a0d129f5996e4c829bbc68783810f7dd8", null ]
+];

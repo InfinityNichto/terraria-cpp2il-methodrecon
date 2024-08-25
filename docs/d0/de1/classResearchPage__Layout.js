@@ -1,0 +1,25 @@
+var classResearchPage__Layout =
+[
+    [ "ResearchPage_Layout", "d0/de1/classResearchPage__Layout_ab4682e2a1f8a0f7c5ae92a1aea752d15.html#ab4682e2a1f8a0f7c5ae92a1aea752d15", null ],
+    [ "Awake", "d0/de1/classResearchPage__Layout.html#a2f12053d1489d598a0f4e8ac1fb6f119", null ],
+    [ "_rightPageController", "d0/de1/classResearchPage__Layout.html#a5e558ca3b3dd8a6400baa00a2367c8aa", null ],
+    [ "DisabledBacking", "d0/de1/classResearchPage__Layout_af574acd1f5055685dcfb26af7c7bad97.html#af574acd1f5055685dcfb26af7c7bad97", null ],
+    [ "DisabledBackingColor", "d0/de1/classResearchPage__Layout_acea7376e9a7ed7662b60757da75b5075.html#acea7376e9a7ed7662b60757da75b5075", null ],
+    [ "DisabledBackingIcon", "d0/de1/classResearchPage__Layout_ac601e2e8b9e2b3963efb883f06f66a60.html#ac601e2e8b9e2b3963efb883f06f66a60", null ],
+    [ "DisabledBackingIconColor", "d0/de1/classResearchPage__Layout_ad85d98ff9d7a500d7366c0632044536d.html#ad85d98ff9d7a500d7366c0632044536d", null ],
+    [ "DrawEmptySlots", "d0/de1/classResearchPage__Layout_a4d7cb4b941bab0190b08f9c0e03c029b.html#a4d7cb4b941bab0190b08f9c0e03c029b", null ],
+    [ "InstanceConsoleLeft", "d0/de1/classResearchPage__Layout.html#aac7b1f190941c1e6efb70e33fc6488a8", null ],
+    [ "InstanceConsoleRight", "d0/de1/classResearchPage__Layout.html#a1d2fa9cef60693af13a9e6a5cb89bbdb", null ],
+    [ "InstanceNormal", "d0/de1/classResearchPage__Layout.html#a1794e805abaa31956213dd83d17d7b6f", null ],
+    [ "ItemHighlightScale", "d0/de1/classResearchPage__Layout_a6c2cff8e828d63a89b4aaa1912243b1c.html#a6c2cff8e828d63a89b4aaa1912243b1c", null ],
+    [ "ItemScale", "d0/de1/classResearchPage__Layout_a0154b2432072238d5d877942d57d8c83.html#a0154b2432072238d5d877942d57d8c83", null ],
+    [ "ResearchButton", "d0/de1/classResearchPage__Layout_a0baab6821aa83222b119c90ee3dd21de.html#a0baab6821aa83222b119c90ee3dd21de", null ],
+    [ "ResearchItemGrid", "d0/de1/classResearchPage__Layout_ace66faae04e44ab72879d7328494e761.html#ace66faae04e44ab72879d7328494e761", null ],
+    [ "ResearchItemGrid_Horizontal", "d0/de1/classResearchPage__Layout_a32278a81c90335e4d7860f613777fedc.html#a32278a81c90335e4d7860f613777fedc", null ],
+    [ "ResearchItemGridCollapsed", "d0/de1/classResearchPage__Layout_a6fd4cf59edf4271f584360168bdceb46.html#a6fd4cf59edf4271f584360168bdceb46", null ],
+    [ "ResearchItemGridCollapsed_Horizontal", "d0/de1/classResearchPage__Layout_a9e772597b7b581fcee713a552f2f2446.html#a9e772597b7b581fcee713a552f2f2446", null ],
+    [ "Title", "d0/de1/classResearchPage__Layout_a0295d9074b8fe66287ad7d10e91a296f.html#a0295d9074b8fe66287ad7d10e91a296f", null ],
+    [ "DisplayItemGrid", "d0/de1/classResearchPage__Layout_a01c63c89563d4739f980f9e9d6643d38.html#a01c63c89563d4739f980f9e9d6643d38", null ],
+    [ "Instance", "d0/de1/classResearchPage__Layout.html#a3f7f56eb745ac2bfcad5cc8d30fb6f1c", null ],
+    [ "RightPageController", "d0/de1/classResearchPage__Layout.html#afb665c6ec304534f054711693ef9cbec", null ]
+];

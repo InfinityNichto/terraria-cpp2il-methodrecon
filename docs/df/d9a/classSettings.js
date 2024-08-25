@@ -1,0 +1,27 @@
+var classSettings =
+[
+    [ "Settings", "df/d9a/classSettings_ac1ec7238edb3d1b896e22bd19915bdd8.html#ac1ec7238edb3d1b896e22bd19915bdd8", null ],
+    [ "Awake", "df/d9a/classSettings_acfa0c5bfe3b85da53ad8e6e945106b5f.html#acfa0c5bfe3b85da53ad8e6e945106b5f", null ],
+    [ "IsList", "df/d9a/classSettings.html#ab49b1ae676fc9e7e58f21ea4c8ee2e67", null ],
+    [ "Load", "df/d9a/classSettings.html#a9eff0fbb1bbfa4d2f7a304714e0268ec", null ],
+    [ "LoadFields", "df/d9a/classSettings.html#a4672a991cd6e7bf5439f75a59225a750", null ],
+    [ "LoadReleaseLayout", "df/d9a/classSettings.html#a5660c9c1485c8032950a2698bf7795b8", null ],
+    [ "LoadReleaseLayout", "df/d9a/classSettings.html#a1a9250f2cc98bc57b73a71c655dbaeb1", null ],
+    [ "RefreshFields", "df/d9a/classSettings.html#abdcf4e3514f4037608fb5fece7c66113", null ],
+    [ "RefreshStyles", "df/d9a/classSettings.html#aa627f6fcdc89fba0b5b9120fc6a23ba7", null ],
+    [ "Save", "df/d9a/classSettings.html#a86d9af8d8414d86746a9e5cdcd7e6a51", null ],
+    [ "SaveFields", "df/d9a/classSettings.html#ab1f3e096ae000a06054b1ae43d0f1421", null ],
+    [ "SerialiseAtPath", "df/d9a/classSettings.html#afd573ecd8b55aaba58ceb1b1b873a1e4", null ],
+    [ "AimCursorSpeed", "df/d9a/classSettings_a7b94c297c573c6af86e012fcc650cdef.html#a7b94c297c573c6af86e012fcc650cdef", null ],
+    [ "BannerTooltipItemWidth", "df/d9a/classSettings_a5a4cc004652d8830759e9f49ba4ac544.html#a5a4cc004652d8830759e9f49ba4ac544", null ],
+    [ "DeselectedPageFade", "df/d9a/classSettings_a2b18636f72ad12eaabfe1e6c0b9bd9e2.html#a2b18636f72ad12eaabfe1e6c0b9bd9e2", null ],
+    [ "GridScrollSpeed", "df/d9a/classSettings_aa636893f1e8e43484e3243cb744fe950.html#aa636893f1e8e43484e3243cb744fe950", null ],
+    [ "Instance", "df/d9a/classSettings_a183b5c675db41f443f08c3731192a22f.html#a183b5c675db41f443f08c3731192a22f", null ],
+    [ "MouseScrollSensitivity", "df/d9a/classSettings_a4df7d35d96df82148a68fd45a563231b.html#a4df7d35d96df82148a68fd45a563231b", null ],
+    [ "name", "df/d9a/classSettings.html#ac6c38581dee794ba23118dc3f757e9ee", null ],
+    [ "output", "df/d9a/classSettings.html#a61b4b2d38ad4dcc83ec3a8d73622de67", null ],
+    [ "SliderSpeed", "df/d9a/classSettings_a2fecc00a196f6688d3b539db1fa04888.html#a2fecc00a196f6688d3b539db1fa04888", null ],
+    [ "Tooltips", "df/d9a/classSettings_a92b64a673ed9cc361a0f2b82bea9f886.html#a92b64a673ed9cc361a0f2b82bea9f886", null ],
+    [ "typesEncountered", "df/d9a/classSettings.html#a857f730b83fc6f066e731e54cd06a0c1", null ],
+    [ "UIDefinitions", "df/d9a/classSettings.html#ad73732ca85d8da2c53ed0bb3d92f476a", null ]
+];

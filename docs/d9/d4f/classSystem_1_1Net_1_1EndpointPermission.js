@@ -1,0 +1,27 @@
+var classSystem_1_1Net_1_1EndpointPermission =
+[
+    [ "EndpointPermission", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a635de3bbf310f2013ef16b903ed24bcb.html#a635de3bbf310f2013ef16b903ed24bcb", null ],
+    [ "EndpointPermission", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a1c88fe0fd7b3a9b247f9e5b21252aac2.html#a1c88fe0fd7b3a9b247f9e5b21252aac2", null ],
+    [ "EndpointPermission", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a6a26d0685d8c82924b7b6f3931e32179.html#a6a26d0685d8c82924b7b6f3931e32179", null ],
+    [ "Equals", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a1cd0e816a5c2d02cc4c888bc2b0b9d81.html#a1cd0e816a5c2d02cc4c888bc2b0b9d81", null ],
+    [ "GetHashCode", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a0f3ef065dc543d017bd7a08948d71742.html#a0f3ef065dc543d017bd7a08948d71742", null ],
+    [ "Intersect", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a76bdcd9c9fd4c64fc0346dfb85e25769.html#a76bdcd9c9fd4c64fc0346dfb85e25769", null ],
+    [ "Intersect", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a2213ee10b3d4ed3298f223f6fc8acb91.html#a2213ee10b3d4ed3298f223f6fc8acb91", null ],
+    [ "IntersectHostname", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_ae65a715127c30e2105118a5b98537e96.html#ae65a715127c30e2105118a5b98537e96", null ],
+    [ "IsSubsetOf", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a43844c352fe6b440de6f00ef20aebf88.html#a43844c352fe6b440de6f00ef20aebf88", null ],
+    [ "IsSubsetOf", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_ab3f7f50ef9377fecb2bbb41e5e6cc2ab.html#ab3f7f50ef9377fecb2bbb41e5e6cc2ab", null ],
+    [ "Resolve", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_ae21507e30638e009fd0cf6362291cec3.html#ae21507e30638e009fd0cf6362291cec3", null ],
+    [ "ToNumber", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a8402534b385cfbba155a7dd9787bb15a.html#a8402534b385cfbba155a7dd9787bb15a", null ],
+    [ "ToString", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a6ae3783eea1442b9d605f00ead9370d6.html#a6ae3783eea1442b9d605f00ead9370d6", null ],
+    [ "UndoResolve", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_acceffe9c4430a0b726f91a44576905cb.html#acceffe9c4430a0b726f91a44576905cb", null ],
+    [ "addresses", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_aa6f0b6c408efc1e65f13b9b997103ddd.html#aa6f0b6c408efc1e65f13b9b997103ddd", null ],
+    [ "dot_char", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a9d7f3b0546eda80dfb6afea1adb81a43.html#a9d7f3b0546eda80dfb6afea1adb81a43", null ],
+    [ "hasWildcard", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_ae21a54f6a8decc9ac8f499945b36e2b8.html#ae21a54f6a8decc9ac8f499945b36e2b8", null ],
+    [ "hostname", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_ab7fe59a66b36b9752be0d411a1c71e2b.html#ab7fe59a66b36b9752be0d411a1c71e2b", null ],
+    [ "port", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_af9be26ce11c65685afb6295859f0e035.html#af9be26ce11c65685afb6295859f0e035", null ],
+    [ "resolved", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a106f5a04563f14a313c88367baa33a8d.html#a106f5a04563f14a313c88367baa33a8d", null ],
+    [ "transport", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_ad9d9ad74e0b4c179d3642a393e639933.html#ad9d9ad74e0b4c179d3642a393e639933", null ],
+    [ "Hostname", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_add68a486d2e04888e0e227907c07b9f0.html#add68a486d2e04888e0e227907c07b9f0", null ],
+    [ "Port", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a132ca8f1af15a1c38e4ef9135f4a800f.html#a132ca8f1af15a1c38e4ef9135f4a800f", null ],
+    [ "Transport", "d9/d4f/classSystem_1_1Net_1_1EndpointPermission_a2083f939f9c1aa2ea859bf1a68ae044c.html#a2083f939f9c1aa2ea859bf1a68ae044c", null ]
+];

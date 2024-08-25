@@ -1,0 +1,28 @@
+var classTerraria_1_1Properties_1_1Settings =
+[
+    [ "Settings", "d8/d86/classTerraria_1_1Properties_1_1Settings_a41ea94e9082ba46b892d3cdbd09b2aa2.html#a41ea94e9082ba46b892d3cdbd09b2aa2", null ],
+    [ "GetPreviousVersion", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#ae29848bc398be364ed0a86e68447c056", null ],
+    [ "Initialize", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a70e064d6469970002bec08684a4224e8", null ],
+    [ "OnPropertyChanged", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a8e955c74fdee408da2bdfe71d3a0b6a2", null ],
+    [ "OnSettingChanging", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#af370c01e786ad51ba9367833a6a8de19", null ],
+    [ "OnSettingsLoaded", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a672f8cab536c3871ee4fe6709f2854e3", null ],
+    [ "OnSettingsSaving", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#ae10e34e668dc6e53cb214af01bd1611a", null ],
+    [ "Reload", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#ae1d74fec075488099f6b9c81ce796d91", null ],
+    [ "Reset", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a94243bec6a352e183417c4c5737cb73f", null ],
+    [ "Save", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a96d5b8236b05391d619de32a91b6be5c", null ],
+    [ "Synchronized", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#ac494fcbd52ba2c5fd9205dd4e1010ad9", null ],
+    [ "Upgrade", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a24fe9f386c8a07b8c3b0e6683c8aeab9", null ],
+    [ "defaultInstance", "d8/d86/classTerraria_1_1Properties_1_1Settings_a3305057cbc42a240337a51dd0f83a9ed.html#a3305057cbc42a240337a51dd0f83a9ed", null ],
+    [ "Context", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a12a61906d4d16987943bbd0864ea4465", null ],
+    [ "Default", "d8/d86/classTerraria_1_1Properties_1_1Settings_af9962a5cc34584f11d0080502caae0df.html#af9962a5cc34584f11d0080502caae0df", null ],
+    [ "IsSynchronized", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a254eb0a6911a2c3e35d7f92d6852a42c", null ],
+    [ "Properties", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a3bf6ff65375edc1a6ccc356b11eeb646", null ],
+    [ "PropertyChanged", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a2c958b03d4e9b4282e5c859887f71601", null ],
+    [ "PropertyValues", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#af1fbf531f52fadf8d7438deae4af0a3d", null ],
+    [ "Providers", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#aae1de7e38be51806161dec363e024e40", null ],
+    [ "SettingChanging", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#acb5e8dfce68bed1a02d8a8eca4b68cca", null ],
+    [ "SettingsKey", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a5899834abe52426a00242bd77d989c0b", null ],
+    [ "SettingsLoaded", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#ada5305c540651784073eafca31b22317", null ],
+    [ "SettingsSaving", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a0f52214cf4cd073c07ba08731300b977", null ],
+    [ "this[string propertyName]", "d8/d86/classTerraria_1_1Properties_1_1Settings.html#a7fa395f72af240acc924b4b328430991", null ]
+];

@@ -1,0 +1,28 @@
+var classTerraria_1_1Graphics_1_1Effects_1_1FilterManager =
+[
+    [ "FilterManager", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a43c73574ea88c104bb1f3039de55138b.html#a43c73574ea88c104bb1f3039de55138b", null ],
+    [ "Activate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a2d3f5644672df2227c0b410df788dabb", null ],
+    [ "BeginCapture", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a15f75bc2ed08874b687a46163bdbd688.html#a15f75bc2ed08874b687a46163bdbd688", null ],
+    [ "Bind", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#adbf65de80e8bec0758f91537dcf1a220", null ],
+    [ "CanCapture", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_ab0defb6a73459d5c658e0a4ab3464b4e.html#ab0defb6a73459d5c658e0a4ab3464b4e", null ],
+    [ "Deactivate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#ac5b6d021a29d4a2c7034c20794a73ccc", null ],
+    [ "EndCapture", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_aa1f86aea935c759f219869b4168b5808.html#aa1f86aea935c759f219869b4168b5808", null ],
+    [ "HasActiveFilter", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a2bbd8f25628fed6de0069850bef181e8.html#a2bbd8f25628fed6de0069850bef181e8", null ],
+    [ "Load", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a8035e11cc67d280f092840b1c6d43d77", null ],
+    [ "OnActivate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_aaab748c300d42d90bd30273d8d2dc5a4.html#aaab748c300d42d90bd30273d8d2dc5a4", null ],
+    [ "OnActivate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a840b21c4c987af2824229d7abef56342", null ],
+    [ "OnDeactivate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#ab9cb19404881406db4b4fd054f66765b", null ],
+    [ "Update", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a18f8e6deefdc67a279ff9e80ae14a94a.html#a18f8e6deefdc67a279ff9e80ae14a94a", null ],
+    [ "UpdateFilters", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a0cb253c0d612f6521df42ac8efb91445.html#a0cb253c0d612f6521df42ac8efb91445", null ],
+    [ "_activeFilterCount", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a2e5e3a3f9cec68c6ab602bbaaaf48fd7.html#a2e5e3a3f9cec68c6ab602bbaaaf48fd7", null ],
+    [ "_activeFilters", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a578052ab453af4ca1ef45d6f9d8353a0.html#a578052ab453af4ca1ef45d6f9d8353a0", null ],
+    [ "_captureThisFrame", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a9ca8f17bace5aa413de1927a7e2e7d54.html#a9ca8f17bace5aa413de1927a7e2e7d54", null ],
+    [ "_effects", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#aaad78fc2703161bc56978dfbc7a40efc", null ],
+    [ "_filterLimit", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_aafe1243ed9166ca561bc84d3e3f482d2.html#aafe1243ed9166ca561bc84d3e3f482d2", null ],
+    [ "_isLoaded", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#ae84fcd0adf6dceb5e88cdf4ce432ec5d", null ],
+    [ "_priorityThreshold", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_adcf6196091683b4944e35c89cd852860.html#adcf6196091683b4944e35c89cd852860", null ],
+    [ "OPACITY_RATE", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a884c87673667591a4fc380bffc1dc999.html#a884c87673667591a4fc380bffc1dc999", null ],
+    [ "IsLoaded", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#ab9b1223a55a0821e320d37aca0c561ca", null ],
+    [ "OnPostDraw", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a287c188406338b161a03d5ba36da8350.html#a287c188406338b161a03d5ba36da8350", null ],
+    [ "this[string key]", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a75aa67f89b65d5b2ff3a7716e21fb6e3", null ]
+];

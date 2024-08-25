@@ -1,0 +1,4 @@
+var structSystem_1_1Net_1_1NetworkInformation_1_1AixStructs_1_1ifreq__mtu_1_1e____FixedBuffer =
+[
+    [ "FixedElementField", "d5/df1/structSystem_1_1Net_1_1NetworkInformation_1_1AixStructs_1_1ifreq__mtu_1_1e____FixedBuffer_a06e07ead92aa6ab5b868054b002afc5d.html#a06e07ead92aa6ab5b868054b002afc5d", null ]
+];

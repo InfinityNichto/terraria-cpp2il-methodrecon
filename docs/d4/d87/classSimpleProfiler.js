@@ -1,0 +1,25 @@
+var classSimpleProfiler =
+[
+    [ "AllocateSampleFrames", "d4/d87/classSimpleProfiler_aef857c548cff55c6dba2200f3012b740.html#aef857c548cff55c6dba2200f3012b740", null ],
+    [ "BeginFrame", "d4/d87/classSimpleProfiler_a555ad767155ed503179feea8f230f5d7.html#a555ad767155ed503179feea8f230f5d7", null ],
+    [ "BeginSample", "d4/d87/classSimpleProfiler_a3e7039b81dfa53a10e035a5b7c9f4da5.html#a3e7039b81dfa53a10e035a5b7c9f4da5", null ],
+    [ "Draw", "d4/d87/classSimpleProfiler_ac545be80e68983eb47ef27eb460c95b5.html#ac545be80e68983eb47ef27eb460c95b5", null ],
+    [ "Dump", "d4/d87/classSimpleProfiler_aa0179893c69cc512b0d8859d46a12ede.html#aa0179893c69cc512b0d8859d46a12ede", null ],
+    [ "DumpFrameData", "d4/d87/classSimpleProfiler_aa42f0f1d3c39b742dbc56014f40151c4.html#aa42f0f1d3c39b742dbc56014f40151c4", null ],
+    [ "EndFrame", "d4/d87/classSimpleProfiler_a10af6dea563cb1a195d11bba4954cba5.html#a10af6dea563cb1a195d11bba4954cba5", null ],
+    [ "EndSample", "d4/d87/classSimpleProfiler_a1a1ea89d2299c71825be16d1cc372724.html#a1a1ea89d2299c71825be16d1cc372724", null ],
+    [ "Initialise", "d4/d87/classSimpleProfiler_a3633cf3363973cf92b3b9f4f0d1bb29e.html#a3633cf3363973cf92b3b9f4f0d1bb29e", null ],
+    [ "OnGUI", "d4/d87/classSimpleProfiler_a21b8ec63c023cc033551c110afdeb4dc.html#a21b8ec63c023cc033551c110afdeb4dc", null ],
+    [ "UnityProfileBegin", "d4/d87/classSimpleProfiler_aaafc7f816dc0ab2ad6e9609c61488e93.html#aaafc7f816dc0ab2ad6e9609c61488e93", null ],
+    [ "UnityProfileEnd", "d4/d87/classSimpleProfiler_a916cefc2e1aad91335c85c3965fe1c53.html#a916cefc2e1aad91335c85c3965fe1c53", null ],
+    [ "AvailableFrames", "d4/d87/classSimpleProfiler_af4f67a6d6017a0b7609b98d97bc3751e.html#af4f67a6d6017a0b7609b98d97bc3751e", null ],
+    [ "CurrentFrameData", "d4/d87/classSimpleProfiler_a5d2140efe2448afb703ee171740b582e.html#a5d2140efe2448afb703ee171740b582e", null ],
+    [ "CurrentFrames", "d4/d87/classSimpleProfiler_ae91ab45c92b39e26c0b215992d534651.html#ae91ab45c92b39e26c0b215992d534651", null ],
+    [ "DisplayStats", "d4/d87/classSimpleProfiler_a1c0a59f26a7632932664c23ad36f4839.html#a1c0a59f26a7632932664c23ad36f4839", null ],
+    [ "FrameData", "d4/d87/classSimpleProfiler_ac7b5d3aaea318cd6f4fad79913486ce4.html#ac7b5d3aaea318cd6f4fad79913486ce4", null ],
+    [ "FrameSampleTypes", "d4/d87/classSimpleProfiler_aa407d9c7ff9aefc73d9d47e885c8b5ce.html#aa407d9c7ff9aefc73d9d47e885c8b5ce", null ],
+    [ "FrameTimeEnd", "d4/d87/classSimpleProfiler_aba3ca841d2d1b0ce91d33016a0aebb57.html#aba3ca841d2d1b0ce91d33016a0aebb57", null ],
+    [ "FrameTimeStart", "d4/d87/classSimpleProfiler_ae2eac3c3a7e3055115b0047cf69d0d3f.html#ae2eac3c3a7e3055115b0047cf69d0d3f", null ],
+    [ "LastFrameData", "d4/d87/classSimpleProfiler_afdfd02aa132c0a6d78801705df1c99be.html#afdfd02aa132c0a6d78801705df1c99be", null ],
+    [ "NextFrame", "d4/d87/classSimpleProfiler_a2d38c763edaffb8ae2e3ec008c777cf1.html#a2d38c763edaffb8ae2e3ec008c777cf1", null ]
+];

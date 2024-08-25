@@ -1,0 +1,25 @@
+var classGUIControllerResearchPage4Page =
+[
+    [ "GUIControllerResearchPage4Page", "db/dd7/classGUIControllerResearchPage4Page_a89cb6e4416fad2c27c1d0954cc1fc015.html#a89cb6e4416fad2c27c1d0954cc1fc015", null ],
+    [ "Activate", "db/dd7/classGUIControllerResearchPage4Page_ac680b979aab6c6564a4919013a51ada2.html#ac680b979aab6c6564a4919013a51ada2", null ],
+    [ "GetCollectionCount", "db/dd7/classGUIControllerResearchPage4Page_a189c98e1e941bb9f3ea90e564858a5f9.html#a189c98e1e941bb9f3ea90e564858a5f9", null ],
+    [ "GetDisplayItemCount", "db/dd7/classGUIControllerResearchPage4Page_a012a47af547c2bb6dc4c2cc4f0508b7a.html#a012a47af547c2bb6dc4c2cc4f0508b7a", null ],
+    [ "GetGrid", "db/dd7/classGUIControllerResearchPage4Page_adb52005db1f888033a15efeea408e34f.html#adb52005db1f888033a15efeea408e34f", null ],
+    [ "GetItemScale", "db/dd7/classGUIControllerResearchPage4Page_a23c47d06e1c3e0d19930383d23698c11.html#a23c47d06e1c3e0d19930383d23698c11", null ],
+    [ "GetMenuItemCount", "db/dd7/classGUIControllerResearchPage4Page_a4334494e540c9add33e527d266f31a0a.html#a4334494e540c9add33e527d266f31a0a", null ],
+    [ "GetNavigationOutDirs", "db/dd7/classGUIControllerResearchPage4Page_ac10d28fd36223ad02a5001457a15f7d9.html#ac10d28fd36223ad02a5001457a15f7d9", null ],
+    [ "GetScrollOffset", "db/dd7/classGUIControllerResearchPage4Page_add3cf8a90e33eabaddca023e02035fd4.html#add3cf8a90e33eabaddca023e02035fd4", null ],
+    [ "GetSelectedItemRegion", "db/dd7/classGUIControllerResearchPage4Page_a4be99f13302fae8f93e60a13fd00014e.html#a4be99f13302fae8f93e60a13fd00014e", null ],
+    [ "IsInMenu", "db/dd7/classGUIControllerResearchPage4Page_a439c0c9c4683beb888d270c17feb1785.html#a439c0c9c4683beb888d270c17feb1785", null ],
+    [ "IsPageContoller", "db/dd7/classGUIControllerResearchPage4Page.html#a463c828f5321c79bbcc6b8085751c49a", null ],
+    [ "LoadPageAnchor", "db/dd7/classGUIControllerResearchPage4Page.html#a198fe288868774450f4893fe1565d580", null ],
+    [ "Navigate", "db/dd7/classGUIControllerResearchPage4Page_adecf9aee5615ee0b985d384494371bf8.html#adecf9aee5615ee0b985d384494371bf8", null ],
+    [ "NavigateInto", "db/dd7/classGUIControllerResearchPage4Page_ab998fb6bd24953a2eee6bc02d923b73f.html#ab998fb6bd24953a2eee6bc02d923b73f", null ],
+    [ "SetScrollOffset", "db/dd7/classGUIControllerResearchPage4Page_a074a8f674fd130af1e4dd45cc492fcdb.html#a074a8f674fd130af1e4dd45cc492fcdb", null ],
+    [ "_gridNav", "db/dd7/classGUIControllerResearchPage4Page_ad1d770acdcb6099da9d0e95c218e71a0.html#ad1d770acdcb6099da9d0e95c218e71a0", null ],
+    [ "PageCategory", "db/dd7/classGUIControllerResearchPage4Page.html#a43062258eedaa09d7f979d563b7c93c6", null ],
+    [ "ResearchButton", "db/dd7/classGUIControllerResearchPage4Page.html#a1272df945b1d0eba45fdae7869900ff6", null ],
+    [ "SettingCategory", "db/dd7/classGUIControllerResearchPage4Page.html#aa0e56d44ebf36a2f38d260265a9f4644", null ],
+    [ "GridNav", "db/dd7/classGUIControllerResearchPage4Page_a2548f757d244d0ad94cd3338adea199a.html#a2548f757d244d0ad94cd3338adea199a", null ],
+    [ "ParentGrouping", "db/dd7/classGUIControllerResearchPage4Page.html#a30861f06e3a2a32f26b9e19f6a99dd73", null ]
+];

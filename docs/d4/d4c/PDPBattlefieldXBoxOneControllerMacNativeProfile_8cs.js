@@ -1,0 +1,4 @@
+var PDPBattlefieldXBoxOneControllerMacNativeProfile_8cs =
+[
+    [ "InControl.NativeDeviceProfiles.PDPBattlefieldXBoxOneControllerMacNativeProfile", "d2/db5/classInControl_1_1NativeDeviceProfiles_1_1PDPBattlefieldXBoxOneControllerMacNativeProfile.html", "d2/db5/classInControl_1_1NativeDeviceProfiles_1_1PDPBattlefieldXBoxOneControllerMacNativeProfile" ]
+];

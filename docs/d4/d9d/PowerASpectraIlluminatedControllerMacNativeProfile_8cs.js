@@ -1,0 +1,4 @@
+var PowerASpectraIlluminatedControllerMacNativeProfile_8cs =
+[
+    [ "InControl.NativeDeviceProfiles.PowerASpectraIlluminatedControllerMacNativeProfile", "d5/d47/classInControl_1_1NativeDeviceProfiles_1_1PowerASpectraIlluminatedControllerMacNativeProfile.html", "d5/d47/classInControl_1_1NativeDeviceProfiles_1_1PowerASpectraIlluminatedControllerMacNativeProfile" ]
+];

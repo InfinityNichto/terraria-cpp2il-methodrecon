@@ -1,0 +1,26 @@
+var classIonic_1_1Zip_1_1SaveProgressEventArgs =
+[
+    [ "SaveProgressEventArgs", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_a3520a865e067616e33021b85d4c8130d.html#a3520a865e067616e33021b85d4c8130d", null ],
+    [ "SaveProgressEventArgs", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_ad6ebcaebbc96c6c1c0715f3c4e744083.html#ad6ebcaebbc96c6c1c0715f3c4e744083", null ],
+    [ "SaveProgressEventArgs", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_a1c1fd75c660fc6a643ae3ec8a6c666fe.html#a1c1fd75c660fc6a643ae3ec8a6c666fe", null ],
+    [ "ByteUpdate", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_a973e7d45a8c4b84d282905a6b6800fe6.html#a973e7d45a8c4b84d282905a6b6800fe6", null ],
+    [ "Completed", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_aec7970e005fad46fe044cb3e843a922b.html#aec7970e005fad46fe044cb3e843a922b", null ],
+    [ "Started", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_ae223cff9cc4c94c32dbf88909a3f92f9.html#ae223cff9cc4c94c32dbf88909a3f92f9", null ],
+    [ "_archiveName", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a345d254c3bad9e0445861e089b18973a", null ],
+    [ "_bytesTransferred", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#ac3b3d12683424a57d9194cc400bb1c35", null ],
+    [ "_cancel", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a30b7fabcfd76771eeb4de288c0d5aa7a", null ],
+    [ "_entriesSaved", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_a64634360b665812c2ed4e677154d4f42.html#a64634360b665812c2ed4e677154d4f42", null ],
+    [ "_entriesTotal", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a9ed3ceba601743835550017f7bd9f8d8", null ],
+    [ "_flavor", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#ad44e438895c6c85501a5015e63dacde5", null ],
+    [ "_latestEntry", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#ae6062f842a82e260c2970f6862162107", null ],
+    [ "_totalBytesToTransfer", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a95d99634a0133876515c0ed5564033b4", null ],
+    [ "Empty", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#aee7caaeb37b8beddd2126e6f680dc0a3", null ],
+    [ "ArchiveName", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a5a54985c6c64462d22df0b0c90e9a4cc", null ],
+    [ "BytesTransferred", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a17e8fc03f7047b7a84a48f5a4322046e", null ],
+    [ "Cancel", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#ae2479d86aa28fb6069f9dd2c74739712", null ],
+    [ "CurrentEntry", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a46c150ed06e9e2f3152d1dc081376d07", null ],
+    [ "EntriesSaved", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs_abe96764aec36f100f85f58205b97dfc0.html#abe96764aec36f100f85f58205b97dfc0", null ],
+    [ "EntriesTotal", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a27f9c365efad9b0ecbda2a5a2d1a4ad8", null ],
+    [ "EventType", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#ab4bae3f5e400c49946bd4ae45d186902", null ],
+    [ "TotalBytesToTransfer", "d5/d29/classIonic_1_1Zip_1_1SaveProgressEventArgs.html#a66c5c6aa4f4116915c595c8e28597351", null ]
+];

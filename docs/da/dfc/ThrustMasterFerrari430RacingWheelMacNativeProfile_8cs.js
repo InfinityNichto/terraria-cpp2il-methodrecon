@@ -1,0 +1,4 @@
+var ThrustMasterFerrari430RacingWheelMacNativeProfile_8cs =
+[
+    [ "InControl.NativeDeviceProfiles.ThrustMasterFerrari430RacingWheelMacNativeProfile", "d3/d3b/classInControl_1_1NativeDeviceProfiles_1_1ThrustMasterFerrari430RacingWheelMacNativeProfile.html", "d3/d3b/classInControl_1_1NativeDeviceProfiles_1_1ThrustMasterFerrari430RacingWheelMacNativeProfile" ]
+];

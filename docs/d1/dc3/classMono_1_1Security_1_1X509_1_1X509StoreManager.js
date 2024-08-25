@@ -1,0 +1,25 @@
+var classMono_1_1Security_1_1X509_1_1X509StoreManager =
+[
+    [ "X509StoreManager", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a4a32adbd13ae7da18b96805f93b92eef.html#a4a32adbd13ae7da18b96805f93b92eef", null ],
+    [ "_localMachinePath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a6bb1278bd90192bafca67f585e507ff7.html#a6bb1278bd90192bafca67f585e507ff7", null ],
+    [ "_machineStore", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_ae31e82f4d86ff829bc1107f5daf35c76.html#ae31e82f4d86ff829bc1107f5daf35c76", null ],
+    [ "_newLocalMachinePath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a461495fbc0ee2cf1c6c3e76d11c348c9.html#a461495fbc0ee2cf1c6c3e76d11c348c9", null ],
+    [ "_newMachineStore", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a52550264f937a9bc165c3cd50ab6931b.html#a52550264f937a9bc165c3cd50ab6931b", null ],
+    [ "_newUserPath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a9db5b60207b015215f11c55d2893dce0.html#a9db5b60207b015215f11c55d2893dce0", null ],
+    [ "_newUserStore", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a6bdc9c8b1d4ad482a0749d84fc0e84d5.html#a6bdc9c8b1d4ad482a0749d84fc0e84d5", null ],
+    [ "_userPath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a4f8dc4d931634ce62940b7d9a431f461.html#a4f8dc4d931634ce62940b7d9a431f461", null ],
+    [ "_userStore", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a534837bd475cfd26fbbbe29479479b42.html#a534837bd475cfd26fbbbe29479479b42", null ],
+    [ "CurrentUser", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a4fe72cf116a01577e61be70fef14253a.html#a4fe72cf116a01577e61be70fef14253a", null ],
+    [ "CurrentUserPath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a1e9ae6b27be1e30f71d0e40fafdf9bd8.html#a1e9ae6b27be1e30f71d0e40fafdf9bd8", null ],
+    [ "IntermediateCACertificates", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_aacc17855b3336882b331166aa8299103.html#aacc17855b3336882b331166aa8299103", null ],
+    [ "IntermediateCACrls", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a5e7af80caa88d06d0e3325fa8acffed8.html#a5e7af80caa88d06d0e3325fa8acffed8", null ],
+    [ "LocalMachine", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a51645b328a32bfdb48fd05422ff3ffb7.html#a51645b328a32bfdb48fd05422ff3ffb7", null ],
+    [ "LocalMachinePath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a1b8428abb23549952fb5da43ddb469ae.html#a1b8428abb23549952fb5da43ddb469ae", null ],
+    [ "NewCurrentUser", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_aacaece0ab3339c271361f8ab560556c7.html#aacaece0ab3339c271361f8ab560556c7", null ],
+    [ "NewCurrentUserPath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a5331ae274281e72de2949fa221a891c4.html#a5331ae274281e72de2949fa221a891c4", null ],
+    [ "NewLocalMachine", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_a261210a0651be4de3bfb9fdb84fba20c.html#a261210a0651be4de3bfb9fdb84fba20c", null ],
+    [ "NewLocalMachinePath", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_adf3d8fafa28011ae3871e8d9c51362f1.html#adf3d8fafa28011ae3871e8d9c51362f1", null ],
+    [ "TrustedRootCACrls", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_ac5be0a9e8d9870191ee0a21e4eb40601.html#ac5be0a9e8d9870191ee0a21e4eb40601", null ],
+    [ "TrustedRootCertificates", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_aed0fcb7903c400a665918ac3cfd96390.html#aed0fcb7903c400a665918ac3cfd96390", null ],
+    [ "UntrustedCertificates", "d1/dc3/classMono_1_1Security_1_1X509_1_1X509StoreManager_abd717fef7695038c22aaf5992a7effe3.html#abd717fef7695038c22aaf5992a7effe3", null ]
+];

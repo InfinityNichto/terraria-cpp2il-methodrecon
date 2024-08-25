@@ -1,0 +1,28 @@
+var dir_65b9b4e0d92c15354023f526516bce8e =
+[
+    [ "ChestInfo_OldMobile.cs", "d5/dab/ChestInfo__OldMobile_8cs.html", "d5/dab/ChestInfo__OldMobile_8cs" ],
+    [ "FavoritesFile.cs", "df/d13/FavoritesFile_8cs.html", "df/d13/FavoritesFile_8cs" ],
+    [ "FileData.cs", "d5/dc1/FileData_8cs.html", "d5/dc1/FileData_8cs" ],
+    [ "FileMetadata.cs", "dd/da6/FileMetadata_8cs.html", "dd/da6/FileMetadata_8cs" ],
+    [ "FileType.cs", "d5/d55/FileType_8cs.html", "d5/d55/FileType_8cs" ],
+    [ "FishingInfo_OldMobile.cs", "d2/de2/FishingInfo__OldMobile_8cs.html", "d2/de2/FishingInfo__OldMobile_8cs" ],
+    [ "GameConfiguration.cs", "d7/d46/GameConfiguration_8cs.html", "d7/d46/GameConfiguration_8cs" ],
+    [ "ItemConversion_OldConsole.cs", "dc/dbc/ItemConversion__OldConsole_8cs.html", "dc/dbc/ItemConversion__OldConsole_8cs" ],
+    [ "ItemConversion_OldMobile.cs", "dd/da4/ItemConversion__OldMobile_8cs.html", "dd/da4/ItemConversion__OldMobile_8cs" ],
+    [ "ItemRemapUtility.cs", "d6/de5/ItemRemapUtility_8cs.html", "d6/de5/ItemRemapUtility_8cs" ],
+    [ "NPCInfo_OldMobile.cs", "d7/d95/NPCInfo__OldMobile_8cs.html", "d7/d95/NPCInfo__OldMobile_8cs" ],
+    [ "OldSaveSynchronise.cs", "d9/dd3/OldSaveSynchronise_8cs.html", "d9/dd3/OldSaveSynchronise_8cs" ],
+    [ "Player_OldMobile.cs", "d7/d89/Player__OldMobile_8cs.html", "d7/d89/Player__OldMobile_8cs" ],
+    [ "PlayerFileData.cs", "d7/d89/PlayerFileData_8cs.html", "d7/d89/PlayerFileData_8cs" ],
+    [ "Preferences.cs", "d9/d1a/Preferences_8cs.html", "d9/d1a/Preferences_8cs" ],
+    [ "RandomStyleInfo_OldMobile.cs", "d2/d6d/RandomStyleInfo__OldMobile_8cs.html", "d2/d6d/RandomStyleInfo__OldMobile_8cs" ],
+    [ "ResourcePack.cs", "de/d78/ResourcePack_8cs.html", "de/d78/ResourcePack_8cs" ],
+    [ "ResourcePackVersion.cs", "d7/d73/ResourcePackVersion_8cs.html", "d7/d73/ResourcePackVersion_8cs" ],
+    [ "SignInfo_OldMobile.cs", "df/d36/SignInfo__OldMobile_8cs.html", "df/d36/SignInfo__OldMobile_8cs" ],
+    [ "TilInfo_OldMobile.cs", "d9/d74/TilInfo__OldMobile_8cs.html", "d9/d74/TilInfo__OldMobile_8cs" ],
+    [ "TimeInfo_OldMobile.cs", "d5/d00/TimeInfo__OldMobile_8cs.html", "d5/d00/TimeInfo__OldMobile_8cs" ],
+    [ "Weather_OldMobile.cs", "de/d0e/Weather__OldMobile_8cs.html", "de/d0e/Weather__OldMobile_8cs" ],
+    [ "WorldFile.cs", "d5/db4/WorldFile_8cs.html", "d5/db4/WorldFile_8cs" ],
+    [ "WorldFile_OldMobile.cs", "d1/d4f/WorldFile__OldMobile_8cs.html", "d1/d4f/WorldFile__OldMobile_8cs" ],
+    [ "WorldFileData.cs", "d7/d08/WorldFileData_8cs.html", "d7/d08/WorldFileData_8cs" ]
+];

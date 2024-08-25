@@ -1,0 +1,25 @@
+var classUnityEngine_1_1__AndroidJNIHelper =
+[
+    [ "_AndroidJNIHelper", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_afa8901f711558a8e319602c57d304813.html#afa8901f711558a8e319602c57d304813", null ],
+    [ "Box", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_ac0c7bd725761e94551b594165049a92a.html#ac0c7bd725761e94551b594165049a92a", null ],
+    [ "ConvertFromJNIArray< ArrayType >", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a9f4b5b438c9e4b609c6012af394a5eff.html#a9f4b5b438c9e4b609c6012af394a5eff", null ],
+    [ "ConvertToJNIArray", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a50ebbaf7beb5a342b0d2678e5023c139.html#a50ebbaf7beb5a342b0d2678e5023c139", null ],
+    [ "CreateJavaProxy", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_af85166f9388a2f55474f07b163e4756f.html#af85166f9388a2f55474f07b163e4756f", null ],
+    [ "CreateJavaRunnable", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a3165c2a27295aba41869f112be807f16.html#a3165c2a27295aba41869f112be807f16", null ],
+    [ "CreateJNIArgArray", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a065e3ea66f0b3d6f5f0fdfd46d4d7f82.html#a065e3ea66f0b3d6f5f0fdfd46d4d7f82", null ],
+    [ "DeleteJNIArgArray", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a1db94613d51228ae73160f845a6e4784.html#a1db94613d51228ae73160f845a6e4784", null ],
+    [ "GetConstructorID", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_ad3e2ca2df14eb24a8fe5fd64cd87e42f.html#ad3e2ca2df14eb24a8fe5fd64cd87e42f", null ],
+    [ "GetConstructorID", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_ac0a0e3ea57046b63de5637d45ee05c76.html#ac0a0e3ea57046b63de5637d45ee05c76", null ],
+    [ "GetFieldID", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_af06247861722a4dcbe49b81b06ae8446.html#af06247861722a4dcbe49b81b06ae8446", null ],
+    [ "GetFieldID< ReturnType >", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a21f515a48431a1b7c3f6c3939121666d.html#a21f515a48431a1b7c3f6c3939121666d", null ],
+    [ "GetMethodID", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_aae5333e9a7710355e9992737f3d0a2a3.html#aae5333e9a7710355e9992737f3d0a2a3", null ],
+    [ "GetMethodID", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_ab25636b2ffda8b53e2bece3e961c9eef.html#ab25636b2ffda8b53e2bece3e961c9eef", null ],
+    [ "GetMethodID< ReturnType >", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_ae189f19a7a7ea9bc65765afe148658ca.html#ae189f19a7a7ea9bc65765afe148658ca", null ],
+    [ "GetMethodIDFallback", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_aedb53e4815aca18891b2e4c55d33dbed.html#aedb53e4815aca18891b2e4c55d33dbed", null ],
+    [ "GetSignature", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a37c9cd1ec973d096bea7535bd1f151e9.html#a37c9cd1ec973d096bea7535bd1f151e9", null ],
+    [ "GetSignature", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_af76af177d6d44415c8ba6f8d1ebf216a.html#af76af177d6d44415c8ba6f8d1ebf216a", null ],
+    [ "GetSignature< ReturnType >", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_aad74187da8cb8301a1a29d88754041a9.html#aad74187da8cb8301a1a29d88754041a9", null ],
+    [ "InvokeJavaProxyMethod", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_ad988e5c083ec84281d12f9260675e602.html#ad988e5c083ec84281d12f9260675e602", null ],
+    [ "Unbox", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a0cd61c954b59d4a6a95fe1af560b910a.html#a0cd61c954b59d4a6a95fe1af560b910a", null ],
+    [ "UnboxArray", "dd/dce/classUnityEngine_1_1__AndroidJNIHelper_a016715c424ed3275d67d79601af3ab3d.html#a016715c424ed3275d67d79601af3ab3d", null ]
+];

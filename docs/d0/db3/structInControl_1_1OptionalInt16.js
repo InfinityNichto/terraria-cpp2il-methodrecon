@@ -1,0 +1,25 @@
+var structInControl_1_1OptionalInt16 =
+[
+    [ "OptionalInt16", "d0/db3/structInControl_1_1OptionalInt16_a0200862658c69540f7ace3a72b11af5e.html#a0200862658c69540f7ace3a72b11af5e", null ],
+    [ "Clear", "d0/db3/structInControl_1_1OptionalInt16_a19c1866d03dba1be5adb5045898fb4b7.html#a19c1866d03dba1be5adb5045898fb4b7", null ],
+    [ "CombineHashCodes", "d0/db3/structInControl_1_1OptionalInt16_adddf0af8b5d8a8365930e6ce8c0e5a50.html#adddf0af8b5d8a8365930e6ce8c0e5a50", null ],
+    [ "Equals", "d0/db3/structInControl_1_1OptionalInt16_ae3c380dcf1a388c855393faf6401c695.html#ae3c380dcf1a388c855393faf6401c695", null ],
+    [ "Equals", "d0/db3/structInControl_1_1OptionalInt16_a7aa83c98ecd59cbfc4798ede654f7feb.html#a7aa83c98ecd59cbfc4798ede654f7feb", null ],
+    [ "Equals", "d0/db3/structInControl_1_1OptionalInt16_a7105b9e1ef1fdc09a872e3d6349687dc.html#a7105b9e1ef1fdc09a872e3d6349687dc", null ],
+    [ "GetHashCode", "d0/db3/structInControl_1_1OptionalInt16_ad72c3fe4b6ee9a75d8f3f49e4faaf7cb.html#ad72c3fe4b6ee9a75d8f3f49e4faaf7cb", null ],
+    [ "GetValueOrDefault", "d0/db3/structInControl_1_1OptionalInt16_a0257f5dcf04ac603b4e01aa8c0687926.html#a0257f5dcf04ac603b4e01aa8c0687926", null ],
+    [ "GetValueOrZero", "d0/db3/structInControl_1_1OptionalInt16_a03ece57d37dcac71c0a6a896c48731ca.html#a03ece57d37dcac71c0a6a896c48731ca", null ],
+    [ "operator OptionalInt16", "d0/db3/structInControl_1_1OptionalInt16_a4c38776b69ed5208e1487a059df7d3eb.html#a4c38776b69ed5208e1487a059df7d3eb", null ],
+    [ "operator short", "d0/db3/structInControl_1_1OptionalInt16_a59b49c8bb5899314d9c369695b1fa1db.html#a59b49c8bb5899314d9c369695b1fa1db", null ],
+    [ "operator!=", "d0/db3/structInControl_1_1OptionalInt16_a98d51ae7ae7b164231da7f4a571e79b1.html#a98d51ae7ae7b164231da7f4a571e79b1", null ],
+    [ "operator!=", "d0/db3/structInControl_1_1OptionalInt16_aed9f5145fd2bd04b3768806cee278007.html#aed9f5145fd2bd04b3768806cee278007", null ],
+    [ "operator==", "d0/db3/structInControl_1_1OptionalInt16_a05d7f750bcee6cdfd9a53bd235559db4.html#a05d7f750bcee6cdfd9a53bd235559db4", null ],
+    [ "operator==", "d0/db3/structInControl_1_1OptionalInt16_abd03aee8d37293d43dadfaf46e80c18d.html#abd03aee8d37293d43dadfaf46e80c18d", null ],
+    [ "SetValue", "d0/db3/structInControl_1_1OptionalInt16_a8c6e4e9c2d7d6cb88a0bf749eaad4829.html#a8c6e4e9c2d7d6cb88a0bf749eaad4829", null ],
+    [ "ToString", "d0/db3/structInControl_1_1OptionalInt16_ac1b4a509a6c1cf80ad1e7435075f8126.html#ac1b4a509a6c1cf80ad1e7435075f8126", null ],
+    [ "hasValue", "d0/db3/structInControl_1_1OptionalInt16_a1633070a34fb3e197b5e700353eeea15.html#a1633070a34fb3e197b5e700353eeea15", null ],
+    [ "value", "d0/db3/structInControl_1_1OptionalInt16_ad87c87427b54d1e00ce37a7093860e8b.html#ad87c87427b54d1e00ce37a7093860e8b", null ],
+    [ "HasNoValue", "d0/db3/structInControl_1_1OptionalInt16_aca254998b3dac91a83f297e5c522fd02.html#aca254998b3dac91a83f297e5c522fd02", null ],
+    [ "HasValue", "d0/db3/structInControl_1_1OptionalInt16_a8ea4bacaa9cae395a3327fceb21f77c6.html#a8ea4bacaa9cae395a3327fceb21f77c6", null ],
+    [ "Value", "d0/db3/structInControl_1_1OptionalInt16_a33b9e7bc078acab4ac4b15100dab36f5.html#a33b9e7bc078acab4ac4b15100dab36f5", null ]
+];

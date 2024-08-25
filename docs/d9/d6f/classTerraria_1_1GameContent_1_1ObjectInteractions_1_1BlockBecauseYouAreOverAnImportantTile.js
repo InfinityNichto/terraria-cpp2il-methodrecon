@@ -1,0 +1,5 @@
+var classTerraria_1_1GameContent_1_1ObjectInteractions_1_1BlockBecauseYouAreOverAnImportantTile =
+[
+    [ "BlockBecauseYouAreOverAnImportantTile", "d9/d6f/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1BlockBecauseYouAreOverAnImportantTile_a99626b7f4e61487c2f203bb1b3b50e0a.html#a99626b7f4e61487c2f203bb1b3b50e0a", null ],
+    [ "ShouldBlockSmartInteract", "d9/d6f/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1BlockBecauseYouAreOverAnImportantTile_acf842a672cebc654c04c30dcbbbf4405.html#acf842a672cebc654c04c30dcbbbf4405", null ]
+];

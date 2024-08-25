@@ -1,0 +1,25 @@
+var classSystem_1_1Runtime_1_1Remoting_1_1SoapServices =
+[
+    [ "TypeInfo", "dd/d19/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_1_1TypeInfo.html", "dd/d19/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_1_1TypeInfo" ],
+    [ "SoapServices", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a8bc69eddbc9fe1d690d635bb9bbcdafd.html#a8bc69eddbc9fe1d690d635bb9bbcdafd", null ],
+    [ "CodeXmlNamespaceForClrTypeNamespace", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_afc00907184eec4ef47b5af2132f2d411.html#afc00907184eec4ef47b5af2132f2d411", null ],
+    [ "EncodeNs", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a1092f34517ad5f1ca5b44581237f0138.html#a1092f34517ad5f1ca5b44581237f0138", null ],
+    [ "GetAssemblyName", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a1a8816db272bc2c5d559a256633e15bc.html#a1a8816db272bc2c5d559a256633e15bc", null ],
+    [ "GetNameKey", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a33751cb2d603f8680dede086345c7d54.html#a33751cb2d603f8680dede086345c7d54", null ],
+    [ "GetXmlElementForInteropType", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a3ebd4c6e79fda2d5550b66b40594f1bc.html#a3ebd4c6e79fda2d5550b66b40594f1bc", null ],
+    [ "GetXmlNamespaceForMethodCall", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a6adc2f78a0d094220df9917a253500af.html#a6adc2f78a0d094220df9917a253500af", null ],
+    [ "GetXmlNamespaceForMethodResponse", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a8b50f53f78b5c09b3c2fc9103d2768ab.html#a8b50f53f78b5c09b3c2fc9103d2768ab", null ],
+    [ "GetXmlTypeForInteropType", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a615414fa2088b128307032f987636a1f.html#a615414fa2088b128307032f987636a1f", null ],
+    [ "PreLoad", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a717e91dd1b491666c79f9e5567ac2bd9.html#a717e91dd1b491666c79f9e5567ac2bd9", null ],
+    [ "PreLoad", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a694aab58a65e9b649575843908e1a061.html#a694aab58a65e9b649575843908e1a061", null ],
+    [ "RegisterInteropXmlElement", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a423a4bc6645f3676c271517a1d21f2bd.html#a423a4bc6645f3676c271517a1d21f2bd", null ],
+    [ "RegisterInteropXmlType", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a6963aeea3df74dd248c644ab7711c5ce.html#a6963aeea3df74dd248c644ab7711c5ce", null ],
+    [ "_soapActions", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a6a130de6c9cf67fa32f1ba2368da4883.html#a6a130de6c9cf67fa32f1ba2368da4883", null ],
+    [ "_soapActionsMethods", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_aa9a97746194399fcebed727fffd2473c.html#aa9a97746194399fcebed727fffd2473c", null ],
+    [ "_typeInfos", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a799126d0c809af32a22984f38e9c179a.html#a799126d0c809af32a22984f38e9c179a", null ],
+    [ "_xmlElements", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a7f8637a682b21d939d2cb4ff062fd999.html#a7f8637a682b21d939d2cb4ff062fd999", null ],
+    [ "_xmlTypes", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a01d59900af49818f5682d624f00db242.html#a01d59900af49818f5682d624f00db242", null ],
+    [ "XmlNsForClrTypeWithAssembly", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a3a9c14677895abf6d99fb8dd8ec7d2c2.html#a3a9c14677895abf6d99fb8dd8ec7d2c2", null ],
+    [ "XmlNsForClrTypeWithNs", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a5bb3df53cff6a6dc1846765b59d3da49.html#a5bb3df53cff6a6dc1846765b59d3da49", null ],
+    [ "XmlNsForClrTypeWithNsAndAssembly", "d5/d65/classSystem_1_1Runtime_1_1Remoting_1_1SoapServices_a208bc4ea69923dc92a851aedb2a3838f.html#a208bc4ea69923dc92a851aedb2a3838f", null ]
+];

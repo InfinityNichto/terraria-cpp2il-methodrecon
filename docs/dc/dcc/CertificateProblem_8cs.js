@@ -1,0 +1,36 @@
+var CertificateProblem_8cs =
+[
+    [ "CertificateProblem", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857", [
+      [ "OK", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857ae0aa021e21dddbd6d8cecec71e9cf564", null ],
+      [ "TrustNOSIGNATURE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a54acf0275921f7eace88b80d41d92c87", null ],
+      [ "CertEXPIRED", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857af455729e82cb61540c5dab3e26a34d32", null ],
+      [ "CertVALIDITYPERIODNESTING", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a5ce66d95138de2a5d016fa075efc2385", null ],
+      [ "CertROLE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a5021ac6e6d232c47c5879fe48f1600dc", null ],
+      [ "CertPATHLENCONST", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a87356a873503ff69b5fb5f0fc459cc05", null ],
+      [ "CertCRITICAL", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857abdb4c98cc01c4349ff201227849e5410", null ],
+      [ "CertPURPOSE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857afa5017178beb6c4dff3f7215bc2d5963", null ],
+      [ "CertISSUERCHAINING", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857ac641e2f924a40fe41400d033ff38956c", null ],
+      [ "CertMALFORMED", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a53e1d7db364d25d4eb42b3a3542d76fd", null ],
+      [ "CertUNTRUSTEDROOT", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a55b011da862b51cdc33202b41b96d3bd", null ],
+      [ "CertCHAINING", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a01d95b6c103fcd78af169ecf27a23b33", null ],
+      [ "CertREVOKED", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857ab5d899d2c0b81aebe9d246625a268078", null ],
+      [ "CertUNTRUSTEDTESTROOT", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a06818313d0bd75cfc5ffe964e491906c", null ],
+      [ "CertREVOCATION_FAILURE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a3234a04c661df19b4f973d3d75b285ad", null ],
+      [ "CertCN_NO_MATCH", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a5a789e8c5563603fe0c05ffd477f4516", null ],
+      [ "CertWRONG_USAGE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a1100c8d3b1434b4a4d9ac205578a7297", null ],
+      [ "TrustEXPLICITDISTRUST", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a2a9f9a72fc07981fe4f70af72ddda98f", null ],
+      [ "CertUNTRUSTEDCA", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a0c8fbb5c6ffba6009eedf8c3a330c233", null ],
+      [ "CertINVALIDPOLICY", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a0e2c9fb0365470f2e651dee29f8a85ea", null ],
+      [ "CertINVALIDNAME", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a5686e2a5da6646bb57457fc5fec7067d", null ],
+      [ "CryptNOREVOCATIONCHECK", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857ae5b6fad7a4ad9ab3ee7bbffe40377e95", null ],
+      [ "CryptREVOCATIONOFFLINE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a72201c32456ea67a52cf67e0cc9aa7ce", null ],
+      [ "TrustSYSTEMERROR", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857ab1ece88a719e2fe26505371e8b4d75eb", null ],
+      [ "TrustNOSIGNERCERT", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a22356ff769c7f207044b03f63285421b", null ],
+      [ "TrustCOUNTERSIGNER", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a652e2a071f02939240f068a612545e8e", null ],
+      [ "TrustCERTSIGNATURE", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a1887df56a5884fa5fabcdab20690c6c8", null ],
+      [ "TrustTIMESTAMP", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a8f53c694260cdb744bbe0e9d90c0c6a2", null ],
+      [ "TrustBADDIGEST", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a379ac7312eb05e29405b4a37c4e3296b", null ],
+      [ "TrustBASICCONSTRAINTS", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a7ca1c258a8d682575db7a0dbd240a42c", null ],
+      [ "TrustFINANCIALCRITERIA", "dc/dcc/CertificateProblem_8cs.html#a02addc98ec0ce1e49d58908c07621857a8a4d7a78e638af86d9f212c5dbbb942a", null ]
+    ] ]
+];

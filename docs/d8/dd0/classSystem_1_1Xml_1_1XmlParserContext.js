@@ -1,0 +1,26 @@
+var classSystem_1_1Xml_1_1XmlParserContext =
+[
+    [ "XmlParserContext", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a1375ffc4d1561d29ad441fa7d5a81838.html#a1375ffc4d1561d29ad441fa7d5a81838", null ],
+    [ "XmlParserContext", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a871d2d77a8c552e3b9ad02b734d9a04e.html#a871d2d77a8c552e3b9ad02b734d9a04e", null ],
+    [ "_baseURI", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_ae2acd5d385e8a0759bd00b53a4399f40.html#ae2acd5d385e8a0759bd00b53a4399f40", null ],
+    [ "_docTypeName", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a314d1260075eb39bf7172d89801534c4.html#a314d1260075eb39bf7172d89801534c4", null ],
+    [ "_encoding", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a0a4c5c1f0b3c417f10dff9ca12cb32b4.html#a0a4c5c1f0b3c417f10dff9ca12cb32b4", null ],
+    [ "_internalSubset", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a07ce7d586087a22e71479210cc9d740a.html#a07ce7d586087a22e71479210cc9d740a", null ],
+    [ "_nsMgr", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a0f303b901d1ce69f62be055a416c0002.html#a0f303b901d1ce69f62be055a416c0002", null ],
+    [ "_nt", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_aba7333553b98678d5d64f7302e1ce4f2.html#aba7333553b98678d5d64f7302e1ce4f2", null ],
+    [ "_pubId", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a4b43a7d74cd57b3b8e5b48f7c8d8d262.html#a4b43a7d74cd57b3b8e5b48f7c8d8d262", null ],
+    [ "_sysId", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a3c959688ed5e725aa85dfae34d25b338.html#a3c959688ed5e725aa85dfae34d25b338", null ],
+    [ "_xmlLang", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a08be532d20fe79263c86de386ab28f4a.html#a08be532d20fe79263c86de386ab28f4a", null ],
+    [ "_xmlSpace", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a6f970de46d8974f63e6a05445ce487bf.html#a6f970de46d8974f63e6a05445ce487bf", null ],
+    [ "BaseURI", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a5a2454d7dd790cf34561de8e925d04de.html#a5a2454d7dd790cf34561de8e925d04de", null ],
+    [ "DocTypeName", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a6fb42407b4eaddbe60f6cb5e6b9fdbf1.html#a6fb42407b4eaddbe60f6cb5e6b9fdbf1", null ],
+    [ "Encoding", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a14b5b18f0b17370c5e74b7ffaa22e9f0.html#a14b5b18f0b17370c5e74b7ffaa22e9f0", null ],
+    [ "HasDtdInfo", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a4aa0475eaefa3ea10b46dad5cbafe5be.html#a4aa0475eaefa3ea10b46dad5cbafe5be", null ],
+    [ "InternalSubset", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a3f11cd491c30fc228c5539b3fd3a9173.html#a3f11cd491c30fc228c5539b3fd3a9173", null ],
+    [ "NamespaceManager", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_aeff505ef5dfb8ed75d12f65b79a6d1b5.html#aeff505ef5dfb8ed75d12f65b79a6d1b5", null ],
+    [ "NameTable", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_ab0170755caeb5dd21b8e0e9bfd612e93.html#ab0170755caeb5dd21b8e0e9bfd612e93", null ],
+    [ "PublicId", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_aadedcccaaaa9840dcb80a45fbfb8ae13.html#aadedcccaaaa9840dcb80a45fbfb8ae13", null ],
+    [ "SystemId", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a710796008e9c919222f11e31e299429b.html#a710796008e9c919222f11e31e299429b", null ],
+    [ "XmlLang", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_a1c32d3d1b4f21fc5f7f09b12fbe222fb.html#a1c32d3d1b4f21fc5f7f09b12fbe222fb", null ],
+    [ "XmlSpace", "d8/dd0/classSystem_1_1Xml_1_1XmlParserContext_abda448a793a258eeb4e4c3322f88e135.html#abda448a793a258eeb4e4c3322f88e135", null ]
+];

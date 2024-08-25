@@ -1,0 +1,28 @@
+var classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress =
+[
+    [ "ObjectProgress", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_afaf3f694ce811d5ba20bf180403352f6.html#afaf3f694ce811d5ba20bf180403352f6", null ],
+    [ "ObjectProgress", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a0f6d286b9aa194502392bd5da25a1eea.html#a0f6d286b9aa194502392bd5da25a1eea", null ],
+    [ "ArrayCountIncrement", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a01fa16007cb1a7696e77285642644059.html#a01fa16007cb1a7696e77285642644059", null ],
+    [ "GetNext", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a69e1c19da43257f54b6d3aeb5fcf0cb7.html#a69e1c19da43257f54b6d3aeb5fcf0cb7", null ],
+    [ "Init", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_ac011d0ff78dd16dd4d1fb651aeb77b8a.html#ac011d0ff78dd16dd4d1fb651aeb77b8a", null ],
+    [ "binaryTypeEnum", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a31b96f50b9885b548a6445f6a610c442.html#a31b96f50b9885b548a6445f6a610c442", null ],
+    [ "binaryTypeEnumA", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a3f3ab53d58a82d9a80d0bf47496efe1d.html#a3f3ab53d58a82d9a80d0bf47496efe1d", null ],
+    [ "count", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_ae313180d6dfeacb50e6f021fe7232e95.html#ae313180d6dfeacb50e6f021fe7232e95", null ],
+    [ "dtType", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_aa039918fc1d65d14ad85858c74d1e8ac.html#aa039918fc1d65d14ad85858c74d1e8ac", null ],
+    [ "expectedType", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_ae6f00c9b445893193a0d7d99806ef4a1.html#ae6f00c9b445893193a0d7d99806ef4a1", null ],
+    [ "expectedTypeInformation", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_ac4397c322a87c11b89e982446c5892e1.html#ac4397c322a87c11b89e982446c5892e1", null ],
+    [ "isInitial", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a57a1f6a68c64e8e7a329ccf2e03a5868.html#a57a1f6a68c64e8e7a329ccf2e03a5868", null ],
+    [ "memberLength", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a3870cec2d596a26139021bbbbfbc6bcf.html#a3870cec2d596a26139021bbbbfbc6bcf", null ],
+    [ "memberNames", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_ae2b46ae10a521223ca041408aaa0ea1c.html#ae2b46ae10a521223ca041408aaa0ea1c", null ],
+    [ "memberTypeEnum", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a9779190fd59e31256c27e5761a12eacc.html#a9779190fd59e31256c27e5761a12eacc", null ],
+    [ "memberTypes", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a531d19638a09998dced993be4a4af3f6.html#a531d19638a09998dced993be4a4af3f6", null ],
+    [ "memberValueEnum", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a9f081f7e22015f478655466a67dd7264.html#a9f081f7e22015f478655466a67dd7264", null ],
+    [ "name", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a009dd227507ade3d70060de1923dfec7.html#a009dd227507ade3d70060de1923dfec7", null ],
+    [ "nullCount", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a3c6b6a2c7769d151f7528beef631e9b2.html#a3c6b6a2c7769d151f7528beef631e9b2", null ],
+    [ "numItems", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a71723f711a68501d7ef059e407c5e34a.html#a71723f711a68501d7ef059e407c5e34a", null ],
+    [ "objectTypeEnum", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_ae5d505ce4b259dd3faa6f262833d9d0a.html#ae5d505ce4b259dd3faa6f262833d9d0a", null ],
+    [ "opRecordIdCount", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a81eecf2bf820bcf488600af6524c9838.html#a81eecf2bf820bcf488600af6524c9838", null ],
+    [ "pr", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_abfd529190daecbccceff3c1a68c0d316.html#abfd529190daecbccceff3c1a68c0d316", null ],
+    [ "typeInformation", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a3e8f35fb4f8376c8c43c256495bea62e.html#a3e8f35fb4f8376c8c43c256495bea62e", null ],
+    [ "typeInformationA", "de/dd8/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1ObjectProgress_a4ba591b69fa53085727292a826b2c0b1.html#a4ba591b69fa53085727292a826b2c0b1", null ]
+];

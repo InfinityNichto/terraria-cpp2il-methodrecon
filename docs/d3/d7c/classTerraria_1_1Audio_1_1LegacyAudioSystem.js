@@ -1,0 +1,26 @@
+var classTerraria_1_1Audio_1_1LegacyAudioSystem =
+[
+    [ "LegacyAudioSystem", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a736bc3a06b576df1e829b4eac84560b2.html#a736bc3a06b576df1e829b4eac84560b2", null ],
+    [ "Dispose", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_ac0694d50412acd977499bb38e4a07a0d.html#ac0694d50412acd977499bb38e4a07a0d", null ],
+    [ "IsTrackPlaying", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a3e04b94a454a6a1239ada70180d8f776.html#a3e04b94a454a6a1239ada70180d8f776", null ],
+    [ "LoadCue", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_afaf0f8b118c0a576a2c99bbf922bfa2f.html#afaf0f8b118c0a576a2c99bbf922bfa2f", null ],
+    [ "LoadFromSources", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a5dccf8db6a66231fd5325d6777850e2a.html#a5dccf8db6a66231fd5325d6777850e2a", null ],
+    [ "PauseAll", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a31808d8bb7c1ccdf691b010a8761afc3.html#a31808d8bb7c1ccdf691b010a8761afc3", null ],
+    [ "ResumeAll", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_acad6803423053fc7d7aa4e9fb570ae5c.html#acad6803423053fc7d7aa4e9fb570ae5c", null ],
+    [ "Update", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a103ebb5fa945b7e7ca442fdc7e4d1070.html#a103ebb5fa945b7e7ca442fdc7e4d1070", null ],
+    [ "UpdateAmbientCueState", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a6c9c6aa86651a10e0f1d2afe1e154997.html#a6c9c6aa86651a10e0f1d2afe1e154997", null ],
+    [ "UpdateAmbientCueTowardStopping", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_ade8c3f6e5c0e04e232517a7a976527aa.html#ade8c3f6e5c0e04e232517a7a976527aa", null ],
+    [ "UpdateAudioEngine", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a065a2c21eb8c37cbefac966ae4f512fe.html#a065a2c21eb8c37cbefac966ae4f512fe", null ],
+    [ "UpdateCommonTrack", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_ad998c47926cc1d5916608d1aff16a963.html#ad998c47926cc1d5916608d1aff16a963", null ],
+    [ "UpdateCommonTrackTowardStopping", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a0f598b7dfcb7d160f99911644f8a8da1.html#a0f598b7dfcb7d160f99911644f8a8da1", null ],
+    [ "UpdateMisc", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a40547d9ab888e5b67fe2ef6f3c76643a.html#a40547d9ab888e5b67fe2ef6f3c76643a", null ],
+    [ "UseSources", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_af7a075408c57c3e1f3c1bb0c3fcdb075.html#af7a075408c57c3e1f3c1bb0c3fcdb075", null ],
+    [ "AudioTracks", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_ac08ae32f1734dd387c4be1ffae07bc86.html#ac08ae32f1734dd387c4be1ffae07bc86", null ],
+    [ "DefaultTrackByIndex", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a35cc53cc8944f45f1accc9b85fd072fe.html#a35cc53cc8944f45f1accc9b85fd072fe", null ],
+    [ "Engine", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a3c387f2cff7c61c1911593759425c873.html#a3c387f2cff7c61c1911593759425c873", null ],
+    [ "FileSources", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_afbb05a07d39fa41bb50ce4b92d72375f.html#afbb05a07d39fa41bb50ce4b92d72375f", null ],
+    [ "MusicReplayDelay", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_adbbce4a03a9e271ad6314e9d1edb2e23.html#adbbce4a03a9e271ad6314e9d1edb2e23", null ],
+    [ "SoundBank", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a299870f3a4c01a7898ee9d7eac7e5430.html#a299870f3a4c01a7898ee9d7eac7e5430", null ],
+    [ "TrackNamesByIndex", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_ab8976c8de9fc8c85e5876ef54c49976c.html#ab8976c8de9fc8c85e5876ef54c49976c", null ],
+    [ "WaveBank", "d3/d7c/classTerraria_1_1Audio_1_1LegacyAudioSystem_a3555aa869e08ce54419185fe82f9a378.html#a3555aa869e08ce54419185fe82f9a378", null ]
+];

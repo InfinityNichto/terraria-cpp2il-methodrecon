@@ -1,0 +1,27 @@
+var classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder =
+[
+    [ "UTF8Decoder", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder_ab29bc546e1154e29dc0ace63d67ca65a.html#ab29bc546e1154e29dc0ace63d67ca65a", null ],
+    [ "ClearMustFlush", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#ad4ba84c7e18c4b6bbc103f69c96b7a8e", null ],
+    [ "Convert", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#ab11f6c9a032cf977dfdf1207dd669d3d", null ],
+    [ "Convert", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#aac4c6fe965dc44a00fd4b56213493bc7", null ],
+    [ "GetCharCount", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a35c3730b91656b31e193db928e32fd99", null ],
+    [ "GetCharCount", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#aede3ad4421d65c0ffd04b8fee5f1c609", null ],
+    [ "GetCharCount", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a24cd1a87ac8266c3a5371c64f45ee8b2", null ],
+    [ "GetChars", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#afc421e9a7711c3ed0a0d5e0baf55bd21", null ],
+    [ "GetChars", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#ab12e2822a3ae58c146910de6659bd1ba", null ],
+    [ "GetChars", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#abe4de7a7eef2ab248b5198cbd9ab557f", null ],
+    [ "GetChars", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a179c27086080bcfd32dd9dd60dbe2df3", null ],
+    [ "Reset", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder_aeedbd2c55b4f200b496f4eb76c8159fd.html#aeedbd2c55b4f200b496f4eb76c8159fd", null ],
+    [ "_bytesUsed", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#ab1331c524605b2c228d323e24acd6381", null ],
+    [ "_encoding", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a6aea204da0d3b8441eb8319b78db10ed", null ],
+    [ "_fallback", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a1c7d5287283299c41ff225f593bf765a", null ],
+    [ "_fallbackBuffer", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a782e579831c5e504d3fdd7ca4b54c139", null ],
+    [ "_mustFlush", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a5d9fb7bf28904eda20f3289a4eef8780", null ],
+    [ "_throwOnOverflow", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#ad79628be30d507b7fbd3afb97cbb9ac0", null ],
+    [ "bits", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder_ad18ba97bcbb87f2630744550d33e12ee.html#ad18ba97bcbb87f2630744550d33e12ee", null ],
+    [ "Fallback", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a218aed86356aef5ca59a9f017b7e6903", null ],
+    [ "FallbackBuffer", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a08a43bb3640ad53e9e22ad397a55ff1d", null ],
+    [ "HasState", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder_ae22ed166a2ac669264e8a84778d7f587.html#ae22ed166a2ac669264e8a84778d7f587", null ],
+    [ "InternalHasFallbackBuffer", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#a7889f9380a7cd8efc53df19a4ce0e504", null ],
+    [ "MustFlush", "d5/d37/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Decoder.html#aa9537b83bf5fae0c27e67da9cec697d3", null ]
+];

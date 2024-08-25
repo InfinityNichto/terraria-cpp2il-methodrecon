@@ -1,0 +1,25 @@
+var classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle =
+[
+    [ "SafeDeflateStreamHandle", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle_a02076c982fe9859b610aa936c2419748.html#a02076c982fe9859b610aa936c2419748", null ],
+    [ "Close", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#aa5d1a98a1419a7bfeaf7373b86996046", null ],
+    [ "DangerousAddRef", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a9d50fa573063d7305a8c12a33c2056ea", null ],
+    [ "DangerousGetHandle", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a424cc281bd8123fdfb254fb943233b9f", null ],
+    [ "DangerousRelease", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a0b33a39fe618278a5098954f5689f7c1", null ],
+    [ "DangerousReleaseInternal", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#af2047be679be0cfc69d8a21c18f8a9ed", null ],
+    [ "Dispose", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#aa6f4faab748ef89385be080c9333476a", null ],
+    [ "Dispose", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a344d136a775824ae067d8bee9b303060", null ],
+    [ "Finalize", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a5103731a7bcc3fd139173c37cb1bfc56", null ],
+    [ "InternalDispose", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#ac28b2336d6beb8238d2f1d07f6d50271", null ],
+    [ "InternalFinalize", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a263212e1042732d9eb8b30a63d3ca18d", null ],
+    [ "ReleaseHandle", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle_a543001db0c3e8840405a2fa8451dad90.html#a543001db0c3e8840405a2fa8451dad90", null ],
+    [ "SetHandle", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a3fb15f153dbeb6d1885b4918eefdd25a", null ],
+    [ "SetHandleAsInvalid", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a52aa845d880e936a4f3d725864ef9d4a", null ],
+    [ "_fullyInitialized", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a20d2682784334ed60e179ed105f2cbb4", null ],
+    [ "_ownsHandle", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#af771e37e1741bcac73187dc731fe85a5", null ],
+    [ "_state", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#ac6a964078ab46f2a7e232900171dd397", null ],
+    [ "handle", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a7998659110bb0dab360363c425b828f7", null ],
+    [ "RefCount_Mask", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#afcc9a53ff169a04ddef0969d7dbe8b9f", null ],
+    [ "RefCount_One", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#aa8289647a332d73b908b35387e065982", null ],
+    [ "IsClosed", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle.html#a993302e5d4328d7205ccd5e511abb5b5", null ],
+    [ "IsInvalid", "da/d80/classSystem_1_1IO_1_1Compression_1_1DeflateStreamNative_1_1SafeDeflateStreamHandle_ad8fd63497aaf4392479952208115bb90.html#ad8fd63497aaf4392479952208115bb90", null ]
+];

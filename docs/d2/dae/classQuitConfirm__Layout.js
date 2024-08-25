@@ -1,0 +1,26 @@
+var classQuitConfirm__Layout =
+[
+    [ "QuitConfirm_Layout", "d2/dae/classQuitConfirm__Layout_a8852acb5c25ff1848e3327fb6b6fd734.html#a8852acb5c25ff1848e3327fb6b6fd734", null ],
+    [ "Awake", "d2/dae/classQuitConfirm__Layout_a38c4a18cf4112fb68df6eb2743e6a67e.html#a38c4a18cf4112fb68df6eb2743e6a67e", null ],
+    [ "IsList", "d2/dae/classQuitConfirm__Layout.html#ab49b1ae676fc9e7e58f21ea4c8ee2e67", null ],
+    [ "Load", "d2/dae/classQuitConfirm__Layout.html#a9eff0fbb1bbfa4d2f7a304714e0268ec", null ],
+    [ "LoadFields", "d2/dae/classQuitConfirm__Layout.html#a4672a991cd6e7bf5439f75a59225a750", null ],
+    [ "LoadReleaseLayout", "d2/dae/classQuitConfirm__Layout.html#a5660c9c1485c8032950a2698bf7795b8", null ],
+    [ "LoadReleaseLayout", "d2/dae/classQuitConfirm__Layout.html#a1a9250f2cc98bc57b73a71c655dbaeb1", null ],
+    [ "RefreshFields", "d2/dae/classQuitConfirm__Layout.html#abdcf4e3514f4037608fb5fece7c66113", null ],
+    [ "RefreshStyles", "d2/dae/classQuitConfirm__Layout.html#aa627f6fcdc89fba0b5b9120fc6a23ba7", null ],
+    [ "Save", "d2/dae/classQuitConfirm__Layout.html#a86d9af8d8414d86746a9e5cdcd7e6a51", null ],
+    [ "SaveFields", "d2/dae/classQuitConfirm__Layout.html#ab1f3e096ae000a06054b1ae43d0f1421", null ],
+    [ "SerialiseAtPath", "d2/dae/classQuitConfirm__Layout.html#afd573ecd8b55aaba58ceb1b1b873a1e4", null ],
+    [ "Back", "d2/dae/classQuitConfirm__Layout_a59db35660c6f27e1070b9dd9a3e81047.html#a59db35660c6f27e1070b9dd9a3e81047", null ],
+    [ "Backing", "d2/dae/classQuitConfirm__Layout_a838ac629a7b50a111b893145b1e8cd3b.html#a838ac629a7b50a111b893145b1e8cd3b", null ],
+    [ "Instance", "d2/dae/classQuitConfirm__Layout_a114323a9e46b0048d22b1f9b38ef67f2.html#a114323a9e46b0048d22b1f9b38ef67f2", null ],
+    [ "MenuDivider", "d2/dae/classQuitConfirm__Layout_aab68f9c0fd9e2f0fb1e7d3dcd1b34a19.html#aab68f9c0fd9e2f0fb1e7d3dcd1b34a19", null ],
+    [ "name", "d2/dae/classQuitConfirm__Layout.html#ac6c38581dee794ba23118dc3f757e9ee", null ],
+    [ "output", "d2/dae/classQuitConfirm__Layout.html#a61b4b2d38ad4dcc83ec3a8d73622de67", null ],
+    [ "Quit", "d2/dae/classQuitConfirm__Layout_ac6e4c8d94418e13ed75f1403980186c7.html#ac6e4c8d94418e13ed75f1403980186c7", null ],
+    [ "Status", "d2/dae/classQuitConfirm__Layout_a3fe7ae341345051c6c7882237a0ba84a.html#a3fe7ae341345051c6c7882237a0ba84a", null ],
+    [ "Title", "d2/dae/classQuitConfirm__Layout_ae3280f0617ee59f83c93247ac50efaf9.html#ae3280f0617ee59f83c93247ac50efaf9", null ],
+    [ "typesEncountered", "d2/dae/classQuitConfirm__Layout.html#a857f730b83fc6f066e731e54cd06a0c1", null ],
+    [ "UIDefinitions", "d2/dae/classQuitConfirm__Layout.html#ad73732ca85d8da2c53ed0bb3d92f476a", null ]
+];

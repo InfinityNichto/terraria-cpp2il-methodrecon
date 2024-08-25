@@ -1,0 +1,9 @@
+var classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate =
+[
+    [ "ReusableCandidate", "d3/dd2/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate_ace6c02fdae66fa271e7cd2019e7a4bf1.html#ace6c02fdae66fa271e7cd2019e7a4bf1", null ],
+    [ "Reuse", "d3/dd2/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate_a72a0cc211e27d2ca98930c8903b88383.html#a72a0cc211e27d2ca98930c8903b88383", null ],
+    [ "WinCandidacy", "d3/dd2/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate_aa682d4d0cb5cf40331fa19c42929677d.html#aa682d4d0cb5cf40331fa19c42929677d", null ],
+    [ "_projectileIndexToTarget", "d3/dd2/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate_a35242bb72235ac5df6c91be5fd9ed8b9.html#a35242bb72235ac5df6c91be5fd9ed8b9", null ],
+    [ "k__BackingField", "d3/dd2/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate_aaa6fdd4c316c4e87876a4dc034a5de96.html#aaa6fdd4c316c4e87876a4dc034a5de96", null ],
+    [ "DistanceFromCursor", "d3/dd2/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider_1_1ReusableCandidate_a89a738d0c27847967081f100d0bb9cbc.html#a89a738d0c27847967081f100d0bb9cbc", null ]
+];

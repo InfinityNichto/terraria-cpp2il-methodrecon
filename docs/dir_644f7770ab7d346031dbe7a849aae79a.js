@@ -1,0 +1,25 @@
+var dir_644f7770ab7d346031dbe7a849aae79a =
+[
+    [ "ElementWriter.cs", "d1/d99/ElementWriter_8cs.html", "d1/d99/ElementWriter_8cs" ],
+    [ "NamespaceResolver.cs", "d0/d3e/NamespaceResolver_8cs.html", "d0/d3e/NamespaceResolver_8cs" ],
+    [ "SaveOptions.cs", "df/d28/SaveOptions_8cs.html", "df/d28/SaveOptions_8cs" ],
+    [ "XAttribute.cs", "d1/dbb/XAttribute_8cs.html", "d1/dbb/XAttribute_8cs" ],
+    [ "XCData.cs", "d0/dc0/XCData_8cs.html", "d0/dc0/XCData_8cs" ],
+    [ "XComment.cs", "db/d55/XComment_8cs.html", "db/d55/XComment_8cs" ],
+    [ "XContainer.cs", "d2/d32/XContainer_8cs.html", "d2/d32/XContainer_8cs" ],
+    [ "XDeclaration.cs", "d0/ddf/XDeclaration_8cs.html", "d0/ddf/XDeclaration_8cs" ],
+    [ "XDocument.cs", "d9/d2b/XDocument_8cs.html", "d9/d2b/XDocument_8cs" ],
+    [ "XDocumentType.cs", "d9/d1b/XDocumentType_8cs.html", "d9/d1b/XDocumentType_8cs" ],
+    [ "XElement.cs", "da/d80/XElement_8cs.html", "da/d80/XElement_8cs" ],
+    [ "XHashtable.cs", "da/d58/XHashtable_8cs.html", "da/d58/XHashtable_8cs" ],
+    [ "XName.cs", "dc/de2/XName_8cs.html", "dc/de2/XName_8cs" ],
+    [ "XNamespace.cs", "d2/dc0/XNamespace_8cs.html", "d2/dc0/XNamespace_8cs" ],
+    [ "XNode.cs", "d6/d10/XNode_8cs.html", "d6/d10/XNode_8cs" ],
+    [ "XObject.cs", "d3/df5/XObject_8cs.html", "d3/df5/XObject_8cs" ],
+    [ "XObjectChange.cs", "d3/de1/XObjectChange_8cs.html", "d3/de1/XObjectChange_8cs" ],
+    [ "XObjectChangeAnnotation.cs", "dd/d9a/XObjectChangeAnnotation_8cs.html", "dd/d9a/XObjectChangeAnnotation_8cs" ],
+    [ "XObjectChangeEventArgs.cs", "df/de1/XObjectChangeEventArgs_8cs.html", "df/de1/XObjectChangeEventArgs_8cs" ],
+    [ "XProcessingInstruction.cs", "d4/d8b/XProcessingInstruction_8cs.html", "d4/d8b/XProcessingInstruction_8cs" ],
+    [ "XStreamingElement.cs", "d1/d2d/XStreamingElement_8cs.html", "d1/d2d/XStreamingElement_8cs" ],
+    [ "XText.cs", "d4/daa/XText_8cs.html", "d4/daa/XText_8cs" ]
+];

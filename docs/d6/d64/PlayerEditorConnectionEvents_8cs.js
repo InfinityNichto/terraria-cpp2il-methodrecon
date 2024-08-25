@@ -1,0 +1,7 @@
+var PlayerEditorConnectionEvents_8cs =
+[
+    [ "UnityEngine.Networking.PlayerConnection.PlayerEditorConnectionEvents", "d1/d6a/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents.html", "d1/d6a/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents" ],
+    [ "UnityEngine.Networking.PlayerConnection.PlayerEditorConnectionEvents.MessageEvent", "d5/d4a/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents_1_1MessageEvent.html", "d5/d4a/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents_1_1MessageEvent" ],
+    [ "UnityEngine.Networking.PlayerConnection.PlayerEditorConnectionEvents.ConnectionChangeEvent", "d9/dad/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents_1_1ConnectionChangeEvent.html", "d9/dad/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents_1_1ConnectionChangeEvent" ],
+    [ "UnityEngine.Networking.PlayerConnection.PlayerEditorConnectionEvents.MessageTypeSubscribers", "dc/dc9/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents_1_1MessageTypeSubscribers.html", "dc/dc9/classUnityEngine_1_1Networking_1_1PlayerConnection_1_1PlayerEditorConnectionEvents_1_1MessageTypeSubscribers" ]
+];

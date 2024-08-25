@@ -1,0 +1,26 @@
+var classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl =
+[
+    [ "X509CertificateImpl", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_ab6020424c8fd8289ae213b824b380716.html#ab6020424c8fd8289ae213b824b380716", null ],
+    [ "Clone", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a7f718574c9621a1cd4ce0afb7fa05d00.html#a7f718574c9621a1cd4ce0afb7fa05d00", null ],
+    [ "CopyWithPrivateKey", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_ac3c83c8c11164ade93be10138e56a903.html#ac3c83c8c11164ade93be10138e56a903", null ],
+    [ "Dispose", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_ab0b322adebf188fa7ff29e3aef4a6bf5.html#ab0b322adebf188fa7ff29e3aef4a6bf5", null ],
+    [ "Dispose", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a7ba5c3e2a25dcd068d2e88db380751b4.html#a7ba5c3e2a25dcd068d2e88db380751b4", null ],
+    [ "Equals", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a82cf3808afff5869b105554cdabb80b9.html#a82cf3808afff5869b105554cdabb80b9", null ],
+    [ "Finalize", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a56fbd99d434011e404d05df0c53330b3.html#a56fbd99d434011e404d05df0c53330b3", null ],
+    [ "GetDSAPrivateKey", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a5e9e51c516ca4ba89864340b3b552ba1.html#a5e9e51c516ca4ba89864340b3b552ba1", null ],
+    [ "GetHashCode", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_af646610ab871a7a3404eb65ddab13f94.html#af646610ab871a7a3404eb65ddab13f94", null ],
+    [ "GetRSAPrivateKey", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a30ea752f0b9e22a75ca948dbf3cc0060.html#a30ea752f0b9e22a75ca948dbf3cc0060", null ],
+    [ "ThrowIfContextInvalid", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_ab6cd4fcc4f7b372a65ddb2832da04d42.html#ab6cd4fcc4f7b372a65ddb2832da04d42", null ],
+    [ "HasPrivateKey", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_af1415836872c7c8b613f6ce20c849906.html#af1415836872c7c8b613f6ce20c849906", null ],
+    [ "Issuer", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a3e6e1cc6767b6e8ad871abd5e32c74c5.html#a3e6e1cc6767b6e8ad871abd5e32c74c5", null ],
+    [ "IsValid", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a5ee40fd803787223c8713fe2f482b50a.html#a5ee40fd803787223c8713fe2f482b50a", null ],
+    [ "KeyAlgorithm", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a7280d12888e6436de8adc7de550686be.html#a7280d12888e6436de8adc7de550686be", null ],
+    [ "KeyAlgorithmParameters", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a2c4d16f3db087167a9ac7ecb1f1564bd.html#a2c4d16f3db087167a9ac7ecb1f1564bd", null ],
+    [ "NotAfter", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a998ebbb221dfd936f3ac6ae2c5cc6fdc.html#a998ebbb221dfd936f3ac6ae2c5cc6fdc", null ],
+    [ "NotBefore", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_aa517b85bd67b53cd0bce90917e8b22ca.html#aa517b85bd67b53cd0bce90917e8b22ca", null ],
+    [ "PublicKeyValue", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a6ec4abcee2ae987ecbf81de036c6bd6e.html#a6ec4abcee2ae987ecbf81de036c6bd6e", null ],
+    [ "RawData", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a096aa62bff5cc9ced546e9bcc6fb8f6d.html#a096aa62bff5cc9ced546e9bcc6fb8f6d", null ],
+    [ "SerialNumber", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_ae6b08029a4ccb720845aa5e8cda503df.html#ae6b08029a4ccb720845aa5e8cda503df", null ],
+    [ "Subject", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a8f2da3219727d3f6ba71b92927555657.html#a8f2da3219727d3f6ba71b92927555657", null ],
+    [ "Thumbprint", "d3/d3c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateImpl_a2bd6ef9f4a93bfc5dc18d2a65d6b2914.html#a2bd6ef9f4a93bfc5dc18d2a65d6b2914", null ]
+];

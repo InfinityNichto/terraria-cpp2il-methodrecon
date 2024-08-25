@@ -1,0 +1,25 @@
+var classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer =
+[
+    [ "EncoderReplacementFallbackBuffer", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_ad63de1fa75c964771d8eab8f72479d76.html#ad63de1fa75c964771d8eab8f72479d76", null ],
+    [ "Fallback", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_afd1d93aa6b568a1849cb052865b2cdd9.html#afd1d93aa6b568a1849cb052865b2cdd9", null ],
+    [ "Fallback", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_a646358a33bfe66e2d3051da335acd522.html#a646358a33bfe66e2d3051da335acd522", null ],
+    [ "GetNextChar", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_a1922a8e31aba9166fa5010dc0a34b533.html#a1922a8e31aba9166fa5010dc0a34b533", null ],
+    [ "InternalFallback", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#a4966d96bb3651b420709eccad2f9c38b", null ],
+    [ "InternalGetNextChar", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#afc9e9ef8ee4961fc05a666a5ee2efd91", null ],
+    [ "InternalInitialize", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#ae7f774de3d63d8d2138d73339fb9481f", null ],
+    [ "InternalReset", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#a3f798ad26204ee74461994e9a0644fb4", null ],
+    [ "MovePrevious", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_acda6e6fb9c034280c553553a2bc15cd7.html#acda6e6fb9c034280c553553a2bc15cd7", null ],
+    [ "Reset", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_a88463f8a193830161e806f3063b49a3c.html#a88463f8a193830161e806f3063b49a3c", null ],
+    [ "ThrowLastCharRecursive", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#adf3df8e2caaf2f3527251fe67de77ba6", null ],
+    [ "_fallbackCount", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_ac710c191e59c51c221b5743c4bf3bd0d.html#ac710c191e59c51c221b5743c4bf3bd0d", null ],
+    [ "_fallbackIndex", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_a8e46548dbf935ba84e1641cd9049b105.html#a8e46548dbf935ba84e1641cd9049b105", null ],
+    [ "_strDefault", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_a0897ce0bc6267118388f2197593e27b3.html#a0897ce0bc6267118388f2197593e27b3", null ],
+    [ "bFallingBack", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#ad51be4e4bcaa4d112d1c5eae3d7c1fc1", null ],
+    [ "bUsedEncoder", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#a6ef32f65efb5e072a5c3cec32ac1cdde", null ],
+    [ "charEnd", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#ae4462cfbb8fbe70ce9d532fe1b9c7ebb", null ],
+    [ "charStart", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#a47f0519d71661b2aac0d811834a913d0", null ],
+    [ "encoder", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#ac03e434c02acc7882649c8c7eb24edac", null ],
+    [ "iRecursionCount", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#a64b8dc7ecc252c41fdb4d239762f686e", null ],
+    [ "setEncoder", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer.html#ab691b7b05c9a86ff63553b38f1e60274", null ],
+    [ "Remaining", "d1/d4c/classSystem_1_1Text_1_1EncoderReplacementFallbackBuffer_ab9c2048095bb7450d3ce2b612efafc65.html#ab9c2048095bb7450d3ce2b612efafc65", null ]
+];

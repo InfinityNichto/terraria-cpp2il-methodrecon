@@ -1,0 +1,8 @@
+var classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider =
+[
+    [ "ReusableCandidate", "d4/d34/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_1_1ReusableCandidate.html", "d4/d34/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_1_1ReusableCandidate" ],
+    [ "NPCSmartInteractCandidateProvider", "d2/df8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_aab4933773bd731762ab190168fe60912.html#aab4933773bd731762ab190168fe60912", null ],
+    [ "ClearSelfAndPrepareForCheck", "d2/df8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_a8ec9eab9f06e7d0f638bf0e509ed2498.html#a8ec9eab9f06e7d0f638bf0e509ed2498", null ],
+    [ "ProvideCandidate", "d2/df8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_acfcd3329a2e99fe15a00212b4be1355b.html#acfcd3329a2e99fe15a00212b4be1355b", null ],
+    [ "_candidate", "d2/df8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_aa14348cb91c48959c374ae83f731aaf8.html#aa14348cb91c48959c374ae83f731aaf8", null ]
+];

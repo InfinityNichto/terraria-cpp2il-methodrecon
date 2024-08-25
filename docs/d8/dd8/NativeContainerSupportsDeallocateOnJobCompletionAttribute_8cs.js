@@ -1,0 +1,4 @@
+var NativeContainerSupportsDeallocateOnJobCompletionAttribute_8cs =
+[
+    [ "Unity.Collections.LowLevel.Unsafe.NativeContainerSupportsDeallocateOnJobCompletionAttribute", "da/da5/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeContainerSupportsDeallocateOnJobCompletionAttribute.html", "da/da5/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeContainerSupportsDeallocateOnJobCompletionAttribute" ]
+];

@@ -1,0 +1,27 @@
+var structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState =
+[
+    [ "GamePadState", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a979a45c24397c1d22914e60c27e5697f.html#a979a45c24397c1d22914e60c27e5697f", null ],
+    [ "GamePadState", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a9dbef6eb69067aac3afd6c11c8f58c45.html#a9dbef6eb69067aac3afd6c11c8f58c45", null ],
+    [ "GamePadState", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a410616a5fff222f382a07ce65b87095c.html#a410616a5fff222f382a07ce65b87095c", null ],
+    [ "Equals", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a9c874dcbfd868cc2663485ac638c851c.html#a9c874dcbfd868cc2663485ac638c851c", null ],
+    [ "GetHashCode", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a652e1979d73c161ead99f32773912406.html#a652e1979d73c161ead99f32773912406", null ],
+    [ "GetVirtualButtons", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a6f3b245b38928c3bd0d95d2eef080042.html#a6f3b245b38928c3bd0d95d2eef080042", null ],
+    [ "IsButtonDown", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a5abb68652c13ec619be43b98a8912671.html#a5abb68652c13ec619be43b98a8912671", null ],
+    [ "IsButtonUp", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_aea633170125e2809429d2926b27d13f8.html#aea633170125e2809429d2926b27d13f8", null ],
+    [ "operator!=", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a59e59ef668411743a4e969d2f55d760d.html#a59e59ef668411743a4e969d2f55d760d", null ],
+    [ "operator==", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a965e3ab5d43aae7903a99769bf974b51.html#a965e3ab5d43aae7903a99769bf974b51", null ],
+    [ "ToString", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a01ea289d56d016e21fc9ca6cd72e4d9d.html#a01ea289d56d016e21fc9ca6cd72e4d9d", null ],
+    [ "Default", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a2148cdc1c5344981673e1f0436393837.html#a2148cdc1c5344981673e1f0436393837", null ],
+    [ "k__BackingField", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a219cba743c2a6067ead155587e7f79c0.html#a219cba743c2a6067ead155587e7f79c0", null ],
+    [ "k__BackingField", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a4254623e40d54daa3480a10832463fcc.html#a4254623e40d54daa3480a10832463fcc", null ],
+    [ "k__BackingField", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_afdb53063e7626c22470928879b361f7a.html#afdb53063e7626c22470928879b361f7a", null ],
+    [ "k__BackingField", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a1e36d651a9df7e8dba9246f7e97b445d.html#a1e36d651a9df7e8dba9246f7e97b445d", null ],
+    [ "k__BackingField", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a19a69ebac6e86a4e7d32ae43932ec723.html#a19a69ebac6e86a4e7d32ae43932ec723", null ],
+    [ "k__BackingField", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_aaee8f36e1203035ed2f142f2d7ddd58c.html#aaee8f36e1203035ed2f142f2d7ddd58c", null ],
+    [ "Buttons", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a35160cc7865eae4e3d287e50d8942c1e.html#a35160cc7865eae4e3d287e50d8942c1e", null ],
+    [ "DPad", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a9dbfa749985c74757aeab813b9630310.html#a9dbfa749985c74757aeab813b9630310", null ],
+    [ "IsConnected", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a287c0c68b0c668c0412a4bab8cb49c88.html#a287c0c68b0c668c0412a4bab8cb49c88", null ],
+    [ "PacketNumber", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a6eb8cce31c12fe311a1ef3fe04ef3212.html#a6eb8cce31c12fe311a1ef3fe04ef3212", null ],
+    [ "ThumbSticks", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a8b899b66a912a00091f3fec597be44e0.html#a8b899b66a912a00091f3fec597be44e0", null ],
+    [ "Triggers", "d0/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1GamePadState_a0ebd50abf029ab6f4c04c172191f13e0.html#a0ebd50abf029ab6f4c04c172191f13e0", null ]
+];

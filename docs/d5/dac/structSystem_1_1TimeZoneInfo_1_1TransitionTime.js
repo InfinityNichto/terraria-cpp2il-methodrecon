@@ -1,0 +1,27 @@
+var structSystem_1_1TimeZoneInfo_1_1TransitionTime =
+[
+    [ "TransitionTime", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_ab699d0aeae46942720ba64e7a4cbba9c.html#ab699d0aeae46942720ba64e7a4cbba9c", null ],
+    [ "TransitionTime", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a9c962341872ad06a45df4381660a011a.html#a9c962341872ad06a45df4381660a011a", null ],
+    [ "CreateFixedDateRule", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_af48562e9f5841f66d5ee839cefdad80b.html#af48562e9f5841f66d5ee839cefdad80b", null ],
+    [ "CreateFloatingDateRule", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a21bf4c0022cbbe16bf27d0b90046d320.html#a21bf4c0022cbbe16bf27d0b90046d320", null ],
+    [ "Equals", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a19c730fd4a7c49df45c664a3dafb6c22.html#a19c730fd4a7c49df45c664a3dafb6c22", null ],
+    [ "Equals", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
+    [ "Equals", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a10cb40b9ae69b81efa76a9dfe1cafbbb.html#a10cb40b9ae69b81efa76a9dfe1cafbbb", null ],
+    [ "GetHashCode", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a220a58971e126d42747a19a27f3a09bc.html#a220a58971e126d42747a19a27f3a09bc", null ],
+    [ "GetObjectData", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_af3b795aa247e3293dba7402833d8380b.html#af3b795aa247e3293dba7402833d8380b", null ],
+    [ "OnDeserialization", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_ae89ef6c95bcc208161136e54fe7c3d68.html#ae89ef6c95bcc208161136e54fe7c3d68", null ],
+    [ "operator!=", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a445d38eb48464f6f5fb5647f159dc5b3.html#a445d38eb48464f6f5fb5647f159dc5b3", null ],
+    [ "ValidateTransitionTime", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a83ac3a2380c6c746352da8af2a4e4ad2.html#a83ac3a2380c6c746352da8af2a4e4ad2", null ],
+    [ "_day", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_aecab46d517d166f8d927e4df9139d5d5.html#aecab46d517d166f8d927e4df9139d5d5", null ],
+    [ "_dayOfWeek", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_af4ad013b6a585f7635e541909c485505.html#af4ad013b6a585f7635e541909c485505", null ],
+    [ "_isFixedDateRule", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a2db1c3df2ca484e0562b61d6cd26a1a4.html#a2db1c3df2ca484e0562b61d6cd26a1a4", null ],
+    [ "_month", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a50373e9c0f12def15f37ffab76377792.html#a50373e9c0f12def15f37ffab76377792", null ],
+    [ "_timeOfDay", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_aa70cfc04ed974f3df1363fa94659ae74.html#aa70cfc04ed974f3df1363fa94659ae74", null ],
+    [ "_week", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_adc97918a7a7e5600df2d9a6cc2219d11.html#adc97918a7a7e5600df2d9a6cc2219d11", null ],
+    [ "Day", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a887e7956eb0e65c2c821d6ed08f9f16e.html#a887e7956eb0e65c2c821d6ed08f9f16e", null ],
+    [ "DayOfWeek", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a676af309f88ad0ee8f8f95ea02541386.html#a676af309f88ad0ee8f8f95ea02541386", null ],
+    [ "IsFixedDateRule", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a016f617d3ad2882ea48336008bd9166e.html#a016f617d3ad2882ea48336008bd9166e", null ],
+    [ "Month", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_aeb3706244c1090f68e29621e87b7ab64.html#aeb3706244c1090f68e29621e87b7ab64", null ],
+    [ "TimeOfDay", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_ac213c46b6b387c95c1adfa9a2fb25bab.html#ac213c46b6b387c95c1adfa9a2fb25bab", null ],
+    [ "Week", "d5/dac/structSystem_1_1TimeZoneInfo_1_1TransitionTime_a3eba6ae5ce1ec19b64f3e3ed176d64a0.html#a3eba6ae5ce1ec19b64f3e3ed176d64a0", null ]
+];

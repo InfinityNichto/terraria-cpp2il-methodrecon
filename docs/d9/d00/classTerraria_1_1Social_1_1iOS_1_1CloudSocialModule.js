@@ -1,0 +1,25 @@
+var classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule =
+[
+    [ "CloudSocialModule", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a827fd71aaba64e5896150b4fbb5b2b9c.html#a827fd71aaba64e5896150b4fbb5b2b9c", null ],
+    [ "CloudSocialModule", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_ac5e381edbcb1155520ca62775d658fb4.html#ac5e381edbcb1155520ca62775d658fb4", null ],
+    [ "Delete", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_af87f4402d8b34c48b9f9586471a4106b.html#af87f4402d8b34c48b9f9586471a4106b", null ],
+    [ "Forget", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_aea69c864d187a59be1706e6604771f74.html#aea69c864d187a59be1706e6604771f74", null ],
+    [ "GetFiles", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_aca1fb892f4f89c7c40c610375e6aee7e.html#aca1fb892f4f89c7c40c610375e6aee7e", null ],
+    [ "GetFileSize", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a8a333b9cc5e64d962259b3b44b8c125a.html#a8a333b9cc5e64d962259b3b44b8c125a", null ],
+    [ "GetParentFolderPath", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a407ece52c75881fbac6380e240641497.html#a407ece52c75881fbac6380e240641497", null ],
+    [ "HasFile", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_ac08bc010a789dc6946828a053bbd588f.html#ac08bc010a789dc6946828a053bbd588f", null ],
+    [ "HasFinishedSync", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a9928889e64dfc54f896f408e69f27499.html#a9928889e64dfc54f896f408e69f27499", null ],
+    [ "Initialize", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_acf34b69c1217ca23695e0073621e6dd2.html#acf34b69c1217ca23695e0073621e6dd2", null ],
+    [ "IsAvailable", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_ae163639de5e5d345f15157c8e0520e2b.html#ae163639de5e5d345f15157c8e0520e2b", null ],
+    [ "IsConnected", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_ad647fba44b5b2e6b36cd6ca1d8dec6ae.html#ad647fba44b5b2e6b36cd6ca1d8dec6ae", null ],
+    [ "IsRequired", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a2e890c5ff4fadf65ec35b1e350b7a1e0.html#a2e890c5ff4fadf65ec35b1e350b7a1e0", null ],
+    [ "Read", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a8a673c5e5f43a9ed653c19815c313d7e.html#a8a673c5e5f43a9ed653c19815c313d7e", null ],
+    [ "Shutdown", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_ad70fc2478f7dbc54c95c73278b68c074.html#ad70fc2478f7dbc54c95c73278b68c074", null ],
+    [ "SyncFiles", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a89a35d652fe9fb8dbc9abc8f342ebb6a.html#a89a35d652fe9fb8dbc9abc8f342ebb6a", null ],
+    [ "Write", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a7845f66b2a17a88e53bd4b71efccd5bc.html#a7845f66b2a17a88e53bd4b71efccd5bc", null ],
+    [ "cacheFolder", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a37cfa0e6e40e52c5e589d320b1685ad4.html#a37cfa0e6e40e52c5e589d320b1685ad4", null ],
+    [ "editorRemoteCache", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a28510b455d3cce0497f04053293d6e6a.html#a28510b455d3cce0497f04053293d6e6a", null ],
+    [ "FileNameRegex", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_ad4c5c59de771dd2c28285f2aa22e6bea.html#ad4c5c59de771dd2c28285f2aa22e6bea", null ],
+    [ "SyncPath", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_a218e84432b4525af95164ea78a7524d7.html#a218e84432b4525af95164ea78a7524d7", null ],
+    [ "SyncStarted", "d9/d00/classTerraria_1_1Social_1_1iOS_1_1CloudSocialModule_aa18eba13b10497b7e08e0310be0dadb8.html#aa18eba13b10497b7e08e0310be0dadb8", null ]
+];

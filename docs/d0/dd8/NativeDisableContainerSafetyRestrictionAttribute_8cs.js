@@ -1,0 +1,4 @@
+var NativeDisableContainerSafetyRestrictionAttribute_8cs =
+[
+    [ "Unity.Collections.LowLevel.Unsafe.NativeDisableContainerSafetyRestrictionAttribute", "da/d4b/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeDisableContainerSafetyRestrictionAttribute.html", "da/d4b/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeDisableContainerSafetyRestrictionAttribute" ]
+];

@@ -1,0 +1,4 @@
+var interfaceSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1IContributeServerContextSink =
+[
+    [ "GetServerContextSink", "d4/d7f/interfaceSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1IContributeServerContextSink_a33bb2fa085e1d6de529fca01974a9b03.html#a33bb2fa085e1d6de529fca01974a9b03", null ]
+];

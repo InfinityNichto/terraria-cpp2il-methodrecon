@@ -1,0 +1,28 @@
+var classPersistentUserData =
+[
+    [ "PersistentUserData", "dd/d8e/classPersistentUserData_ab3d93baf738875ee012e2d5e870a3e63.html#ab3d93baf738875ee012e2d5e870a3e63", null ],
+    [ "EnsureObjects", "dd/d8e/classPersistentUserData_a4c938c23da3c18c9d2e777e0ab6c9699.html#a4c938c23da3c18c9d2e777e0ab6c9699", null ],
+    [ "GetHardBossCount", "dd/d8e/classPersistentUserData_a29de41823360c1cb57911db609417d68.html#a29de41823360c1cb57911db609417d68", null ],
+    [ "GetNormlBossCount", "dd/d8e/classPersistentUserData_afa3784a6b75acee62c25a6956b170373.html#afa3784a6b75acee62c25a6956b170373", null ],
+    [ "GetNumberOfRequiredSlimesKilled", "dd/d8e/classPersistentUserData_a37c086145ed33c3c0f2e26a4ad7a51ac.html#a37c086145ed33c3c0f2e26a4ad7a51ac", null ],
+    [ "GetNumberOfTimesKilledAllBosses", "dd/d8e/classPersistentUserData_a4152c7a1efa8fddf65187212b9388351.html#a4152c7a1efa8fddf65187212b9388351", null ],
+    [ "GetNumberOfTimesKilledPrimeBosses", "dd/d8e/classPersistentUserData_a69d5a655c673808b5edffe08e48ae8a2.html#a69d5a655c673808b5edffe08e48ae8a2", null ],
+    [ "GetProgressNumberOfTimesKilledAllBosses", "dd/d8e/classPersistentUserData_aee6ebcb219d8b9c45d8f0e1f8dc00490.html#aee6ebcb219d8b9c45d8f0e1f8dc00490", null ],
+    [ "OnKillBoss", "dd/d8e/classPersistentUserData_a83528d3a5e7689858a508c7600f472e7.html#a83528d3a5e7689858a508c7600f472e7", null ],
+    [ "ArmorCollected", "dd/d8e/classPersistentUserData_a5dca66c7d3e4a7c12b5260b3fce2bc7b.html#a5dca66c7d3e4a7c12b5260b3fce2bc7b", null ],
+    [ "BossesKilled", "dd/d8e/classPersistentUserData_a90461296e46498b75bc96a75ac5b4809.html#a90461296e46498b75bc96a75ac5b4809", null ],
+    [ "CraftingsStationsUsed", "dd/d8e/classPersistentUserData_ace8b0525e28fe0b54d9ca320e3691933.html#ace8b0525e28fe0b54d9ca320e3691933", null ],
+    [ "CurrentAirTime", "dd/d8e/classPersistentUserData_a50c6a4ca2cd59417c7e793c3683b95c2.html#a50c6a4ca2cd59417c7e793c3683b95c2", null ],
+    [ "PetBuffsSpawned", "dd/d8e/classPersistentUserData_a5476df6bfcf6cb543d3a0840cefdd460.html#a5476df6bfcf6cb543d3a0840cefdd460", null ],
+    [ "SlimeTypesKilled", "dd/d8e/classPersistentUserData_a347a4d98ad304e02594d651874a9be7c.html#a347a4d98ad304e02594d651874a9be7c", null ],
+    [ "TotalAirTime", "dd/d8e/classPersistentUserData_a618be3f520262bc7810fc7846daa9ab8.html#a618be3f520262bc7810fc7846daa9ab8", null ],
+    [ "TotalAnvilCrafting", "dd/d8e/classPersistentUserData_ae8cc90b98d2709060653c99e47bdb569.html#ae8cc90b98d2709060653c99e47bdb569", null ],
+    [ "TotalBarsCrafted", "dd/d8e/classPersistentUserData_a50cd7c0ad9d6ef31d4e52f3dabc2a0b4.html#a50cd7c0ad9d6ef31d4e52f3dabc2a0b4", null ],
+    [ "TotalGemsMined", "dd/d8e/classPersistentUserData_a7f3e6293a38b9bc246120346a49b68d6.html#a7f3e6293a38b9bc246120346a49b68d6", null ],
+    [ "TotalOresMined", "dd/d8e/classPersistentUserData_a7122599e3b67784fa0b3f1d48e337290.html#a7122599e3b67784fa0b3f1d48e337290", null ],
+    [ "TotalPicked", "dd/d8e/classPersistentUserData_af4adf8efe6b87c9761ca7caa6d578e81.html#af4adf8efe6b87c9761ca7caa6d578e81", null ],
+    [ "TotalResourcesMined", "dd/d8e/classPersistentUserData_a66152a6c16f7b3ceb2146c0ff3febf68.html#a66152a6c16f7b3ceb2146c0ff3febf68", null ],
+    [ "TotalSoilMined", "dd/d8e/classPersistentUserData_a33787b8abd0734b525948e3bbe67506a.html#a33787b8abd0734b525948e3bbe67506a", null ],
+    [ "TotalWires", "dd/d8e/classPersistentUserData_a2db718f3d99b69a77028d589dd3e2518.html#a2db718f3d99b69a77028d589dd3e2518", null ],
+    [ "TotalWoodMined", "dd/d8e/classPersistentUserData_ac50815c783c509a03b19c89b001ab0d8.html#ac50815c783c509a03b19c89b001ab0d8", null ]
+];
